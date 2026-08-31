@@ -1,0 +1,758 @@
+[
+  {
+    "uf": "AL",
+    "data": "01/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "DIFAL – Construtora – 2ª Quinzena",
+    "descricao": "Recolhimento pela empresa inscrita no CACEAL, como empresa de construção civil, do imposto devido por diferencial de alíquotas, calculado na forma do artigo 716 do RICMS/AL, até o primeiro dia útil posterior a cada quinzena de aquisição das mercadorias ou bens.",
+    "fundamentacao": "Artigo 718 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Transportador Revendedor Retalhista (TRR)",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo Transportador Revendedor Retalhista (TRR), das informações relativas às operações interestaduais que promover com combustíveis derivados de petróleo em que o imposto tenha sido retido anteriormente ou com álcool etílico anidro combustível, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso I, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "02/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Simples Nacional",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, pelo sujeito passivo por substituição inscrito no Cadastro de Contribuintes do ICMS do Estado de Alagoas (CACEAL) e optante pelo Simples Nacional, ainda que contribuinte de outra UF, até o dia dois do segundo mês subsequente ao da saída do bem ou da mercadoria.",
+    "fundamentacao": "Artigo 25, inciso III e VI, alínea \"a\", do Decreto n° 90.309/2023.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "02/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST- Complementação do ICMS-ST - Simples Nacional",
+    "descricao": "Recolhimento do complemento do imposto retido ou recolhido antecipadamente, quando o valor da operação a consumidor ou usuário final for maior que a base de cálculo utilizada para fins de substituição tributária, calculado na forma prevista no artigo 22 do Decreto n° 90.309/2023, até o dia dois do segundo mês subsequente ao da apuração, no caso de contribuinte optante pelo Simples Nacional.",
+    "fundamentacao": "Artigo 25, incisos VII, alínea \"a\", e VIII do Decreto n° 90.309/2023.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "04/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Entrada de mercadoria ou serviço - Sem emissão de NF pelo remetente",
+    "descricao": "Recolhimento pelo adquirente de mercadoria ou serviço, na hipótese do remetente não emitir a nota fiscal, até o 5º dia do mês subsequente a ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso XIV do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "04/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Operações Realizadas com Camarão In Natura – 2ª Quinzena",
+    "descricao": "Pagamento do ICMS, na qualidade de contribuinte substituto, em relação ao comerciante ou industrial que adquirir lagosta ou camarão \"in natura\" diretamente do produtor, até o 5º (quinto) dia da quinzena subsequente a ocorrência da entrada da mercadoria.",
+    "fundamentacao": "Artigo 532 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "04/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Operações Realizadas com Lagosta – 2ª Quinzena",
+    "descricao": "Pagamento do ICMS, na qualidade de contribuinte substituto, em relação ao comerciante ou industrial que adquirir lagosta ou camarão \"in natura\" diretamente do produtor relativamente as operações efetuadas na 2ª quinzena, até o 5º (quinto) dia da quinzena subsequente a ocorrência da entrada da mercadoria.",
+    "fundamentacao": "Artigo 532 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível Exclusivamente do Sujeito Passivo por Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido combustível exclusivamente do sujeito passivo por tributação monofásica, das informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido pelo regime monofásico, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso III, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "04/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento - Aquisição de mercadoria por produtores",
+    "descricao": "Recolhimento do imposto devido na saída promovida por produtor situado no Estado de Alagoas com destino a contribuinte do ICMS, exceto produtor ou extrator, estabelecido no mesmo estado, até o 5º (quinto) dia do mês subsequente ao período em que a mercadoria entrar no estabelecimento, vedada a compensação com quaisquer créditos.",
+    "fundamentacao": "Artigo 407 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "04/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento - Bagaço de Cana",
+    "descricao": "Recolhimento, pelos estabelecimentos industriais adquirentes de bagaço de cana, responsáveis pela retenção e recolhimento do imposto incidente sobre a mercadoria adquirida, bem como, pelo ICMS devido sobre o transporte da mesma, caso o referido imposto não tenha sido objeto de recolhimento pelo transportador, até o 5º dia subsequente do mês em que ocorreu a retenção.",
+    "fundamentacao": "Artigo 581, § 1º do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "07/09/2026",
+    "categoria": "FERIADO",
+    "titulo": "Independência do Brasil",
+    "descricao": "",
+    "fundamentacao": "",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas",
+    "descricao": "Recolhimento do imposto devido por diferencial de alíquotas, nas aquisições de mercadorias ou serviços por contribuintes, em outra unidade da Federação, destinadas a uso, consumo ou ativo fixo, até o 9° dia do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigos 101, inciso I e 104 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Extrator",
+    "descricao": "Recolhimento pelos estabelecimentos extratores, até o 9º (nono) dia do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso I do RICMS/AL",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Gerador",
+    "descricao": "Recolhimento pelos estabelecimentos geradores, até o 9º (nono) dia do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso I do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Indústria",
+    "descricao": "Recolhimento do ICMS pelos estabelecimentos industriais, exceto o textil, até o 9º (nono) dia do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso I do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Prestadores de Serviços de Transporte",
+    "descricao": "Recolhimento pelos estabelecimentos prestadores de serviços de transporte interestadual e intermunicipal até o 9º (nono) dia do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso I do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Produtor",
+    "descricao": "Recolhimento do ICMS pelos estabelecimentos produtores, até o 9º (nono) dia do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso I do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal -Prestadores de Serviços de Comunicação",
+    "descricao": "Recolhimento do ICMS pelos estabelecimentos prestadores de serviços de comunicação, até o 9º (nono) dia do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso I do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas - Operações Interestaduais Destinadas a Não Contribuintes – Contribuinte Outra UF",
+    "descricao": "Recolhimento do ICMS correspondente ao diferencial de alíquotas, devido pelo estabelecimento localizado em outra Unidade Federada, inscrito no Cadastro de Contribuintes do ICMS do Estado de Alagoas, que realizar operações ou prestações destinadas a não contribuinte do imposto localizado neste Estado, até o dia 9 do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 7º, § 2º do Decreto nº 46.782/2016",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Transporte Aéreo",
+    "descricao": "Recolhimento do ICMS pelos prestadores de serviços de transporte aéreo, até o 9º (nono) dia do mês subsequente ao da prestação do serviço.",
+    "fundamentacao": "Artigo 101, inciso III do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Indústria têxtil",
+    "descricao": "Recolhimento pelos estabelecimentos industriais têxteis até o 9º dia do segundo mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso II do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Retido - Prestações de serviço de comunicação realizadas por contribuinte para a Caixa Econômica Federal",
+    "descricao": "Recolhimento do imposto devido nas prestações de serviço de comunicação realizadas por contribuinte para a Caixa Econômica Federal, até o 9° (nono) dia do mês subsequente ao da prestação do serviço, mediante GNRE.",
+    "fundamentacao": "Artigo 496-C do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Prestador de serviço de transporte - Complementação",
+    "descricao": "Recolhimento, quando devido, da diferença entre o imposto devido a este Estado e o imposto pago, quando do início da prestação por empresa transportadora estabelecida e inscrita em unidade da Federação diversa, na forma do artigo 493 do RICMS/AL, até o dia 09 do mês subsequente ao da prestação do serviço.",
+    "fundamentacao": "Artigo 494, inciso II do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Substituição Tributária - Substitutos por diferimento",
+    "descricao": "Recolhimento pelos estabelecimentos substitutos por diferimento, do imposto, até o 9º dia do mês subsequente à ocorrência do fato gerador. Exceto nas operações internas, realizadas por produtores, com fumo em folha, em estado natural e beneficiado, e fumo em corda e coletores, com sucata de ferro, conforme determina o Artigo 101, §2º do RICMS/AL.",
+    "fundamentacao": "Artigo 101, inciso XIII do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Comércio",
+    "descricao": "Recolhimento pelos estabelecimentos comerciais, atacadistas ou varejistas, até o 9º dia do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso I do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Prestação de Serviço de Comunicação - Prestador localizado em outra UF",
+    "descricao": "Recolhimento pelo contribuinte, nas prestações de serviço de comunicação a que se refere o artigo 617-A do RICMS/AL, quando o tomador do serviço estiver localizado em território alagoano, inclusive em relação à recepção de som e imagem por meio de satélite (Convênio ICMS 113/2004), até o 9º (nono) dia do mês subsequente ao da prestação do serviço.",
+    "fundamentacao": "Artigo 101, inciso XIX do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Complementação do ICMS-ST",
+    "descricao": "Recolhimento do complemento do imposto retido ou recolhido antecipadamente, quando o valor da operação a consumidor ou usuário final for maior que a base de cálculo utilizada para fins de substituição tributária, calculado na forma prevista no artigo 22 do Decreto n° 90.309/2023, até o dia nove do mês subsequente ao da apuração.",
+    "fundamentacao": "Artigo 25, incisos VII, alínea \"b\", e VIII do Decreto n° 90.309/2023.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Substituição Tributária",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, pelo sujeito passivo por substituição inscrito no Cadastro de Contribuintes do ICMS do Estado de Alagoas (CACEAL), ainda que contribuinte de outra UF, bem como da parcela do frete, do seguro ou de outro encargo não incluso na composição da base de cálculo pelo sujeito passivo por substituição, de que trata o artigo 13, § 3°, do Decreto n° 90.309/2023, até o dia nove do mês subsequente ao da saída do bem ou da mercadoria.",
+    "fundamentacao": "Artigo 25, incisos I, IV e VI, alínea \"b\", do Decreto n° 90.309/2023.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Diferido - Operações Internas com Alcoóis entre os Locais de Produção e Comercialização e as Empresas Distribuidoras de Combustíveis, Petrobrás S/A",
+    "descricao": "Recolhimento do imposto diferido, nas saídas de alcoóis, pelos estabelecimentos industriais e comerciais com destino a Petróleo Brasileiro S/A (PETROBRÁS), às empresas distribuidoras de combustíveis e estabelecimentos industriais, localizados no Estado de Alagoas, até o 10º (décimo) dia do mês subsequente ao da retenção.",
+    "fundamentacao": "Artigo 586, inciso III do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Fornecimento de energia elétrica (65%)",
+    "descricao": "Recolhimento do valor do imposto apurado nas operações de fornecimento de energia elétrica, pelas empresas concessionárias de serviço público, até o 10º (décimo) dia do mês subsequente ao da ocorrência do fato gerador, em percentual não inferior a 65% (sessenta e cinco por cento) do montante do imposto.",
+    "fundamentacao": "Artigo 101, inciso XXI, alínea \"a\" do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Comércio atacadista - Sistemática de tributação",
+    "descricao": "Recolhimento pelo estabelecimento comercial atacadista credenciado junto à SEFAZ, sob o regime de tributação simplificada do ICMS, do imposto, até o dia 10º dia do mês subsequente à data da entrada da mercadoria no Estado, ou da saída da mercadoria do estabelecimento atacadista, nas hipóteses do inciso II e § 4° do artigo 9º do Decreto nº 20. 747/2012.",
+    "fundamentacao": "Artigo 10 do Decreto nº 20.747/2012.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Construção Civil - Tributação simplificada",
+    "descricao": "Recolhimento pela empresa de construção civil, optante pela sistemática de tributação simplificada, nas aquisições interestaduais de bens ou mercadorias ou no recebimento de serviços, do imposto, até o 10º dia do mês subsequente à entrada da mercadoria, bem ou serviço no território do Estado de Alagoas.",
+    "fundamentacao": "Artigo 712, inciso III do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Transporte aéreo regular (70%)",
+    "descricao": "Recolhimento parcial, em percentual não inferior a 70% (setenta por cento) do valor do imposto devido, no mês anterior ao da ocorrência dos fatos geradores, do imposto devido nas prestações de serviço de transporte aéreo, até a dia 10 (dez) do mês subsequente. O recolhimento do saldo remanescente, deve ser efetuado até o último dia do mês subsequente ao da prestação do serviço, conforme definido no artigo 642 do RICMS/AL.",
+    "fundamentacao": "Artigo 642 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS – Prestação de serviços de telecomunicações não medido",
+    "descricao": "Recolhimento do imposto devido ao Estado de Alagoas no caso de prestação de serviços de telecomunicações não medidos, com preço cobrado por período definido, quando envolver, além desta, outra Unidade da Federação, em GNRE, até o10º dia do mês subsequente à referida prestação.",
+    "fundamentacao": "Artigo 622 do RICMS/AL",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "10/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF, no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 41/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"0\", relativamente às operações realizadas no mês anterior, até o dia 10 do mês subsequente. Observadas as exceções para o referido prazo",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 41/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Serviço de Comunicação - recepção de som e imagem por meio de satélite",
+    "descricao": "Recolhimento do imposto devido, nas prestações de serviço de comunicação, referente a recepção de som e imagem por meio de satélite, quando o tomador do serviço estiver localizado em unidade federada diferente da unidade de localização da empresa prestadora do serviço, até o 10º (décimo) dia do mês subsequente ao da prestação.",
+    "fundamentacao": "Artigo 623-K do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "11/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 041/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"1\", relativamente às operações realizadas no mês anterior, até o dia 11 do mês subsequente. Observadas as exceções para o referido prazo.",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 041/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "12/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF, no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 041/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"2\", relativamente às operações realizadas no mês anterior, até o dia 12 do mês subsequente. Observadas as exceções para o referido prazo.",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 041/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "12/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD)",
+    "descricao": "Envio do arquivo digital da Escrituração Fiscal Digital (EFD), pelos estabelecimentos de contribuintes com atividades de extração de petróleo e gás natural, refino de petróleo e comércio atacadista de combustíveis, desde estabelecidos no Estado de Alagoas, e que exerçam cumulativamente ao menos duas dessas atividades, mesmo que em estabelecimentos diversos, até o dia 12 do mês subsequente ao encerramento do mês de apuração.",
+    "fundamentacao": "Artigo 12-A, inciso II, da Instrução Normativa SEF nº 19/2009.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "12/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD)",
+    "descricao": "Envio do arquivo digital da Escrituração Fiscal Digital (EFD), pelos estabelecimentos com atividade principal de distribuição de energia elétrica - código 35.14-0/00 da Classificação Nacional de Atividades Econômicas, até o dia 12 do mês subsequente ao encerramento do mês de apuração.",
+    "fundamentacao": "Artigo 12-A, inciso I, da Instrução Normativa SEF nº 19/2009.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "13/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF, no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 041/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"3\", relativamente às operações realizadas no mês anterior, até o dia 13 do mês subsequente. Observadas as exceções para o referido prazo.",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 041/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "13/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações cujo imposto tenha sido anteriormente cobrado por tributação monofásica ou retido por atribuição de responsabilidade por outros contribuintes, para fins de provisão do valor do repasse devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor efetivamente recolhido à unidade federada de origem, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "14/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF, no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 41/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"4\", relativamente às operações realizadas no mês anterior, até o dia 14 do mês subsequente. Observadas as exceções para o referido prazo.",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 41/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Entrada de Cana-de-açúcar - Arquivo Digital",
+    "descricao": "Envio do documento denominado \"Informações Analíticas das Entradas de Cana-de-açúcar\", de que trata o inciso IV do artigo 567 do RICMS/AL, até o dia 15 do mês seguinte ao de referência.",
+    "fundamentacao": "Artigo 571 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS importação - Indústria",
+    "descricao": "Recolhimento do imposto devido nas operações de recebimento de mercadoria ou bem, importados do exterior, pelos estabelecimentos industriais, na aquisição de milho, até o 15º dia do mês subsequente ao desembaraço aduaneiro.",
+    "fundamentacao": "Artigo 101, inciso VIII, alínea\"a\", item 2 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS importação- Moageiros",
+    "descricao": "Recolhimento do imposto devido na aquisição de trigo, importados do exterior, pelos estabelecimentos moageiros, até o 15° dia do mês subsequente ao desembaraço aduaneiro.",
+    "fundamentacao": "Artigo 101, Inciso VIII, alínea \"a\", item 1 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF, no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 041/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"5\", relativamente às operações realizadas no mês anterior, até o dia 15 do mês subsequente. Observadas as exceções para o referido prazo.",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 041/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Relatório - contribuintes substitutos",
+    "descricao": "Entrega do relatório discriminando todas as operações realizadas no mês anterior, por contribuintes estabelecidos no Estado de Alagoas, de que trata o artigo 49, inciso XII do RICMS/AL, até o 15º (décimo quinto) dia do mês subsequente ao que houver ocorrido a substituição tributária.",
+    "fundamentacao": "Artigo 49, inciso XII do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "16/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "DIFAL – Construtora – 1ª Quinzena",
+    "descricao": "Recolhimento do imposto devido por diferencial de alíquotas, pela empresa inscrita no CACEAL, como empresa de construção civil, calculado na forma do artigo 716 do RICMS/AL, até o primeiro dia útil posterior a cada quinzena de aquisição das mercadorias ou bens.",
+    "fundamentacao": "Artigo 718 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "16/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF, no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 041/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"6\", relativamente às operações realizadas no mês anterior, até o dia 16 do mês subsequente. Observadas as exceções para o referido prazo",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 041/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "17/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF, no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 041/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"7\", relativamente às operações realizadas no mês anterior, até o dia 17 do mês subsequente. Observadas as exceções para o referido prazo.",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 041/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Antecipação",
+    "descricao": "Recolhimento em relação ao imposto antecipado a que se refere a Lei n° 6.474/2004, pelos contribuintes, exceto contribuinte optante pelo recolhimento do Simples Nacional, até o 20° (vigésimo) dia do mês subsequente à entrada da mercadoria neste Estado.",
+    "fundamentacao": "Artigo 3º da Lei nº 6.474/2004 c/c Artigo 101, inciso XXIV, alínea \"b\" do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Atacado de Combustíveis - Complemento (20%)",
+    "descricao": "Recolhimento do valor remanescente do imposto, nas operações próprias e de substituição tributária, relativamente às atividades de comércio atacadista de combustíveis, por contribuintes estabelecidos no Estado de Alagoas, que exerçam cumulativamente ao menos 2 das atividades previstas no artigo 101, Inciso XXII, do RICMS/AL, mesmo que em estabelecimentos diversos, até o 20º (vigésimo) dia do mês subsequente ao do encerramento do período de apuração. O saldo principal deve ser recolhido até o antepenúltimo dia do mês da apuração, conforme o artigo 101, Inciso XXII, \"a” do RICMS/AL.",
+    "fundamentacao": "Artigo 101, inciso XXII, alínea \"b” do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - CONAB",
+    "descricao": "Recolhimento do ICMS devido nas saídas internas promovidas por produtor agropecuário com destino a CONAB/PAA, CONAB/PGPM, CONAB/EE e CONAB/MO, de responsabilidade da CONAB, desde que enquadrada em regime especial, até o dia 20 do mês subsequente ao da aquisição.",
+    "fundamentacao": "Artigo 631, §10 do RICMS/AL",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Empresa Brasileira de Correios e Telégrafos ECT e adquirente ou recebedor de fumo em folha em estado natural",
+    "descricao": "Recolhimento do valor do imposto, pela Empresa Brasileira de Correios e Telégrafos ECT e pelo adquirente ou recebedor de fumo em folha em estado natural, no 20º (vigésimo) dia do mês subsequente a ocorrência do fato gerador.",
+    "fundamentacao": "Artigo 101, inciso X do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Refino de Petróleo – Complemento (20%)",
+    "descricao": "Recolhimento do valor do imposto remanescente, nas operações próprias e de substituição tributária, relativamente às atividades de refino de petróleo, por contribuintes estabelecidos no Estado de Alagoas, que exerçam cumulativamente ao menos 2 das atividades previstas no caput do artigo 101, inciso XXII, do RICMS/AL, ainda que em estabelecimentos diversos, até o 20° dia do mês subsequente ao do encerramento do período de apuração. O saldo principal deve ser recolhido até o antepenúltimo dia do mês da apuração, conforme artigo 101, inciso XXII, alínea \"a” do RICMS/AL.",
+    "fundamentacao": "Artigo 101, inciso XXII, alínea \"b” do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Antecipação tributária - Simples Nacional e MEI",
+    "descricao": "Recolhimento do imposto antecipado, pelas microempresas optantes pelo Simples Nacional, inclusive o microempreendedor individual (MEI), até o 20º dia do segundo mês subsequente à entrada da mercadoria no Estado de Alagoas.",
+    "fundamentacao": "Artigo 101, inciso XXIV, alínea \"a\" do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Fornecimento de energia elétrica - Complemento (35%)",
+    "descricao": "Recolhimento do valor remanescente do imposto apurado nas operações de fornecimento de energia elétrica, pelas empresas concessionárias de serviço público, até o 20º dia do mês subsequente ao do encerramento do período de apuração.",
+    "fundamentacao": "Artigo 101, inciso XXI, alínea \"b\" do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Serviço de Telecomunicação - Complemento (20%)",
+    "descricao": "Recolhimento do valor remanescente do imposto apurado nas operações de prestações de serviço de telecomunicação por fio (serviços de telefonia fixa comutada), e sem fio (telefonia móvel) celular, até o 20º dia do mês subsequente ao do encerramento do período de apuração. O valor principal deve ser recolhido até o antepenúltimo dia do mês da apuração, conforme determina o artigo 101, inciso XI, alínea \"a\" do RICMS/AL.",
+    "fundamentacao": "Artigo 101, inciso XI, alínea \"b\" do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Atividades de extração de petróleo e gás natural - Saldo remanescente (20%)",
+    "descricao": "Recolhimento do valor do imposto, nas operações próprias e de substituição tributária, do valor equivalente a 80% do montante total do imposto apurado no mês imediatamente anterior, relativamente às atividades de extração de petróleo e gás natural por contribuintes estabelecidos no Estado de Alagoas, que exerçam cumulativamente ao menos 2 das atividades previstas no caput do artigo 101, inciso XXII do RICMS/AL, ainda que em estabelecimentos diversos, até o antepenúltimo dia do mês da apuração. O saldo remanescente deve ser recolhido até o 20° dia do mês subsequente ao do encerramento do período de apuração, conforme artigo 101, inciso XXII, \"a” do RICMS/AL.",
+    "fundamentacao": "Artigo 101, inciso XXII, alínea \"b” do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Operações Realizadas com Camarão In Natura – 1ª Quinzena",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, na qualidade de contribuinte substituto, em relação ao comerciante ou industrial que adquirir camarão \"in natura\" diretamente do produtor, até o 5º (quinto) dia da quinzena subsequente a ocorrência da entrada da mercadoria.",
+    "fundamentacao": "artigo 532 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Operações Realizadas com Lagosta – 1ª Quinzena",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, na qualidade de contribuinte substituto, em relação ao comerciante ou industrial que adquirir lagosta diretamente do produtor, até o 5º (quinto) dia da quinzena subsequente a ocorrência da entrada da mercadoria.",
+    "fundamentacao": "Artigo 532 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF, no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 041/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"8\", relativamente às operações realizadas no mês anterior, até o dia 18 do mês subsequente. Observadas as exceções para o referido prazo.",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 041/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "DAS - Simples Nacional",
+    "descricao": "Recolhimento do ICMS, devido pelo Simples Nacional, até o dia 20 (vinte) do mês subsequente àquele em que houver sido auferida a receita bruta.",
+    "fundamentacao": "Artigo 40 da Resolução CGSN 140/2018 c/c artigo 101, inciso XXIII, do RICMS/AL",
+    "nota": "Conforme o artigo 40, §3º da Resolução CGSN 140/2018, quando não houver expediente bancário no prazo estabelecido os tributos deverão ser pagos até o dia útil imediatamente posterior."
+  },
+  {
+    "uf": "AL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento - Fumo em folha em estado natural",
+    "descricao": "Recolhimento do imposto diferido, nas saídas de fumo em folha em estado natural do estabelecimento produtor com destino a empresas industriais ou cooperativa de produtores, desde que localizados em Alagoas, pelo adquirente ou recebedor do produto, até o 20º (vigésimo) dia do mês subsequente ao da ocorrência da etapa seguinte de circulação.",
+    "fundamentacao": "Artigo 537 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "19/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "REDF - Nota Fiscal Alagoana",
+    "descricao": "Registro Eletrônico de Documento Fiscal - REDF, no sistema da Nota Fiscal Alagoana, relativamente aos documentos especificados na Instrução Normativa SEF nº 041/2008. Prazo aplicável aos contribuintes cujo 8º dígito de seu número de inscrição no CNPJ seja \"9\", relativamente às operações realizadas no mês anterior, até o dia 19 do mês subsequente. Observadas as exceções para o referido prazo.",
+    "fundamentacao": "Artigo 8º e Anexo I da Instrução Normativa SEF nº 041/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "23/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações cujo imposto tenha sido anteriormente cobrado por tributação monofásica ou retido por atribuição de responsabilidade por outros contribuintes, para fins de provisão do valor do repasse devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor efetivamente recolhido à unidade federada de origem, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "25/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD)",
+    "descricao": "Envio do arquivo digital da Escrituração Fiscal Digital (EFD), exceto para as atividades previstas no artigo 12-A da Instrução Normativa SEF nº 19/2009, até o dia 25 do mês subsequente ao encerramento do mês de apuração.",
+    "fundamentacao": "Artigo 12 da Instrução Normativa SEF nº 19/2009.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "28/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Atacado de Combustíveis",
+    "descricao": "Recolhimento do valor do imposto, nas operações próprias e de substituição tributária, o valor equivalente a 80% do montante total do imposto apurado no mês imediatamente anterior, relativamente às atividades de comércio atacadista de combustíveis, por contribuintes estabelecidos no Estado de Alagoas, que exerçam cumulativamente ao menos 2 das atividades previstas no caput do artigo 101, inciso XXII do RICMS/AL, mesmo que em estabelecimentos diversos, até o antepenúltimo dia do mês da apuração. O saldo remanescente deve ser recolhido até o 20° dia do mês subsequente ao do encerramento do período de apuração, conforme artigo 101, inciso XXII, alínea \"b\" do RICMS/AL.",
+    "fundamentacao": "Artigo 101, inciso XXII, alínea \"a\" do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "28/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Refino de Petróleo (80%)",
+    "descricao": "Recolhimento do valor do imposto, nas operações próprias e de substituição tributária, o valor equivalente a 80% do montante total do imposto apurado no mês imediatamente anterior, relativamente às atividades de refino de petróleo, por contribuintes estabelecidos no Estado de Alagoas, que exerçam cumulativamente ao menos 2 das atividades previstas no caput do artigo 101, inciso XXII, mesmo que em estabelecimentos diversos, até o antepenúltimo dia do mês da apuração. O valor remanescente deve ser recolhido até o 20 dia do mês subsequente ao do encerramento do período de apuração, conforme artigo 101, inciso XXII, alínea \"b\" do RICMS/AL.",
+    "fundamentacao": "Artigo 101, inciso XXII, alínea \"a\" do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "28/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Serviço de Telecomunicação - Complemento (80%)",
+    "descricao": "Recolhimento do valor equivalente a 80% do montante total do imposto apurado no mês imediatamente anterior, devido nas prestações de serviço de telecomunicação por fio (serviços de telefonia fixa comutada), e sem fio (telefonia móvel celular), até o antepenúltimo dia do mês da apuração. Seu complemento deve ser recolhido até o 20° dia do mês subsequente ao do encerramento do período de apuração, conforme artigo 101, inciso XI, alínea \"b\" do RICMS/AL.",
+    "fundamentacao": "Artigo 101, inciso XI, alínea \"a\" do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "28/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Atividades de extração de petróleo e gás natural (80%)",
+    "descricao": "Recolhimento do valor do imposto remanescente, nas operações próprias e de substituição tributária, relativamente às atividades de extração de petróleo e gás natural por contribuintes estabelecidos no Estado de Alagoas, que exerçam cumulativamente ao menos 2 das atividades previstas no caput do artigo 101, inciso XXII do RICMS/AL, ainda que em estabelecimentos diversos, até o 20° dia do mês subsequente ao do encerramento do período de apuração. O saldo principal deve ser recolhido até o antepenúltimo dia do mês da apuração, conforme artigo 101, inciso XXII, \"b” do RICMS/AL.",
+    "fundamentacao": "Artigo 101, inciso XXII, alínea \"a\" do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "28/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação (DeSTDA)",
+    "descricao": "Envio da Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação (DeSTDA), pelos contribuintes optantes pelo Simples Nacional, exceto o MEI e o o estabelecimento impedido de recolher o ICMS pelo Simples Nacional em virtude de a empresa ter ultrapassado o sublimite estadual, até o dia 28 do mês subsequente ao encerramento do período de apuração.",
+    "fundamentacao": "Artigo 27-L da Instrução Normativa SEF nº 09/2012.",
+    "nota": "Quando o envio da referida obrigação cair em dia não útil, a entrega será até o primeiro dia útil imediatamente seguinte, conforme artigo 27-L da Instrução Normativa SEF nº 09/2012."
+  },
+  {
+    "uf": "AL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Nota Fiscal de Energia elétrica",
+    "descricao": "Entrega dos arquivos mantidos em meio eletrônico, até o último dia do mês subsequente ao do período de apuração, relativos aos seguintes documentos: Nota Fiscal/ Conta de Energia Elétrica, modelo 6, Nota Fiscal de Serviço de Comunicação, modelo 21, Nota Fiscal de Serviço de Telecomunicações, modelo 22 e qualquer outro documento fiscal relativo à prestação de serviço de comunicação ou ao fornecimento de energia elétrica.",
+    "fundamentacao": "Artigo 1° da Instrução Normativa SEF n° 25/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Nota Fiscal de Serviço de Comunicação",
+    "descricao": "Entrega dos arquivos mantidos em meio eletrônico, até o último dia do mês subsequente ao do período de apuração, relativos aos seguintes documentos: Nota Fiscal/ Conta de Energia Elétrica, modelo 6, Nota Fiscal de Serviço de Comunicação, modelo 21, Nota Fiscal de Serviço de Telecomunicações, modelo 22 e qualquer outro documento fiscal relativo à prestação de serviço de comunicação ou ao fornecimento de energia elétrica.",
+    "fundamentacao": "Artigo 1° da Instrução Normativa SEF n° 25/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Nota Fiscal de Serviço de Telecomunicação",
+    "descricao": "Entrega dos arquivos mantidos em meio eletrônico, até o último dia do mês subsequente ao do período de apuração, relativos aos seguintes documentos: Nota Fiscal/ Conta de Energia Elétrica, modelo 6, Nota Fiscal de Serviço de Comunicação, modelo 21, Nota Fiscal de Serviço de Telecomunicações, modelo 22 e qualquer outro documento fiscal relativo à prestação de serviço de comunicação ou ao fornecimento de energia elétrica.",
+    "fundamentacao": "Artigo 1° da Instrução Normativa SEF n° 25/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Demonstrativo de Apuração do ICMS - Transporte aéreo regular",
+    "descricao": "Envio, pelas empresas, nacionais e regionais, concessionárias de serviço público de transporte aéreo regular de passageiro e de cargas, que optarem pelo Regime Especial de apuração do ICMS, de que trata o artigo 632 do RICMS/AL, do Demonstrativo de Apuração do ICMS será emitido até o último dia útil do mês subsequente ao da ocorrência dos fatos geradores.",
+    "fundamentacao": "Artigo 636 do RICMS/AL.",
+    "nota": ""
+  },
+  {
+    "uf": "AL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Transporte aéreo regular - Complemento (30%)",
+    "descricao": "Recolhimento do saldo remanescente, do imposto devido no mês anterior ao da ocorrência dos fatos geradores, em relação ao transporte aéreo regular, até o último dia do mês subsequente ao da prestação do serviço. O montante não inferior a 70% (setenta por cento) do valor do imposto devido, no mês anterior ao da ocorrência dos fatos geradores, deve ser recolhido até a dia 10 (dez) do mês subsequente, conforme determina o artigo 642 do RICMS/AL.",
+    "fundamentacao": "Artigo 642 do RICMS/AL.",
+    "nota": ""
+  }
+]

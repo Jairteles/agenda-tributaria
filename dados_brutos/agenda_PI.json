@@ -1,0 +1,650 @@
+[
+  {
+    "uf": "PI",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Transportador Revendedor Retalhista (TRR)",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo Transportador Revendedor Retalhista (TRR), das informações relativas às operações interestaduais que promover com combustíveis derivados de petróleo em que o imposto tenha sido retido anteriormente ou com álcool etílico anidro combustível, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso I, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "02/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Simples Nacional",
+    "descricao": "Recolhimento do ICMS, pelo contribuinte de outra UF, possuidores de inscrição de substituto tributário, no Estado do Piauí, enquadrado no regime do Simples Nacional, até o dia 2 (dois) do segundo mês subsequente ao da saída do bem e da mercadoria.",
+    "fundamentacao": "Artigo 18, inciso III, do Anexo X do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível Exclusivamente do Sujeito Passivo por Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido combustível exclusivamente do sujeito passivo por tributação monofásica, das informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido pelo regime monofásico, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso III, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "07/09/2026",
+    "categoria": "FERIADO",
+    "titulo": "Independência do Brasil",
+    "descricao": "",
+    "fundamentacao": "",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Autopeças - Contribuinte de outra UF",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, nas operações interestaduais, com autopeças (Protocolos ICMS 41/2008 e 97/2010), até o dia 9 (nove) do mês subseqüente ao da saída das mercadorias.",
+    "fundamentacao": "Protocolos ICMS 41/2008 e 97/2010.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Sorvetes e preparados para fabricação de sorvetes em máquinas",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, nas operações com Sorvete e Com Preparados para Fabricação de Sorvete em Máquina (Protocolo ICMS 20/2005), até o dia 9 (nove) do mês subsequente ao da saída do bem e da mercadoria. Este prazo é considerado para o contribuinte inscrito como substituto tributário.",
+    "fundamentacao": "Artigo 83, inciso XXV, do RICMS/PI c/c Protocolo ICMS 20/2005.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS/ST - Produtos Diversos",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, em se tratando de sujeito passivo por substituição inscrito no cadastro de contribuinte do Estado do Piauí, até o dia nove do mês subseqüente ao da saída das mercadorias.",
+    "fundamentacao": "Artigo 18, inciso I, do Anexo X do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Substituição Tributária - Substitutos Tributários Situados em Outras UF",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o dia 9 do mês subsequente ao da ocorrência da retenção, devido pelos substitutos tributários situados em outras Unidades da Federação e possuidores de inscrição estadual no Piauí, exceto aqueles em relação aos quais Convênios e Protocolos estabeleçam período diverso.",
+    "fundamentacao": "Artigo 83, inciso XXV, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Pilhas e baterias elétricas",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, nas operações com pilhas e baterias (Protocolo ICM 18/85) até o dia 9 (nove) do mês subsequente ao da saída do bem e da mercadoria. Este prazo é considerado para o contribuinte inscrito como substituto tributário.",
+    "fundamentacao": "Artigo 83, inciso XXV, do RICMS/PI c/c Protocolo ICM 18/85.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Rações tipo \"pet\" para animais domésticos",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, nas operações com rações tipo \"pet\" para animais domésticos (Protocolo ICMS 26/2004) até o dia 9 (nove) do mês subsequente ao da saída do bem e da mercadoria. Este prazo é considerado para o contribuinte inscrito como substituto tributário.",
+    "fundamentacao": "Artigo 83, inciso XXV, do RICMS/PI c/c Protocolo ICMS 26/2004.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Tintas, vernizes e outras mercadorias da indústria química",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, nas operações com Tintas e Vernizes e Outras Mercadorias da Indústria Química (Convênio ICMS 118/2017), até o dia 9 (nove) do mês subsequente ao da saída do bem e da mercadoria. Este prazo é considerado para o contribuinte inscrito como substituto tributário.",
+    "fundamentacao": "Artigo 83, inciso XXV, do RICMS/PI c/c Convênio ICMS 118/2017.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Operações com Combustíveis Derivados ou não de Petróleo",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, exceto na importação, relativamente as Operações com Combustíveis e Lubrificantes, Derivados ou Não de Petróleo (Convênio ICMS 110/2007 e Protocolo ICMS 17/2004), até o 10° (décimo) dia subsequente ao término do período de apuração em que tiver ocorrido a operação.",
+    "fundamentacao": "Artigo 119, § 1º, do Anexo X do RICMS/PI c/c Convênio nº 110/2007.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Serviço de Comunicação - recepção de som e imagem por meio de satélite",
+    "descricao": "Recolhimento do imposto devido nas prestações de serviço de comunicação, referente a recepção de som e imagem por meio de satélite, nos termos do artigo 44, inciso X do RICMS/PI, quando o tomador do serviço estiver localizado neste Estado e a empresa prestadora do serviço em outra Unidade federada, até o 10° dia do mês subsequente ao da prestação.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"a\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas",
+    "descricao": "Recolhimento do ICMS devido por diferencial de alíquotas, relativamente a entrada, no estabelecimento de contribuinte, de mercadoria oriunda de outra unidade da Federação, destinada ao seu consumo próprio ou ativo permanente, bem como de utilização de serviço cuja prestação se tenha iniciado em outra unidade da Federação e não esteja vinculada a operação ou prestação subsequente, decorrentes de operações ou prestações promovidas por prestador de serviço de comunicação, até o dia 10 do mês subsequente a cada período de apuração, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "artigo 83, incisos I, alínea \"a\", e II, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Comunicação",
+    "descricao": "Recolhimento do imposto devido nas operações ou prestações promovidos por prestador de serviço de comunicação não medidos, envolvendo localidades situadas em diferentes Unidades da Federação e cujo preço seja cobrado por períodos definidos, em partes iguais para as Unidades da Federação envolvidas na prestação, cujo pagamento deve ser efetuado em GNRE, até o dia 10 (dez) do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 355, § 2º, do Anexo VIII do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Comunicação",
+    "descricao": "Recolhimento do imposto devido nas operações ou prestações promovidos por prestador de serviço de comunicação, até o dia 10 (dez) do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"a\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Comunicação",
+    "descricao": "Recolhimento do imposto devido nas prestações de serviço de comunicação por meio de veiculação de mensagens de publicidade e propaganda na televisão por assinatura, com tributação prevista no artigo 44, inciso XXXIV do RICMS/PI, na proporção devida ao Estado do Piauí, até o dia 10 (dez) do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"a\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas - Operações Interestaduais Destinadas a Não Contribuintes - EC 87/2015",
+    "descricao": "Recolhimento do ICMS devido por diferencial de alíquotas, nas operações e prestações interestaduais, que destinem mercadorias a consumidor final não contribuinte do ICMS, no Estado do Piauí, pelo contribuinte responsável, inscrito no CAGEP, até o décimo dia do mês subsequente à saída da mercadoria ou do bem, ou ao início da prestação de serviço, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 31, § 4°, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento",
+    "descricao": "Recolhimento do imposto diferido, quando devido pelo estabelecimento prestador de serviço de comunicação, inscrito no CAGEP sob o regime de pagamento normal, até o dia 10 (dez) do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"a\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Serviços de Telecomunicação não Medidos",
+    "descricao": "Recolhimento do imposto devido, nas prestações de serviços de telecomunicações não medidos, envolvendo localidades situadas em diferentes Unidades da Federação e cujo preço seja cobrado por períodos definidos, relativamente ao imposto devido para o Estado do Piauí, até o dia 10 (dez) do mês subsequente.",
+    "fundamentacao": "Artigo 355, § 2º, do Anexo VIII do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "13/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas",
+    "descricao": "Recolhimento do ICMS devido por diferencial de alíquotas, relativamente a entrada, no estabelecimento de contribuinte, de mercadoria oriunda de outra unidade da Federação, destinada ao seu consumo próprio ou ativo permanente, bem como de utilização de serviço cuja prestação se tenha iniciado em outra unidade da Federação e não esteja vinculada a operação ou prestação subsequente, desde que não esteja enquadrado em prazo específico, até o dia 15 do mês subsequente a cada período de apuração, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, incisos I, alínea \"c\", e II, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Restaurantes, Bares e Similares",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 15º dia do mês subsequente a cada período de apuração, pelo estabelecimento fornecedor de alimentação e/ou bebidas (restaurantes, bares e similares) inscrito no CAGEP sob o regime de pagamento normal.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - saídas de mercadorias de uso ou consumo do próprio estabelecimento ou desincorporadas do ativo fixo da empresa",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, estabelecimento de contribuinte, inscrito no CAGEP até o dia 15 do mês subsequente a cada período de apuração decorrentes de operações ou prestações em relação ao imposto devido pelos contribuintes nele mencionados, nas saídas de mercadorias de uso ou consumo do próprio estabelecimento ou desincorporadas do ativo fixo da empresa.",
+    "fundamentacao": "Artigo 83, inciso VIII, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Antecipação Tributária Com Encerramento da Fase De Tributação",
+    "descricao": "Recolhimento da antecipação do imposto com encerramento de fase, de que trata o artigo 14 do Anexo XIV do RICMS/PI, na hipótese do pagamento do imposto exigido ser diferido, nos termos dos artigos 98 a 103 do mesmo regulamento, até o dia 15 do mês subsequente a cada período de apuração, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, inciso X, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Construtoras - Aquisições Internas de Produtos Minerais",
+    "descricao": "Recolhimento do ICMS devido nas aquisições internas de produtos minerais, pelas empresas exclusivamente de construção civil, inscritas no CAGEP, até o 15º dia do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Construtoras - Diferencial de Alíquotas",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 15º dia do mês subsequente a cada período de apuração, devido pelas empresas exclusivamente de construção civil, inscritas no CAGEP, a título de diferença de alíquota, nas operações interestaduais de entradas de mercadorias no estabelecimento, para integrar o ativo imobilizado, para uso ou consumo do próprio estabelecimento ou para o fornecimento em obras, inclusive contratadas, que execute sob sua responsabilidade, bem como de utilização de serviços de transporte vinculados a essas operações.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Demais Pessoas Jurídicas",
+    "descricao": "Recolhimento do ICMS devido por diferencial de alíquotas, de entrada, no estabelecimento de contribuinte, não enquadrado em nenhuma indicação específica, inscrito no CAGEP sob o regime de pagamento normal, de mercadoria oriunda de outra Unidade da Federação, destinada ao seu consumo próprio ou ativo permanente ou na utilização de serviço cuja prestação se tenha iniciado em outra Unidade da Federação e não esteja vinculada a operação ou prestação subsequente, até o 15° dia do mês subsequente, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Estabelecimento Comercial Atacadista",
+    "descricao": "Recolhimento do ICMS devido, pelo contribuinte atacadista, credenciado no Regime Especial de Tributação, de que tratam os artigos 13 a 16 do Anexo VII do RICMS/PI até o 15° (décimo quinto) dia do mês subseqüente ao da realização das operações.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Estabelecimento Extrator",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 15° dia do mês subsequente a cada período de apuração, pelo estabelecimento de contribuinte extrator, inscrito no CAGEP sob o regime de pagamento normal.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Estabelecimento Industrial",
+    "descricao": "Recolhimento do ICMS, pelo estabelcimento industrial, por estabelecimento de contribuinte, inscrito no CAGEP sob o regime de pagamento normal, até o 15º dia do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\" do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Normal",
+    "descricao": "Recolhimento do ICMS devido, pelos estabelecimentos distribuidores e atacadistas de medicamentos e de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratório, credenciado nos termos do artigo 781 do RICMS/PI, até o dia 15 do mês subsequente ao que se referem as operações.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Produtor Rural",
+    "descricao": "Recolhimento do ICMS devido pelo produtor rural, inscrito no CAGEP sob o regime de pagamento normal, até o 15º dia do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Regime de estimativa",
+    "descricao": "Recolhimento do imposto calculado por estimativa, nos termos dos artigos 34 a 39 do RICMS/PI, até o dia 15 do mês subsequente a cada período de apuração, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Serviços de Transporte Interestadual e Intermunicipal",
+    "descricao": "Recolhimento do FECOP incidente sobre o ICMS próprio, nas prestações internas, promovidas por estabelecimento prestador de serviços de transporte interestadual e intermunicipal inscrito no CAGEP sob o regime de pagamento normal, inclusive transporte aéreo, até o 15º dia do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Serviços de Transporte Interestadual e Intermunicipal",
+    "descricao": "Recolhimento do ICMS devido pelo estabelecimento prestador de serviços de transporte interestadual e intermunicipal inscrito no CAGEP sob o regime de pagamento normal, inclusive transporte aéreo, até o 15º dia do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Substituição Tributária na Importação de Pneus Usados e/ou Recauchutados",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, pelo estabelecimento adquirente de pneus recauchutados, nas operações de importação do exterior, nas condições que especifica, até o dia 15 do mês subsequente ao da entrada das mercadorias no estabelecimento.",
+    "fundamentacao": "Artigo 13, § 3º, inciso III, do Anexo X do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Substituição Tributária nas saídas internas",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, pelo substituto deste Estado, nos termos do artigo 1.146 do RICMS/PI e demais casos de retenção interna previstos na legislação tributária, até o 15º dia do mês subsequente àquele em que ocorrer a retenção pelo substituto.",
+    "fundamentacao": "Artigo 83, inciso XVI, do RICMS/PI.",
+    "nota": "Conforme o artigo 29 da Resolução CGSN 140/2018, o estado deve observar o prazo mínimo de 60 (sessenta) dias, contado a partir do primeiro dia do mês do fato gerador da obrigação tributária, para estabelecer a data de vencimento do ICMS devido por substituição tributária, por tributação concentrada em uma única etapa (monofásica) e por antecipação tributária com ou sem encerramento de tributação, nas hipóteses em que a responsabilidade recair sobre operações ou prestações subsequentes, efetuadas por ME ou EPP optante pelo Regime do Simples Nacional. Contudo, até o presente momento o Estado do Piauí não definiu tal prazo."
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - estoque de mercadorias ou bens disponíveis, inclusive de uso, consumo ou desincorporados do ativo permanente",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, estabelecimento de contribuinte, inscrito no CAGEP até o 15° (décimo quinto) dia subsequente ao do encerramento das atividades do estabelecimento, relativamente ao estoque de mercadorias ou bens disponíveis, inclusive de uso, consumo ou desincorporados do ativo permanente nos termos do artigo 2°, § 3°, ressalvados os casos previstos no artigo 4°, inciso II.",
+    "fundamentacao": "Artigo 83, inciso VIII, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS -Prestadores de Serviço Tributado pelo ISS, com Fornecimento de Mercadoria Tributada pelo ICMS",
+    "descricao": "Recolhimento do ICMS devido pelo prestador de serviços compreendidos na competência tributária dos municípios, que envolvam fornecimento de mercadorias, e com indicação expressa da incidência do ICMS, definidos na Lei Complementar n° 116/2003, até o 15° (décimo quinto) dia do mês subseqüente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Antecipação Parcial do Imposto",
+    "descricao": "Recolhimento do imposto devido por antecipação parcial do imposto, na entrada de mercadorias, no Estado do Piauí, pelo contribuinte em situação fiscal regular perante a Secretaria da Fazenda, optante pelo regime normal de tributação, até o dia 15 (quinze) do mês subsequente àquele em que ocorrer a entrada das mercadorias neste Estado.",
+    "fundamentacao": "Artigo 83, inciso X, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Normal - Demais empresas",
+    "descricao": "Recolhimento do ICMS devido pelos demais estabelecimentos inscritos no CAGEP sob o regime de pagamento normal, que não estejam dentro de um prazo específico, até o 15º dia do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST – Entrada interestadual – Contribuintes credenciados",
+    "descricao": "Recolhimento, do imposto devido nas operações com os produtos sujeitos a substituição tributária sob a forma de antecipação total, pelo estabelecimento em situação fiscal regular perante a Secretaria da Fazenda, optante pelo regime normal de apuração do ICMS, até o dia 15 (quinze) do mês subsequente àquele em que ocorrer a entrada de mercadorias ou bens, observado o disposto nos incisos I e II do § 1°, do artigo 116 do RICMS/PI.",
+    "fundamentacao": "Artigo 83, inciso X, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento ICMS",
+    "descricao": "Recolhimento do imposto objeto de parcelamento, de que tratam os artigos 106 a 115 do RICMS/PI, até o dia 15 de cada mês subsequente ao do pagamento da primeira parcela.",
+    "fundamentacao": "Artigo 108, § 2º, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "RECOPI NACIONAL",
+    "descricao": "Informação Mensal Relativa aos Estoques, com papel destinado à impressão de livro, jornal ou periódico, mediante preenchimento de dados no campo de controle de estoques do Sistema RECOPI NACIONAL, pelo contribuinte credenciado, relativamente a cada um dos estabelecimentos credenciados, até o dia 15 (quinze) do mês subsequente.",
+    "fundamentacao": "Artigo 233 do Anexo VIII do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "SINTEGRA - Arquivo Magnético",
+    "descricao": "Envio do arquivo magnético, até o dia 15 do mês subsequente a cada período de apuração, pelo usuário de sistema eletrônico de processamento de dados.",
+    "fundamentacao": "Cláusula oitava do Convênio ICMS 57/95.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Diferencial de alíquotas (indústria)",
+    "descricao": "Recolhimento do imposto devido a título de diferença de alíquota, na entrada, no estabelecimento industrial, inscrito no CAGEP sob o regime de pagamento normal, de mercadoria oriunda de outra unidade da Federação, destinada ao seu consumo próprio ou ativo permanente, bem como a utilização de serviço cuja prestação se tenha iniciado em outra unidade da Federação e não esteja vinculada a operação ou prestação subsequente, até o dia 15 do mês subsequente a cada período de apuração, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, incisos I, alínea \"c\", e II, alínea \"a\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Fundo Estadual de Equilíbrio Fiscal (FEEF)",
+    "descricao": "Recolhimento do valor devido, em relação ao percentual do Fundo Estadual de Equilíbrio Fiscal (FUNEF), até o dia 15 do mês subsequente ao da apuração.",
+    "fundamentacao": "Artigo 2º, § 2º do Decreto nº 16.956/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Antecipação - Simples Nacional",
+    "descricao": "Recolhimento do imposto devido por antecipação parcial, pelo contribuinte em situação fiscal regular perante a Secretaria da Fazenda, optante pelo regime do Simples Nacional, exceto Microempreendedor Individual, até o dia 15 (quinze) do mês subsequente àquele em que ocorrer a entrada de mercadorias ou bens.",
+    "fundamentacao": "Artigo 3º, § 8º, do Anexo V do RICMS/PI.",
+    "nota": "1 - De acordo com o artigo 3º, § 8º, do Anexo V do RICMS/PI, este prazo, aplica-se somente em relação às mercadorias conduzidas por empresas transportadoras conveniadas com a Secretaria da Fazenda do Estado do Piauí, nos termos dos artigos 1.130 a 1.135 do mesmo regulamento. 2 - Conforme o artigo 29 da Resolução CGSN 140/2018, o estado deve observar o prazo mínimo de 60 (sessenta) dias, contado a partir do primeiro dia do mês do fato gerador da obrigação tributária, para estabelecer a data de vencimento do ICMS devido por antecipação tributária, contudo, até o presente momento o Estado do Piauí não definiu tal prazo."
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de alíquotas - Simples Nacional",
+    "descricao": "Recolhimento, do imposto devido por diferencial de alíquotas, pelo contribuinte em situação fiscal regular perante a Secretaria da Fazenda, optante pelo regime do Simples Nacional, exceto Microempreendedor Individual, até o dia 15 (quinze) do mês subsequente àquele em que ocorrer a entrada de mercadorias ou bens.",
+    "fundamentacao": "Artigo 83, inciso II, alínea \"a\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento",
+    "descricao": "Recolhimento do ICMS diferido, sem atualização monetária, até o dia 15 do mês subsequente, na hipótese de diferimento do pagamento do imposto relativo às operações com as mercadorias sujeitas ao regime de substituição tributária, sob a forma de antecipação, nos órgãos fazendários.",
+    "fundamentacao": "Artigo 83, inciso X, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento",
+    "descricao": "Recolhimento do ICMS diferido, nos termos do artigo 13 do RICMS/PI, por estabelecimento de contribuinte, inscrito no CAGEP sob o regime de pagamento normal, referenciados no inciso I, alínea \"a\" do artigo 108 do RICMS/PI, até o 15° (décimo quinto) dia do mês subsequente a cada período de apuração, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, inciso X, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento",
+    "descricao": "Recolhimento do ICMS diferido, devido pelo estabelcimento industrial, inscrito no CAGEP sob o regime de pagamento normal, até o 15º dia do mês subsequente a cada período de apuração.",
+    "fundamentacao": "Artigo 83, inciso X, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - estabelecimento comercial, inclusive o equiparado a industrial pela legislação do IPI",
+    "descricao": "Recolhimento do ICMS devido por diferencial de alíquotas, de entrada, no estabelecimento comercial, inclusive o equiparado a industrial pela legislação do IPI, inscrito no CAGEP sob o regime de pagamento normal, de mercadoria oriunda de outra Unidade da Federação, destinada ao seu consumo próprio ou ativo permanente ou na utilização de serviço cuja prestação se tenha iniciado em outra Unidade da Federação e não esteja vinculada a operação ou prestação subsequente, até o 15° dia do mês subsequente, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, inciso II, alínea \"a\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - estabelecimento comercial, inclusive o equiparado a industrial pela legislação do IPI",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, estabelecimento de contribuinte, inscrito no CAGEP sob o regime de pagamento normal até o 15° dia do mês subsequente, relativamente aos fatos geradores nele ocorridos, decorrentes de operações ou prestações promovidas por estabelecimento comercial, inclusive o equiparado a industrial pela legislação do IPI.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Diferencial de Alíquotas - Produtor Rural",
+    "descricao": "Recolhimento do ICMS devido por diferencial de alíquotas, de entrada, no estabelecimento produtor rural, inscrito no CAGEP sob o regime de pagamento normal, de mercadoria oriunda de outra Unidade da Federação, destinada ao seu consumo próprio ou ativo permanente ou na utilização de serviço cuja prestação se tenha iniciado em outra Unidade da Federação e não esteja vinculada a operação ou prestação subsequente, até o 15° dia do mês subsequente, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, inciso I, alínea\"c\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Simples Nacional",
+    "descricao": "Recolhimento, do imposto devido nas operações com os produtos sujeitos a substituição tributária sob a forma de antecipação total, pelo contribuinte em situação fiscal regular perante a Secretaria da Fazenda, optante pelo regime do Simples Nacional, exceto Microempreendedor Individual, até o dia 15 (quinze) do mês subsequente àquele em que ocorrer a entrada de mercadorias ou bens.",
+    "fundamentacao": "Artigo 83, inciso X, do RICMS/PI.",
+    "nota": "1 - De acordo com o artigo 83, inciso X, do RICMS/PI, este prazo, aplica-se somente em relação as mercadorias conduzidas por empresas transportadoras conveniadas com a Secretaria da Fazenda do Estado do Piauí. 2 - Conforme o artigo 29 da Resolução CGSN 140/2018, o estado deve observar o prazo mínimo de 60 (sessenta) dias, contado a partir do primeiro dia do mês do fato gerador da obrigação tributária, para estabelecer a data de vencimento do ICMS devido por antecipação tributária, contudo, até o presente momento o Estado do Piauí não definiu tal prazo."
+  },
+  {
+    "uf": "PI",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas",
+    "descricao": "Recolhimento do ICMS devido por diferencial de alíquotas, relativamente a entrada, no estabelecimento de contribuinte, de mercadoria oriunda de outra unidade da Federação, destinada ao seu consumo próprio ou ativo permanente, bem como de utilização de serviço cuja prestação se tenha iniciado em outra unidade da Federação e não esteja vinculada a operação ou prestação subsequente, decorrentes de operações ou prestações promovidas por estabelecimento concessionário distribuidor de energia elétrica, até o dia 20 do mês subsequente a cada período de apuração, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, incisos I, alínea \"b\", e II, do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Concessionário Distribuidor de Energia Elétrica",
+    "descricao": "Recolhimento do imposto devido pelo estabelecimento concessionário distribuidor de energia elétrica, inscrito no CAGEP sob o regime de pagamento normal, até o dia 20 do mês subsequente a cada período de apuração, relativamente aos fatos geradores nele ocorridos.",
+    "fundamentacao": "Artigo 83, inciso I, alínea \"b\", do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "21/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD)",
+    "descricao": "Envio do arquivo digital da Escrituração Fiscal Digital (EFD ICMS/IPI), pelos contribuintes do Regime Periódico de Apuração (RPA) e optantes pelo Simples Nacional, até o dia 20 do mês subsequente ao encerramento do mês da apuração.",
+    "fundamentacao": "artigo 414 do Anexo VI do RICMS/PI.",
+    "nota": "A legislação do Estado de Piauí não dispõe de prorrogação do prazo de entrega da EFD, quando a data de envio recair em dia não útil. Entretanto, com base nos calendários tributário disponibilizados na SEFAZ/PI, há prorrogações da entrega da EFD quando o dia não recaí em dia útil."
+  },
+  {
+    "uf": "PI",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - CONAB",
+    "descricao": "Recolhimento do ICMS devido pela CONAB, quando adquirir mercadoria de produtor, nos termos dos artigos 962-A a 962-H do RICMS/PI, até o dia 20 (vinte) do mês subsequente ao da aquisição.",
+    "fundamentacao": "Artigo 99 do Anexo VIII do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "23/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "25/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Boletim Mensal de Produção - BMP",
+    "descricao": "Transmissão do arquivo digital relativo ao Boletim Mensal de Produção (BMP) de cada campo de produção de petróleo e gás natural, pelas empresas concessionárias e os consórcios contratados com a Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP) para exploração e produção de petróleo ou gás natural, até o dia 25 de cada mês, a partir do mês seguinte àquele em que ocorrer o início da produção de cada campo.",
+    "fundamentacao": "Artigo 347 do Anexo VIII do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Comunicação",
+    "descricao": "Envio dos arquivos eletrônicos de controle auxiliar, que os contribuintes prestadores de serviços de comunicação que emitem seus documentos fiscais nos termos do Convênio ICMS 115/2003, nos termos do Convênio ICMS 201/2017, até o último dia do mês subsequente ao período da apuração.",
+    "fundamentacao": "Artigo 425 do Anexo VI do RICMS/PI.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Emissores de Documentos Fiscais em Via Única",
+    "descricao": "Entrega dos arquivos, até o último dia do mês subsequente ao período de apuração, gerados quando da emissão de documentos fiscais emitidos em via única por sistema eletrônico de processamento de dados para contribuintes prestadores de serviços de comunicação e fornecedores de energia elétrica, conforme.",
+    "fundamentacao": "Cláusula sexta, inciso I, do Convênio 115/2003.",
+    "nota": ""
+  },
+  {
+    "uf": "PI",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento ICMS",
+    "descricao": "Recolhimento da primeira parcela, pelo contribuinte que aderir ao parcelamento, de que tratam os artigos 106 a 115 do RICMS/PI, em até 05 dias úteis, contados da data do pedido, sendo o prazo máximo de recolhimento até último dia útil do mês da efetivação do parcelamento.",
+    "fundamentacao": "Artigo 108, § 2º, do RICMS/PI.",
+    "nota": ""
+  }
+]

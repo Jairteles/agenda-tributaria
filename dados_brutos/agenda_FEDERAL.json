@@ -1,0 +1,659 @@
+[
+  {
+    "uf": "FEDERAL",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "INSS - DARF/GPS - Fixação no Quadro de Horário",
+    "descricao": "Afixar cópia da guia de pagamento, relativamente à competência anterior, durante o período de um mês, no quadro de horário de que trata o artigo 74 da CLT. A não observância desta obrigatoriedade aplica-se a multa administrativa prevista no artigo 287 do Decreto n° 3.048/99.",
+    "fundamentacao": "art. 225, inciso VI, Decreto n° 3.048/99 (RPS).",
+    "nota": "Apesar do horário de trabalho dos empregados não mais necessitar de exposição no quadro de avisos, conforme alterou a Lei n° 13.874/2019, a legislação previdenciária não trouxe dispensa para esta obrigação, e por este motivo, aconselha-se que seja mantida tal afixação."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "03/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IOF Crédito - Apuração Decendial",
+    "descricao": "Último dia para recolhimento do Imposto sobre Operações Financeiras (IOF), referente aos fatos geradores ocorridos de 3° decêndio do mês anterior. Código do DARF: a) 7893: Crédito Pessoa Física; b) 1150: Crédito Pessoa Jurídica; c) 6895: Factoring.",
+    "fundamentacao": "Artigo 10, parágrafo único, do Decreto n° 6.306/2007.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "03/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRRF - Imposto de Renda Retido na Fonte",
+    "descricao": "Recolhimento do imposto de renda na fonte referente a juros sobre o capital próprio, aplicações financeiras, títulos de capitalização; prêmios, inclusive os distribuídos sob a forma de bens e serviços, obtidos em concursos e sorteios de qualquer espécie e lucros decorrentes desses prêmios; e multa ou qualquer vantagem, de que trata o artigo 70 da Lei n° 9.430/96, para fatos geradores ocorridos no decêndio anterior.",
+    "fundamentacao": "Artigo 70, inciso I, alínea \"b\", da Lei n° 11.196/2005.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "GFIP - Reclamatória Trabalhista",
+    "descricao": "Em caráter excepcional, até que o FGTS Digital esteja habilitado, a geração da guia do FGTS de Reclamatória Trabalhista continua pelo Conectividade Social e sistemas integrados.",
+    "fundamentacao": "Notícia do Portal do FGTS Digital.",
+    "nota": "Atenção, para informações mensais sobre a folha de pagamento (FGTS) de competências até Fevereiro/2024 a GFIP deve ser utilizada."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "04/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Salários",
+    "descricao": "Pagamento dos salários do mês anterior.",
+    "fundamentacao": "Artigos 459, § 1°, e 465, da CLT.",
+    "nota": "Se sábado for dia de trabalho, o salário pode ser quitado até o dia 05 com pagamento em moeda corrente (dinheiro)."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "04/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Salários - Trabalhador Doméstico",
+    "descricao": "Pagamento dos salários do mês anterior.",
+    "fundamentacao": "Artigo 35 da Lei Complementar nº 150/2015; artigo 2º da MP nº 1.110/2022.",
+    "nota": "Se sábado, domingo ou feriados (inclusive estaduais e/ou municipais) são dias comuns de trabalho, quando coincidir com o 7º dia do mês, e se o pagamento do salário for efetuado em dinheiro, o mesmo poderá ser quitado nesta data."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "07/09/2026",
+    "categoria": "FERIADO",
+    "titulo": "Independência do Brasil",
+    "descricao": "",
+    "fundamentacao": "",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "08/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração de Capitais Brasileiros no Exterior (CBE)",
+    "descricao": "Finaliza às 18 horas o período de entrega da declaração trimestral de Capitais Brasileiros no Exterior (CBE), referente à data-base de 30 de junho do ano corrente, pelas pessoas residentes no País, dos bens e valores que possuírem fora do território nacional que totalizem valor igual ou superior a US$ 100 milhões.",
+    "fundamentacao": "Resolução BCB n° 279/2022, artigo 14.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "10/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "INSS - Cartório de Registro Civil de Pessoas Naturais",
+    "descricao": "Comunicação do titular do Cartório de Registro Civil de Pessoas Naturais ao INSS, em até um dia útil, do registro de nascimento, natimorto, casamento e óbito, bem como, as averbações, anotações e retificações registradas.",
+    "fundamentacao": "Artigo 177 da IN PRES/INSS n° 128/2022.",
+    "nota": "A não observância desta obrigatoriedade sujeitará à multa prevista no artigo 92 da Lei n° 8.212/91."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "10/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "INSS - GPS - Envio ao Sindicato",
+    "descricao": "Encaminhamento da cópia da GPS ao Sindicato representativo da categoria profissional, referente ao recolhimento efetuado no mês anterior.",
+    "fundamentacao": "Artigo 3º da Lei nº 8.870/94 e Artigo 225, § 18, do Decreto n° 3.048/99.",
+    "nota": "Em razão do inciso V do artigo 225 do Decreto nº 3.048/99 ter sido revogado, orienta-se que a Secretaria da Receita Federal seja consultada quanto à vigência desta obrigação, e a entidade sindical quanto à data limite, ou observar o último dia útil do mês. A não observância da obrigatoriedade prevista acima sujeita a empresa à multa administrativa prevista no artigo 7º da Lei nº 8.870/94."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IPI - Cigarros",
+    "descricao": "Recolhimento do IPI relativo a cigarros (NCM 2402.20.00), referente aos fatos geradores ocorridos no mês anterior. Código do DARF: 1020 - Fumo.",
+    "fundamentacao": "Artigo 4º da Lei n° 11.933/2009.",
+    "nota": "A Portaria RFB n° 415/2024 prorrogou o prazo de recolhimento dos tributos federais com vencimento nos meses de abril, maio e junho de 2024, para até os dias 31.07.2024, 30.08.2024 e 30.09.2024, respectivamente. Esta prorrogação aplica-se exclusivamente aos contribuintes domiciliados nos municípios listados no Anexo Único, localizados no Estado do Rio Grande do Sul, para os quais foi declarado estado de calamidade pública em razão das chuvas intensas que atingiram o Estado."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRRF - Imposto de Renda Retido na Fonte",
+    "descricao": "Recolhimento do imposto de renda retido na fonte de juros de empréstimos obtidos no exterior referente ao mês anterior. Código do DARF: 5299.",
+    "fundamentacao": "Artigo 12, §§ 5º a 7º da Instrução Normativa RFB nº 1.455/2014.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "CIDE - Combustíveis",
+    "descricao": "Recolhimento da contribuição de intervenção no domínio econômico incidente sobre a comercialização de petróleo e seus derivados, gás natural, exceto sob a forma liquefeita, e seus derivados, e álcool etílico combustível relativo ao mês anterior.",
+    "fundamentacao": "Artigo 6º, parágrafo único da Lei n° 10.336/2001.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "CIDE - Remessa ao Exterior",
+    "descricao": "Recolhimento da contribuição de intervenção no domínio econômico incidente sobre a remessa de importâncias ao exterior relativo ao mês anterior.",
+    "fundamentacao": "Artigo 2º, § 5º da Lei n° 10.168/2000.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "EFD - Contribuições",
+    "descricao": "Entrega da Escrituração Fiscal Digital (EFD-Contribuições) com informações de PIS/COFINS incidentes sobre a receita, referente aos fatos geradores ocorridos no segundo mês anterior, inclusive nos casos de situação especial de extinção, incorporação, fusão e cisão total ou parcial.",
+    "fundamentacao": "Artigo 7º da Instrução Normativa RFB n° 1.252/2012.",
+    "nota": "Com o início da obrigatoriedade da EFD-Reinf, a empresa optante pela Contribuição Previdenciária sobre a Receita Bruta (CPRB), prevista nos artigos 7° e 8° da Lei n° 12.546/2011, deixou de informar o bloco \"P\" na EFD-Contribuições, passando a informar a desoneração na EFD-Reinf, conforme IN RFB n° 2.043/2021 e Nota Técnica EFD-Contribuições n° 007/2018. A escrituração no bloco \"P\" era exclusiva para pessoa jurídica optante pela CPRB."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "EFD-Reinf - Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais",
+    "descricao": "Entrega da Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais (EFD-Reinf), para todas as pessoas físicas e jurídicas obrigadas, relativa à escrituração do mês anterior.",
+    "fundamentacao": "Artigo 6º, caput e § 2º da Instrução Normativa RFB nº 2.043/2021.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "ESOCIAL - Eventos Periódicos",
+    "descricao": "Envio das informações do mês anterior de folha de pagamento e/ou de fato gerador de contribuição previdenciária. Para informações sobre o eSocial, veja a área especial desenvolvida pela Econet Editora.",
+    "fundamentacao": "artigo 25 da IN RFB nº 2.110/2002; Manual de Orientação do eSOCIAL.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "INSS - Contribuinte individual/Segurado Facultativo",
+    "descricao": "Recolhimento das contribuições ao INSS por parte dos contribuintes individuais e dos segurados facultativos, referente ao mês anterior.",
+    "fundamentacao": "Artigo 30, inciso II e § 2°, inciso I, da Lei n° 8.212/91; artigo 54 da Instrução Normativa RFB n° 2.110/2022.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IOF Crédito - Apuração Decendial",
+    "descricao": "Último dia para recolhimento do Imposto sobre Operações Financeiras (IOF), referente aos fatos geradores ocorridos de 1° decêndio do mês. Código do DARF: a) 7893: Crédito Pessoa Física; b) 1150: Crédito Pessoa Jurídica; c) 6895: Factoring.",
+    "fundamentacao": "Artigo 10, parágrafo único, do Decreto n° 6.306/2007.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IOF Crédito - Apuração Mensal",
+    "descricao": "Último dia para recolhimento do Imposto sobre Operações Financeiras (IOF), referente ao crédito concedido no mês anterior, sem valor definido a ser utilizado pelo mutuário. A apuração se dará no último dia do mês anterior, com vencimento até o terceiro dia útil subseqüente ao decêndio da cobrança. Código do DARF: a) 7893: Crédito Pessoa Física; b) 1150: Crédito Pessoa Jurídica.",
+    "fundamentacao": "Artigo 10, parágrafo único, do Decreto n° 6.306/2007.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRRF - Imposto de Renda Retido na Fonte",
+    "descricao": "Recolhimento do imposto de renda na fonte referente a juros sobre o capital próprio, aplicações financeiras, títulos de capitalização; prêmios, inclusive os distribuídos sob a forma de bens e serviços, obtidos em concursos e sorteios de qualquer espécie e lucros decorrentes desses prêmios; e multa ou qualquer vantagem, de que trata o artigo 70 da Lei n° 9.430/96, para fatos geradores ocorridos no decêndio anterior.",
+    "fundamentacao": "Artigo 70, inciso I, alínea \"b\", da Lei n° 11.196/2005.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "PIS/COFINS - Retenção. Aquisições de Autopeças",
+    "descricao": "Recolhimento do PIS e da COFINS retidos, referente aos fatos geradores ocorridos na 2ª quinzena do mês anterior.",
+    "fundamentacao": "Artigo 3º, § 5º da Lei n° 10.485/2002.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "COFINS - Instituições Financeiras e Equiparadas",
+    "descricao": "Recolhimento dos bancos comerciais, bancos de investimentos, bancos de desenvolvimento, caixas econômicas, sociedades de crédito, financiamento e investimento, sociedades de crédito imobiliário, sociedades corretoras, distribuidoras de títulos e valores mobiliários, empresas de arrendamento mercantil, cooperativas de crédito, empresas de seguros privados e de capitalização, agentes autônomos de seguros privados e de crédito e entidades de previdência privada abertas e fechadas referente ao COFINS sobre o faturamento do mês anterior. Código do DARF: 7987 - COFINS-Entidades Financeiras. Alíquota: 4%",
+    "fundamentacao": "Artigo 1º da Lei n° 11.933/2009.",
+    "nota": "O pagamento pode ser feito até o 20° dia do mês subsequente ao mês de ocorrência dos fatos geradores, quando não houver expediente bancário deverá ser pago até o dia útil imediatamente anterior."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "DAE - Doméstico / MEI / Segurado Especial",
+    "descricao": "Recolhimento do Documento de Arrecadação do eSocial sobre a folha de pagamento da competência do mês anterior.",
+    "fundamentacao": "Artigo 35 da Lei Complementar nº 150/2015; artigo 105-A da Resolução CGSN n° 140/2018; artigo 32-C, 3§, da Lei nº 8.212/91.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "FGTS - Fundo de Garantia Por Tempo de Serviço",
+    "descricao": "Recolhimento relativo ao mês anterior.",
+    "fundamentacao": "artigo 15 da Lei nº 8.036/90.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "INSS - DARF Previdenciário (Diversos)",
+    "descricao": "Recolhimento das seguintes contribuições previdenciárias e das outras entidades e fundos (terceiros) do mês anterior: - Comercialização da Produção Rural (Artigo 159, §8º, da IN RFB nº 2.110/2022); - Contribuição Previdenciária Sobre a Receita Bruta (CPRB) - Desoneração da Folha (Artigos 7°, 8°, e inciso III do 9º, todos da Lei n° 12.546/2011; artigo 5º da IN RFB nº 2.053/2021); - Contribuição retida dos Cooperados pela Cooperativa de Trabalho (Artigo 55 da IN RFB nº 2.110/2022); - Folha de Pagamento (Artigo 52 da IN RFB nº 2.110/2022); - Retenção sobre a Nota Fiscal, Fatura ou do Recibo de Prestação de Serviços entre Pessoas Jurídicas (Artigo 123 da IN RFB nº 2.110/2022).",
+    "fundamentacao": "artigo 236 da IN RFB nº 2.110/2022.",
+    "nota": "O DARF Único passou a ser utilizado a partir do mês de competência em que a entrega da DCTFWeb se tornou obrigatória ao contribuinte."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRRF - Imposto de Renda Retido na Fonte",
+    "descricao": "Recolhimento do imposto de renda na fonte retido sobre os rendimentos de salários (exceto do empregado doméstico), pró-labore, serviços de autônomos, serviços prestados por pessoas jurídicas e aluguéis, ocorridos no mês anterior.",
+    "fundamentacao": "Artigo 70, inciso I, alínea \"e\", da Lei n° 11.196/2005.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "PIS - Instituições Financeiras e Equiparadas",
+    "descricao": "Recolhimento dos bancos comerciais, bancos de investimentos, bancos de desenvolvimento, caixas econômicas, sociedades de crédito, financiamento e investimento, sociedades de crédito imobiliário, sociedades corretoras, distribuidoras de títulos e valores mobiliários, empresas de arrendamento mercantil, cooperativas de crédito, empresas de seguros privados e de capitalização, agentes autônomos de seguros privados e de crédito e entidades de previdência privada, abertas e fechadas, referente ao PIS com base no faturamento do mês anterior. Código do DARF: 4574 - PIS-Entidades Financeiras e Equiparadas. Alíquota: 0,65%",
+    "fundamentacao": "Artigo 1º da Lei n° 11.933/2009.",
+    "nota": "O pagamento pode ser feito até o 20° dia do mês subsequente ao mês de ocorrência dos fatos geradores, quando não houver expediente bancário deverá ser pago até o dia útil imediatamente anterior."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "PIS/COFINS/CSLL - Retenção na Fonte",
+    "descricao": "Recolhimento das contribuições sociais retidas na fonte (PIS/COFINS/CSLL) previsto na Instrução Normativa SRF n° 459/2004 referente aos fatos geradores ocorridos no mês anterior.",
+    "fundamentacao": "Artigo 35 da Lei n° 10.833/2003.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "20/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Dirbi - Declaração de Incentivos, Renúncias, Benefícios e Imunidades de Natureza Tributária",
+    "descricao": "Entrega da Declaração de Incentivos, Renúncias, Benefícios e Imunidades de Natureza Tributária (Dirbi), para todas as pessoas jurídicas de direito privado em geral, inclusive equiparadas, imunes, isentas e consórcios, relativa às informações do 2º mês anterior.",
+    "fundamentacao": "Artigo 5º da Instrução Normativa RFB nº 2.198/2024.",
+    "nota": "Atenção: Recomendamos, preventivamente, a antecipação da entrega para o 1º dia útil anterior."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "DAS - Simples Nacional",
+    "descricao": "Recolhimento centralizado de impostos e contribuições devidos pelas empresas optantes pelo Simples Nacional conforme Lei Complementar n° 123/2006, sobre a receita bruta do mês anterior.",
+    "fundamentacao": "Artigo 40 da Resolução CGSN n° 140/2018.",
+    "nota": "Quando não houver expediente bancário deverá ser pago até o dia útil imediatamente posterior."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "DASMEI - Microempreendedor Individual (MEI)",
+    "descricao": "Recolhimento, pelo Microempreendedor Individual (MEI), optante pelo Sistema de Recolhimento em Valores Fixos Mensais dos tributos abrangidos pelo Simples Nacional (SIMEI), do DAS, em valor fixo, conforme Lei Complementar n° 123/2006, relativo ao mês anterior.",
+    "fundamentacao": "Artigo 104 da Resolução CGSN n° 140/2018.",
+    "nota": "Quando não houver expediente bancário deverá ser pago até o dia útil imediatamente posterior."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRPJ/CSLL/PIS/COFINS - Regime Especial de Pagamento Unificado",
+    "descricao": "Recolhimento unificado do IRPJ/CSLL/PIS/COFINS com base no faturamento do mês anterior, nos seguintes códigos de receita: a) 4095: RET - Incorporação Imobiliária - Pagamento Unificado, inclusive para SCP; b) 1068: RET - Incorporação Imobiliária - PMCMV - Pagamento Unificado, inclusive para Contrato de Construção, Construção/Reforma de Creches e Pré-Escolas, Contrato de Alienação e SCP; c) 6177: Regime de Tributação Específica do Futebol (TEF) - Pagamento Unificado.",
+    "fundamentacao": "Artigo 5º da Lei n° 10.931/2004; Lei n° 11.977/2009; artigo 2º da Lei n° 12.024/2009; artigos 24 e 25 da Lei n° 12.715/2012; artigos 31 e 32 da Lei n° 14.193/2021.",
+    "nota": "O pagamento pode ser feito até o 20° dia do mês subsequente ao mês de ocorrência dos fatos geradores, quando não houver expediente bancário deverá ser pago até o dia útil imediatamente posterior."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "21/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "PGDAS-D - Programa Gerador do Documento de Arrecadação do Simples Nacional-Declaratório",
+    "descricao": "Apresentação no PGDAS-D, pelas ME e EPP optantes pelo Simples Nacional, referente as informações do mês anterior.",
+    "fundamentacao": "Artigo 38, § 2°, da Resolução CGSN n° 140/2018.",
+    "nota": "A apresentação das informações é somente para os optantes, inclusive os que estão inativos, se não for dia útil deverá ser apresentado no dia útil imediatamente posterior."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "23/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IOF Crédito - Apuração Decendial",
+    "descricao": "Último dia para recolhimento do Imposto sobre Operações Financeiras (IOF), referente aos fatos geradores ocorridos de 2° decêndio do mês. Código do DARF: a) 7893: Crédito Pessoa Física; b) 1150: Crédito Pessoa Jurídica; c) 6895: Factoring.",
+    "fundamentacao": "Artigo 10, parágrafo único, do Decreto n° 6.306/2007.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "23/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRRF - Imposto de Renda Retido na Fonte",
+    "descricao": "Recolhimento do imposto de renda na fonte referente a juros sobre o capital próprio, aplicações financeiras, títulos de capitalização; prêmios, inclusive os distribuídos sob a forma de bens e serviços, obtidos em concursos e sorteios de qualquer espécie e lucros decorrentes desses prêmios; e multa ou qualquer vantagem, de que trata o artigo 70 da Lei n° 9.430/96, para fatos geradores ocorridos no decêndio anterior.",
+    "fundamentacao": "Artigo 70, inciso I, alínea \"b\", da Lei n° 11.196/2005.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "25/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "COFINS - Faturamento",
+    "descricao": "Recolhimento das pessoas jurídicas mencionadas, referente a regimes tributários, fabricante de cigarros, refinarias de petróleo, distribuidoras de álcool, unidades de processamento de condensado/gás natural, fabricante/importador de veículos/medicamentos e demais pessoas jurídicas do recolhimento da COFINS com base no faturamento do mês anterior. Código do DARF: a) 2172: Faturamento (3% - Regime Cumulativo); b) 5856: Faturamento (7,6% - Regime Não-Cumulativo); c) 8645: Veículos - Substituição Tributária (fabricantes/importadores); d) 1840: Vendas à ZFM - Substituição Tributária; e) 0760: Cervejas - Tributação de Bebidas Frias (artigos 14 a 36 da Lei n° 13.097/2015); f) 0776: Demais bebidas - Tributação de Bebidas Frias (artigos 14 a 36 da Lei n° 13.097/2015); g) 6840: Combustíveis - Regime Especial; h) 0929: Álcool - Regime Especial (artigo 5°, § 4º, da Lei n° 9.718/98).",
+    "fundamentacao": "Artigo 1º da Lei n° 11.933/2009.",
+    "nota": "O pagamento pode ser feito até o dia 25 do mês subsequente ao mês de ocorrência dos fatos geradores, quando não houver expediente bancário deverá ser pago até o dia útil imediatamente anterior."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "25/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IPI - Produtos em Geral",
+    "descricao": "Recolhimento do IPI para todos os produtos (exceto cigarros, NCM 2402.20), referente aos fatos geradores ocorridos no mês anterior. Código do DARF: a) 0668: Bebidas do capítulo 22 da Tipi (Regime Geral); b) 0821: Bebidas Frias - Cervejas (arts. 14 a 36 da Lei n° 13.097/2015); c) 0838: Bebidas Frias - Demais Bebidas (arts. 14 a 36 da Lei n° 13.097/2015); d) 5110: Cigarros do código 2402.90.00 da Tipi; e) 0676: Veículos das posições 87.03 e 87.06 da Tipi; f) 1097: Produtos das posições 84.29, 84.32, 84.33, 87.01, 87.02, 87.04, 87.05 e 87.11 da Tipi; g) 5123: Todos os demais produtos, exceto bebidas (capítulo 22), cigarros (códigos 2402.20.00 e 2402.90.00) e os das posições 84.29, 84.32, 84.33, 87.01 a 87.06 e 87.11 da Tipi.",
+    "fundamentacao": "Artigo 262, inciso III, do RIPI/2010.",
+    "nota": "A Portaria RFB n° 415/2024 prorrogou o prazo de recolhimento dos tributos federais com vencimento nos meses de abril, maio e junho de 2024, para até os dias 31.07.2024, 30.08.2024 e 30.09.2024, respectivamente. Esta prorrogação aplica-se exclusivamente aos contribuintes domiciliados nos municípios listados no Anexo Único, localizados no Estado do Rio Grande do Sul, para os quais foi declarado estado de calamidade pública em razão das chuvas intensas que atingiram o Estado."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "25/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "PIS - Faturamento / Folha de Pagamento",
+    "descricao": "Recolhimento das pessoas jurídicas mencionadas, referente a regimes tributários, fabricante de cigarros, refinarias de petróleo, distribuidoras de álcool, unidades de processamento de condensado/gás natural, fabricante/importador de veículos/medicamentos e demais pessoas jurídicas do recolhimento do PIS com base no faturamento/folha de pagamento do mês anterior. Código do DARF: a) 8301: Folha de Pagamento (1% - Imunes, Isentas, Condomínios e Cooperativas); b) 8109: Faturamento (0,65% - Regime Cumulativo); c) 6912: Faturamento (1,65% - Regime Não-Cumulativo); d) 3703: Pessoa Jurídica Direito Público (1%); e) 8496: Veículos - Substituição Tributária (fabricantes/importadores); f) 1921: Vendas à ZFM - Substituição Tributária; g) 0679: Cervejas - Tributação de Bebidas Frias (artigos 14 a 36 da Lei n° 13.097/2015); h) 0691: Demais bebidas - Tributação de Bebidas Frias (artigos 14 a 36 da Lei n° 13.097/2015); i) 6824: Combustíveis - Regime Especial; j) 0906: Álcool - Regime Especial (artigo 5º, § 4º, da Lei n° 9.718/98).",
+    "fundamentacao": "Artigo 1º da Lei n° 11.933/2009.",
+    "nota": "O pagamento pode ser feito até o dia 25 do mês subsequente ao mês de ocorrência dos fatos geradores, quando não houver expediente bancário deverá ser pago até o dia útil imediatamente anterior."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "CSLL - Contribuição Social sobre o Lucro Líquido - Mensal",
+    "descricao": "Recolhimento da Contribuição Social sobre o Lucro Líquido (CSLL) calculada com base no Lucro Real estimativa, referente ao mês anterior.",
+    "fundamentacao": "Artigo 6º da Lei n° 9.430/96.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "CSLL - Contribuição Social sobre o Lucro Líquido - Trimestral (3ª Quota)",
+    "descricao": "Recolhimento da 3ª quota da Contribuição Social sobre o Lucro Líquido (CSLL) devida pelas pessoas jurídicas calculado com base no Lucro Real, Presumido ou Arbitrado no trimestre anterior.",
+    "fundamentacao": "Lei n° 9.430/96, art. 28.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Contribuição Sindical dos Empregados",
+    "descricao": "Efetuar o desconto autorizado da Contribuição Sindical dos Empregados admitidos do mês anterior.",
+    "fundamentacao": "Artigo 602 da CLT.",
+    "nota": "Com a Reforma Trabalhista (Lei n° 13.467/2017), a partir de 11.11.2017, a contribuição sindical torna-se opcional e seu desconto somente se dará se por prévia e expressa autorização do empregado."
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "DCTFWeb - Declaração de Débitos e Créditos Tributários Federais Previdenciários e de Outras Entidades e Fundos",
+    "descricao": "Para os contribuintes obrigados, transmissão de dados através das informações geradas nas escriturações do eSocial, EFD-Reinf, ou nos módulos integrantes do Sped, do mês anterior. A partir de 2025, o prazo de entrega foi prorrogado para até o último dia útil do mês seguinte ao da ocorrência dos fatos geradores, conforme a nova redação do artigo 6º da IN RFB n° 2.237/2024, alterado pela IN RFB n° 2.248/2025. Saiba mais sobre a DCTFWeb na área especial desenvolvida pela Econet Editora sobre o assunto.",
+    "fundamentacao": "artigo 6º da IN RFB n° 2.237/2024.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "DITR 2026",
+    "descricao": "Último dia para entrega da Declaração do Imposto sobre a Propriedade Territorial Rural (DITR) referente ao exercício de 2026.",
+    "fundamentacao": "Artigo 8° da IN RFB n° 2.330/2026.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "DME - Declaração de Operações Liquidadas com Moeda em Espécie",
+    "descricao": "Entrega da Declaração sobre Operações Liquidadas com Moedas em Espécie (DME), referente a recebimento de valores em espécie no mês anterior.",
+    "fundamentacao": "Artigos 4° e 5° da Instrução Normativa RFB n° 1.761/2017.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "DOI - Declaração sobre Operações Imobiliárias",
+    "descricao": "Entrega da Declaração sobre Operações Imobiliárias (DOI), por meio do DOI-WEB, no portal e-CAC, contendo as informações relativas ao mês anterior.",
+    "fundamentacao": "Artigo 5° da Instrução Normativa RFB n° 2.186/2024.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "DeCripto - Declaração de Criptoativos",
+    "descricao": "Entrega das informações relativas às operações realizadas no mês anterior com criptoativos pela pessoa física ou jurídica. As corretoras de criptoativos (exchange) devem prestar informações de cada usuário de seus serviços, anualmente, até o último dia útil de janeiro, relativas ao ano-calendário anterior.",
+    "fundamentacao": "Artigo 12 da Instrução Normativa RFB n° 2.291/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração de Transferência de Titularidade de Ações (DTTA)",
+    "descricao": "Entrega da Declaração de Transferência de Titularidade de Ações (DTTA) contendo as informações relativas ao 1º semestre do ano-calendário. Em situação especial de extinção, cisão total, fusão ou incorporação, a entrega deve ser no mesmo período.",
+    "fundamentacao": "Artigo 4º da Instrução Normativa RFB nº 892/2008.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "INSS - Parcelamento para Ingresso no Simples Nacional",
+    "descricao": "Recolhimento das contribuições para o INSS para fins do ingresso no Simples Nacional. O contribuinte poderá optar pelo parcelamento dos débitos das contribuições previdenciárias em até 100 prestações mensais e sucessivas, com vencimento no último dia útil de cada mês. A GPS será no código 4359 e o valor de cada parcela não poderá ser inferior a R$ 100,00.",
+    "fundamentacao": "Artigo 79 da Lei Complementar n° 123/2006; artigo 7°, § 3°, da Instrução Normativa RFB n° 902/2008; Ato Declaratório Executivo CODAC n° 46/2013.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRPF - Imposto de Renda Pessoa Física - Alienação de Bens e Direitos",
+    "descricao": "Recolhimento do imposto de renda pela pessoa física que auferiu ganhos de capital na alienação de bens e direitos no mês anterior. Código do DARF: 4600.",
+    "fundamentacao": "Artigo 21, § 1°, da Lei n° 8.981/95.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRPF - Imposto de Renda Pessoa Física - Carnê-Leão",
+    "descricao": "Recolhimento do imposto de renda pela pessoa física que recebeu de outra pessoa física rendimentos do trabalho e de capital no mês anterior. Código do DARF: 0190.",
+    "fundamentacao": "Artigo 6°, inciso II, da Lei n° 8.383/91.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRPF - Imposto de Renda Pessoa Física - Declaração de Ajuste Anual (5ª Quota)",
+    "descricao": "Recolhimento da 5ª quota da DIRPF 2026, com acréscimo de juros da Selic acumulada do mês seguinte ao prazo da entrega até o mês anterior ao pagamento, acrescida de 1%. Código do DARF: 0211.",
+    "fundamentacao": "Artigo 12 da Instrução Normativa RFB n° 2.312/2026.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRPF - Imposto de Renda Pessoa Física - Operações em Bolsa",
+    "descricao": "Recolhimento do imposto de renda devido sobre ganhos líquidos, por pessoas físicas e jurídicas, inclusive isentas, em operações na bolsa de valores, de mercadorias, de futuro e assemelhados, bem como em alienações de ouro, ativo financeiro e de participações societárias, fora da bolsa, auferidos no mês anterior.",
+    "fundamentacao": "Artigo 56, § 5°, da Instrução Normativa RFB n° 1.585/2015.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRPJ - Imposto de Renda Pessoa Jurídica - Mensal",
+    "descricao": "Recolhimento do Imposto de Renda Pessoa Jurídica (IRPJ) calculado com base no Lucro Real estimativa, referente ao mês anterior.",
+    "fundamentacao": "Artigo 6º da Lei n° 9.430/96.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRPJ - Imposto de Renda Pessoa Jurídica - Simples Nacional - Ganho de Capital",
+    "descricao": "Recolhimento do imposto de renda, devido pelas empresas optantes pelo Simples Nacional, incidente sobre os ganhos de capital (lucros) obtidos na alienação de bens do ativo no mês anterior. Código do DARF: 0507.",
+    "fundamentacao": "Artigo 5°, inciso V, alínea \"b\", da Resolução CGSN n° 140/2018.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRPJ - Imposto de Renda Pessoa Jurídica - Trimestral (3ª Quota)",
+    "descricao": "Recolhimento da 3ª quota do Imposto de Renda Pessoa Jurídica (IRPJ) devido pelas pessoas jurídicas calculado com base no Lucro Real, Presumido ou Arbitrado no trimestre anterior.",
+    "fundamentacao": "Artigo 5º da Lei nº 9.430/96.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "IRRF - Imposto de Renda Retido na Fonte - Fundos de Investimentos Imobiliários",
+    "descricao": "Recolhimento do imposto de renda na fonte referente a rendimentos e ganhos de capital distribuídos pelos Fundos de Investimento Imobiliário, para fatos geradores ocorridos no mês anterior.",
+    "fundamentacao": "Artigos 17 e 18 da Lei n° 8.668/93; artigo 70, inciso I, da Lei n° 11.196/2005; artigo 35, § 3°, da Instrução Normativa RFB n° 1.585/2015.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "PIS/COFINS - Retenção. Aquisições de Autopeças",
+    "descricao": "Recolhimento do PIS e da COFINS retidos, referente aos fatos geradores ocorridos na 1ª quinzena do mês corrrente.",
+    "fundamentacao": "Artigo 3º da Lei n° 10.485/2002.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento - Lei nº 11.941/2009 (Reabertura)",
+    "descricao": "Recolhimento da parcela da reabertura do parcelamento da Lei n° 11.941/2009, referente a tributos e contribuições administrados pela RFB/PGFN.",
+    "fundamentacao": "Artigos 1º a 13 da Lei n° 11.941/2009; artigo 17 da Lei n° 12.865/2013; Portaria Conjunta PGFN/RFB n° 07/2013.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento - Lei nº 12.865/2013, artigo 40",
+    "descricao": "Recolhimento da parcela relativa ao parcelamento da Lei n° 12.865/2013, referente a IRPJ/CSLL sobre lucros, enviados por controlada/coligada localizadas no exterior, administrados pela RFB/PGFN.",
+    "fundamentacao": "Artigo 40 da Lei n° 12.865/2013; Portaria Conjunta PGFN/RFB n° 09/2013.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento - Lei nº 12.996/2014, artigo 2°",
+    "descricao": "Recolhimento da parcela da reabertura do parcelamento da Lei n° 11.941/2009 pelo artigo 2° da Lei n° 12.996/2014, referente a tributos e contribuições administrados pela RFB/PGFN.",
+    "fundamentacao": "Artigo 2º da Lei n° 12.996/2014; Portaria Conjunta PGFN/RFB n° 13/2014.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento - PERT - Programa Especial de Regularização Tributária",
+    "descricao": "Recolhimento da parcela relativa ao Programa Especial de Regularização Tributária (PERT) junto à RFB/PGFN.",
+    "fundamentacao": "Lei nº 13.496/2017; artigo 4º, § 4º, da Instrução Normativa RFB n° 1.711/2017; artigos 4º e 5º da Portaria PGFN n° 690/2017.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento - PRR - Programa de Regularização Tributária Rural",
+    "descricao": "Recolhimento do parcelamento do Programa de Regularização Tributária Rural (PRR) junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.",
+    "fundamentacao": "Medida Provisória n° 793/2017; artigo 6º da Instrução Normativa RFB n° 1.728/2017; artigo 8º da Portaria PGFN nº 894/2017.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento - PRT - Programa de Regularização Tributária",
+    "descricao": "Recolhimento da parcela do parcelamento do Programa de Regularização Tributária (PRT) junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.",
+    "fundamentacao": "Medida Provisória n° 766/2017; artigo 3º, § 5º, e artigos 4º e 9º da Instrução Normativa RFB n° 1.687/2017; artigo 5º da Portaria PGFN nº 152/2017.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento - REFIS",
+    "descricao": "Recolhimento da parcela relativa ao REFIS, pelas pessoas jurídicas optantes pelo programa na forma de parcelamento vinculado à receita bruta e parcelamento alternativo.",
+    "fundamentacao": "Artigo 2º, § 4º, da Lei n° 9.964/2000.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento - SIMEI",
+    "descricao": "Recolhimento da parcela do parcelamento especial de débitos apurados no Regime de Recolhimento Simei devido pelo MEI, optante pelo Simples Nacional, abrangendo até competência de maio/2016, solicitado na RFB.",
+    "fundamentacao": "Artigo 4°, § 3°, da Instrução Normativa RFB n° 1.713/2017.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento - Simples Nacional (ME, EPP e MEI)",
+    "descricao": "Recolhimento da parcela relativa aos débitos apurados no Regime Especial do Simples Nacional (ME e EPP) e pelo Sistema de Recolhimento Simei (MEI).",
+    "fundamentacao": "Artigo 7º, § 3º, da Instrução Normativa RFB n° 1.508/2014.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento Especial - SIMEI (PERT-SN)",
+    "descricao": "Recolhimento da parcela relativa ao Programa Especial de Regularização Tributária das Microempresas e Empresas de Pequeno Porte optantes pelo Simples Nacional (Pert-SN) Microempreendedor Individual.",
+    "fundamentacao": "Lei Complementar nº 162/2018; Resolução CGSN nº 139/2018; artigo 4º da Portaria PGFN nº 38/2018.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento Especial - Simples Nacional",
+    "descricao": "Recolhimento da parcela do parcelamento especial de débitos apurados no Regime Especial do Simples Nacional abrangendo até competência de maio/2016, solicitado na PGFN e na RFB.",
+    "fundamentacao": "Portaria PGFN n° 1.110/2016, art. 4°, § 2°; artigo 5º, § 3º, da Instrução Normativa RFB n° 1.677/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento Especial - Simples Nacional (PERT-SN)",
+    "descricao": "Recolhimento da parcela relativa ao Programa Especial de Regularização Tributária das Microempresas e Empresas de Pequeno Porte optantes pelo Simples Nacional (Pert-SN).",
+    "fundamentacao": "Lei Complementar nº 162/2018; Resolução CGSN nº 138/2018.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Regime Regular de IBS e CBS no Simples Nacional (Reforma Tributária) - Opção",
+    "descricao": "Opção para apuração e recolhimento de IBS e CBS pelo regime regular pelos optantes pelo Simples Nacional, com efeito para o 1° semestre do ano-calendário subsequente.",
+    "fundamentacao": "Artigo 13, § 10 da Lei Complementar n° 123/2006; artigo 2° da Resolução CGSN n° 186/2026.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "SCE-IED",
+    "descricao": "Prazo final para entrega de Declaração Econômico-Financeira trimestral, no módulo Prestação de Informações de Capital Estrangeiro - Investimento Estrangeiro Direto (SCE-IED), destinada aos receptores de investimento estrangeiro direto com ativos totais de valor igual ou superior a R$ 300.000.000,00, referente à data-base de 30 de junho do ano corrente.",
+    "fundamentacao": "Resolução BCB n° 278/2022, artigo 41.",
+    "nota": ""
+  },
+  {
+    "uf": "FEDERAL",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Simples Nacional - Opção",
+    "descricao": "Opção pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devido pela Microempresa e Empresa de Pequeno Porte (Simples Nacional), com efeito a partir do ano-calendário subsequente.",
+    "fundamentacao": "Artigo 16, § 2° da Lei Complementar n° 123/2006; artigo 1° da Resolução CGSN n° 186/2026.",
+    "nota": ""
+  }
+]

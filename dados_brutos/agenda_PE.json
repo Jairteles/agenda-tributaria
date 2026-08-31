@@ -1,0 +1,560 @@
+[
+  {
+    "uf": "PE",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Transportador Revendedor Retalhista (TRR)",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo Transportador Revendedor Retalhista (TRR), das informações relativas às operações interestaduais que promover com combustíveis derivados de petróleo em que o imposto tenha sido retido anteriormente ou com álcool etílico anidro combustível, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso I, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "02/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Simples Nacional",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, relativo às operações subsequentes, promovido por contribuinte optante pelo regime do Simples Nacional localizado em outra Unidade da Federação e inscrito no Cadastro de Contribuintes do Estado de Pernambuco (Cacepe), até o dia dois do segundo mês subsequente ao da saída da mercadoria.",
+    "fundamentacao": "Artigo 12, inciso II, alínea \"a\", item 1, do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "02/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Simples Nacional",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, relativo às operações subsequentes promovidas pelo contribuinte substituto optante do Simples Nacional, exceto para os casos que em que a legislação estabelece prazo específico, até o dia dois do segundo mês subsequente.",
+    "fundamentacao": "Artigo 12, inciso I, alínea \"a\", item 2, do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível Exclusivamente do Sujeito Passivo por Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido combustível exclusivamente do sujeito passivo por tributação monofásica, das informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido pelo regime monofásico, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso III, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "07/09/2026",
+    "categoria": "FERIADO",
+    "titulo": "Independência do Brasil",
+    "descricao": "",
+    "fundamentacao": "",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Importações",
+    "descricao": "Recolhimento do imposto não retido ou retido a menor pelo contribuinte-substituto, nas operações com gipsita, gesso e produtos derivados do gesso, deve ser efetuado pelo adquirente, na hipótese de operação interna, até o quinto dia útil do mês subsequente ao da aquisição da mercadoria.",
+    "fundamentacao": "Artigos 289-F, inciso II, do Livro I, da Parte Específica do RICMS/PE c/c artigo 12, inciso III, alínea \"a\", do Anexo 37 do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Responsabilidade Solidária",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, em relação às operações internas, pelo adquirente, na hipótese de o documento fiscal próprio não indicar o valor do imposto, objeto da substituição, ou indicá-lo a menor, quando o respectivo destaque for exigido pela legislação tributária, até o dia cinco do mês subsequente ao da entrada da mercadoria.",
+    "fundamentacao": "Artigo 12, inciso I, alínea \"e\", do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, relativo às operações antecedentes, salvo disposição expressa em contrário, deve ser efetuado até o 5º dia útil do mês subsequente aquele em que ocorrer a respectiva entrada no estabelecimento do contribuinte substituto.",
+    "fundamentacao": "Artigo 361-B, inciso I, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento",
+    "descricao": "Recolhimento do imposto diferido, sem prazo específico, relativamente à entrada, até o dia cinco do mês subsequente àquele em que ocorrer a referida entrada.",
+    "fundamentacao": "Artigo 33, inciso I, do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Derivados de Farinha de Trigo",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 5° dia útil do mês subsequente àquele em que ocorrer a entrada da mercadoria no estabelecimento, quando se tratar de mercadoria proveniente de Unidade da Federação não-signatária do Protocolo ICMS 50/2005 e o adquirente for credenciado, nos termos de portaria da Secretaria da Fazenda, para recolhimento do imposto como substituto pelas entradas de relativo às aquisições dos produtos alimentícios derivados de farinha de trigo ou de suas misturas.",
+    "fundamentacao": "Artigo 4°, inciso I da Portaria SF n° 144/2012.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Importações",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, relativo às operações subsequentes, salvo disposição expressa em contrário, quando se tratar de operação de importação, na hipótese de contribuinte credenciado, com a finalidade de postergação do recolhimento do referido imposto, até o nono dia do mês subsequente aquele em que tenha ocorrido a operação de importação.",
+    "fundamentacao": "Artigo 359, inciso I, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Importações",
+    "descricao": "Recolhimento, relativamente à aquisição no exterior, na hipótese de contribuinte credenciado, com a finalidade de postergação do recolhimento do referido imposto, até o 9º dia do mês subsequente aquele em que tenha ocorrido a operação de importação, relativamente as importações com gipsita, gesso e produtos derivados do gesso.",
+    "fundamentacao": "Artigos 289-F, inciso II, do Livro I, da Parte Específica do RICMS/PE c/c artigo 12, inciso III, alínea \"a\", do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Importações",
+    "descricao": "Recolhimento do ICMS antecipado relativo à importação de mercadoria do exterior deve ser efetuado até o dia 9 do mês subsequente àquele em que tenha ocorrido a operação de importação, na hipótese de contribuinte credenciado para a postergação do prazo de recolhimento do referido imposto.",
+    "fundamentacao": "Artigo 359, inciso I, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Importações",
+    "descricao": "Recolhimento do ICMS antecipado quando se tratar de importação do exterior até o dia 9 (nove) do mês subsequente àquele em que tenha ocorrido a operação de importação, na hipótese de contribuinte credenciado para a postergação do prazo de recolhimento do referido imposto, relativamente as operações com produtos de padaria e confeitaria.",
+    "fundamentacao": "Artigo 392, inciso III, do Livro I, da Parte Específica do RICMS/PE c/c artigo 359, inciso I, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Importações",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, relativo às operações subsequentes, a partir de 01.04.2017, salvo disposição expressa em contrário, conforme determina o artigo 5º-A do Decreto n° 19.528/96, quando se tratar de operação de importação, na hipótese de contribuinte credenciado, para postergação do recolhimento do referido imposto, até o dia 9 do mês subsequente àquele em que tenha ocorrido a operação de importação.",
+    "fundamentacao": "Artigo 12, inciso III, alínea \"a\", do Anexo 37 do RICMS/PE c/c artigo 289-F, inciso II, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Levantamento de estoque - produtos sem retenção na fonte ou antecipação do ICMS",
+    "descricao": "Recolhimento do imposto, relativamente ao estoque de mercadoria existente na data anterior ao ingresso do contribuinte na sistemática de substituição tributária, até o dia 9 (nove) do segundo mês subsequente àquele em que tenha havido o levantamento de estoque.",
+    "fundamentacao": "Artigo 393, parágrafo único, do Livro I, da Parte Específica do RICMS/PE",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Demais Produtos - Operações Interestaduais",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, relativo às operações subsequentes, promovido por contribuinte localizado em outra Unidade da Federação e inscrito no Cadastro de Contribuintes do Estado de Pernambuco (Cacepe), até o dia nove do mês subsequente ao da saída da mercadoria, quando não optante do Simples Nacional.",
+    "fundamentacao": "Artigo 12, inciso II, alínea \"a\", item 2, do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Operações Internas",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, em relação às operações internas para as quais não seja definido prazo específico, até o dia nove do mês subsequente ao da saída da mercadoria do estabelecimento do contribuinte substituto.",
+    "fundamentacao": "Artigo 12, inciso I, alínea \"d\", do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Substituição Tributária - Produtos Farmacêuticos",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 9º dia do mês subsequente àquele em que ocorrer a saída, do estabelecimento credenciado nos termos do artigo 3°, inciso II do Decreto 28.247/2005, inscrito no CACEPE sob o regime normal de apuração do imposto, nos códigos 4644-3/01, 4645-1/01, 4664-8/00, 4646-0/02 ou 4773-3/00 da Classificação Nacional de Atividades Econômicas - CNAE, que opte por adotar sistemática simplificada de apuração e recolhimento do ICMS, relativamente aos produtos farmacêuticos referidos.",
+    "fundamentacao": "Artigo 6-E, inciso II, alínea \"b\", do Decreto 28.247/2005.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Energia Elétrica",
+    "descricao": "Envio de arquivo digital relativo ao consumo de Energia Elétrica adquirida em Ambiente de Contratação Livre, por distribuidora de energia elétrica estabelecida neste Estado até o dia 09 (nove) do mês subsequente àquele em que a energia elétrica tenha sido consumida, por meio do sistema GML, disponibilizado na ARE Virtual, na página da Sefaz na Internet.",
+    "fundamentacao": "Artigo 413, inciso I, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Importação",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, relativamente à operação subsequente, na hipótese de contribuinte credenciado com a finalidade de postergação do recolhimento do imposto, nos termos do artigo 37 do RICMS/PE, até o dia nove do mês subsequente àquele em que tenha ocorrido a operação de importação.",
+    "fundamentacao": "Artigo 12, inciso III, alínea \"a\", do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Simples Nacional",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, relativo às operações subsequentes promovidas pelo contribuinte substituto optante do Simples Nacional, desde que industrial ou comerciante, quando este for o real remetente da mercadoria, até o dia nove do segundo mês subsequente ao da respectiva saída.",
+    "fundamentacao": "Artigo 12, inciso I, alínea \"a\", item 1 e § 3°, do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Distribuidores de Gás, Combustíveis e Demais Derivados de Petróleo",
+    "descricao": "Na hipótese de saída isenta ou não tributada de AEAC, inclusive para a Zona Franca de Manaus e para as Áreas de Livre Comércio, o imposto diferido deve ser recolhido pela distribuidora de combustível até o dia 10 (dez) do mês subsequente à respectiva saída.",
+    "fundamentacao": "Artigo 434, § 1°, inciso II, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Serviço de Comunicação",
+    "descricao": "Recolhimento do ICMS pela a empresa prestadora de serviço de comunicação, até o 10º dia do mês subsequente ao da prestação, quando o tomador do serviço estiver localizado neste Estado e a empresa prestadora do serviço em outra Unidade da Federação.",
+    "fundamentacao": "Artigo 97, inciso II, do Livro I, da Parte Geral do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Combustíveis e lubrificantes",
+    "descricao": "Recolhimento do ICMS antecipado retido pelo contribuinte-substituto ou devido pelo contribuinte na operação interna, sem atualização monetária, deve ser efetuado até o dia 10 do mês subsequente àquele em que ocorrer a saída da mercadoria do estabelecimento do contribuinte-substituto, salvo o disposto no artigo 422, inciso I, alínea \"a\" do RICMS/PE.",
+    "fundamentacao": "Artigo 422, inciso I, alínea \"c\", do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Serviço de Comunicação - Envio de Informações",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 10º dia do mês subsequente ao da prestação, pelo estabelecimento prestador de serviço de comunicação, relativamente à recepção de som e imagem por meio de satélite, quando o tomador do serviço estiver localizado neste Estado e a empresa prestadora do serviço em outra Unidade da Federação.",
+    "fundamentacao": "Cláusula primeira do Convênio nº 010/98",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "10/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "GIA-ST",
+    "descricao": "Envio da GIA-ST, a ser remetida pelo sujeito passivo por substituição tributária, até o dia 10 (dez) do mês subsequente ao da apuração do imposto, ainda que no período não tenham ocorrido operações sujeitas à substituição tributária.",
+    "fundamentacao": "Artigo 34, inciso I, alínea \"a\", do Anexo 37 do RICMS/PE c/c cláusula décima, § 4°, do Ajuste SINIEF 04/93.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "13/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Importações",
+    "descricao": "Recolhimento do ICMS, relativo à importação de mercadoria e à respectiva prestação de serviço de transporte deve ser recolhido no mesmo prazo previsto para o recolhimento do imposto apurado mensalmente (artigo 23), na hipótese de operação realizada por contribuinte credenciado nos termos do artigo 37, exceto o disposto no seu § 2º.",
+    "fundamentacao": "Artigos 23 e 36, inciso I, do Livro I, da Parte Geral do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Estabelecimento Industrial",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 15º dia do mês subsequente àquele em que ocorrer o fato gerador, pelo estabelecimento industrial inscrito no CACEPE com os códigos da CNAE-Fiscal especificados no artigo 24, inciso I, alínea \"a\" do RICMS/PE.",
+    "fundamentacao": "Artigo 24, inciso I, alínea \"a\", do Livro I, da Parte Geral do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Estabelecimento de Serviço de Transporte",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 15º dia do mês subsequente àquele em que ocorrer o fato gerador, pelo estabelecimento prestador de serviço de transporte, inscrito no Cacepe sob o regime normal de apuração do imposto.",
+    "fundamentacao": "Artigo 81, inciso I, do Livro I, da Parte Geral do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Fornecimento de Energia Elétrica - Complementação",
+    "descricao": "Recolhimento do imposto calculado sobre a parcela do montante da subvenção, homologado para cada período fiscal, que exceder o limite indicado no § 4° do artigo 396 do RICMS/PE, relativamente ao complemento até o dia 15.",
+    "fundamentacao": "Artigo 401, do Livro I, da Parte Específica do RICMS/PE; Artigo 398, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Normal",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, paras as demais hipóteses sem tratamento específico até o 15º dia do mês subsequente àquele em que ocorrer o fato gerador.",
+    "fundamentacao": "Artigo 23, do Livro I, da Parte Geral do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Prestador de serviço de transporte",
+    "descricao": "Recolhimento pelo Agente de Navegação Marítima, inscrito no Cacepe, na qualidade de contribuinte-substituto, relativamente à prestação de serviço de transporte marítimo intermunicipal ou interestadual efetuada por prestador não inscrito no Cacepe e não compreendido na hipótese do inciso II do artigo 81, do Livro I da Parte Geral do RICMS/PE, até o dia 15 (quinze) do mês subsequente àquele em que ocorrer o fato gerador, observado o disposto no § 3° do mesmo artigo.",
+    "fundamentacao": "Artigo 81, inciso III, do Livro I, da Parte Geral do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "SINTEGRA - Substituto estabelecido em outra UF",
+    "descricao": "Entrega até o dia 15 do mês subsequente ao da realização das operações, arquivo magnético com registro fiscal das operações interestaduais efetuadas no mês anterior, inclusive daquelas não alcançadas pelo regime de substituição tributária, nos termos da legislação vigente.",
+    "fundamentacao": "Artigo 34, inciso I, alínea \"b\", do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD)",
+    "descricao": "Entrega do arquivo digital relativo à Escrituração Fiscal Digital (EFD ICMS/IPI), contendo a totalidade das informações necessárias à apuração do ICMS, bem como de outras informações de interesse do Fisco, pelo contribuinte do ICMS ou ISSQN, inscrito no Cadastro de Contribuintes do Estado de Pernambuco (CACEPE) sob o regime normal de apuração, referente ao mês anterior, até o dia 15 do mês subsequente ao período fiscal a que se referir.",
+    "fundamentacao": "Artigo 5º e Anexo 4 da Portaria SF nº 126/2018.",
+    "nota": "Na hipótese de o prazo recair em dia não útil, este será postergado para o primeiro dia útil imediatamente seguinte, conforme determina o § 1º do artigo 5º da Portaria SF nº 126/2018."
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas - Operações Interestaduais Destinadas a Não Contribuintes - EC 87/2015",
+    "descricao": "Recolhimento do ICMS correspondente ao percentual de 100% do diferencial de alíquotas, quando da venda à consumidor final não contribuinte do ICMS localizado no Estado de Pernambuco, até o 15º dia do mês subsequente à saída do bem ou ao início da prestação de serviço de transporte.",
+    "fundamentacao": "Cláusula sexta, § 2°, do Convênio ICMS 236/2021 c/c artigo 103-E, inciso I, do RICMS/PE",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento",
+    "descricao": "Recolhimento, pelo estabelecimento comercial, do imposto diferido nas operações com algodão em rama e bagas de mamona ou sisal, até o dia 15 (quinze) do mês subsequente ao da saída mencionada no artigo 279, inciso I, do Livro I, da Parte Específica do RICMS/PE.",
+    "fundamentacao": "Artigo 280, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferimento",
+    "descricao": "Recolhimento do ICMS diferido nas sucessivas saídas internas de milho em grão destinado à industrialização, procedentes deste Estado, para o momento da entrada em estabelecimento comercial, na hipótese de a saída do milho ocorrer para estabelecimento distinto daquele industrializador referido no inciso I do artigo 304, do Livro I, da Parte Específica do RICMS/PE, até o dia 15 do mês subsequente ao da saída.",
+    "fundamentacao": "Artigo 304, § 1º, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Distribuidora de Energia elétrica",
+    "descricao": "Recolhimento do ICMS sobre a Subvenção da Tarifa de Energia Elétrica no Fornecimento aos Usuários Referidos no artigo 1° do Decreto Federal n° 7.891/2013, sem atualização monetária, até o 15º dia do mês subsequente àquele em que ocorrer o fato gerador, para o pagamento do ICMS pela distribuidora de energia elétrica.",
+    "fundamentacao": "Artigo 404, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST – Transporte",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 15° dia do mês subsequente àquele em que ocorrer o fato gerador, pelo tomador do serviço, inscrito no Cacepe, na qualidade de contribuinte-substituto, na hipótese de contratação de prestador não inscrito no Cacepe, observadas as condições previstas no artigo 81, §2º do RICMS/PE.",
+    "fundamentacao": "Artigo 81, inciso II, do Livro I, da Parte Geral do RICMS/PE",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Fundo Estadual de Equilíbrio Fiscal - FEEF",
+    "descricao": "Recolhimento depósito destinado ao FEEF calculado mediante a aplicação do percentual de 10% (dez por cento) sobre o valor do respectivo incentivo ou benefício utilizado em cada período fiscal de apuração do imposto, até dia 20º do mês subsequente.",
+    "fundamentacao": "Artigo 2º, § 3º, Inciso I do Decreto nº 43.346/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Estabelecimento Industrial",
+    "descricao": "Recolhimento do imposto relativo à apuração normal e daquele apurado de forma substitutiva ao sistema normal, relativamente a estabelecimento de industrial, até o dia 20 (vinte) do mês subsequente, contados a partir da ocorrência do respectivo fato gerador, na hipótese de estar inscrito no Cacepe com código da CNAE não discriminado no artigo 24, inciso I, alínea \"a\", do Livro I, da Parte Geral do RICMS/PE.",
+    "fundamentacao": "Artigo 24, inciso I, alínea \"b\", do Livro I, da Parte Geral do RICMS/PE",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Refinarias de Petróleo",
+    "descricao": "Recolhimento do ICMS, sem atualização monetária, até o 20º dia do mês subsequente àquele em que ocorrer o fato gerador, pelo estabelecimento comercial atacadista, quando se tratar de base de refinaria de petróleo.",
+    "fundamentacao": "Artigo 24, inciso II, do Livro I, da Parte Geral do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Antecipado",
+    "descricao": "Recolhimento do ICMS antecipado até o dia 20 do mês subsequente à data de emissão do respectivo documento fiscal na aquisição interna realizada por Hipermercado, Supermercado, Minimercado, Mercearia e Armazém com atividade econômica principal classificada nos códigos CNAE 4711-3/01, 4711-3/02 e 4712-1/00.",
+    "fundamentacao": "Artigo 360-F, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Antecipado",
+    "descricao": "Recolhimento do ICMS antecipado, incidente sobre a saída de gipsita, gesso e produtos derivados do gesso exigido na saída interna ou interestadual de gipsita em estado natural, promovida pelo respectivo estabelecimento produtor (artigo 289-C), até o dia 20 do mês subsequente às mencionadas saídas.",
+    "fundamentacao": "Artigo 289-F, inciso I, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Combustíveis e lubrificantes",
+    "descricao": "Recolhimento do ICMS antecipado retido pelo contribuinte-substituto ou devido pelo contribuinte na na operação interna, sem atualização monetária, deve ser efetuado até o dia 20 (vinte) do mês subsequente àquele em que ocorrer a saída da mercadoria do estabelecimento do contribuinte-substituto, quando este for base de refinaria de petróleo localizada neste Estado.",
+    "fundamentacao": "Artigo 422, inciso I, alínea \"a\", do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "21/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD)",
+    "descricao": "Entrega do arquivo digital relativo à Escrituração Fiscal Digital (EFD ICMS/IPI), contendo a totalidade das informações necessárias à apuração do ICMS, bem como de outras informações de interesse do Fisco, pelo contribuinte do IPI sediado no Estado de Pernambuco, referente ao mês anterior, até o dia 20 do mês subsequente ao período fiscal a que se referir.",
+    "fundamentacao": "Artigo 12 da Instrução Normativa RFB n° 1.371/2013.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "23/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "28/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Estimativa",
+    "descricao": "Recolhimento até o dia 27 do período fiscal a que se refere, por estimativa, para contribuintes com atividade econômica principal classificada em um dos códigos da CNAE constantes do Anexo 21 do RICMS/PE do valor equivalente ao percentuais constantes nos incisos I, II e III do artigo 25-A do RICMS/PE do montante total do imposto apurado no mês imediatamente anterior.",
+    "fundamentacao": "Artigo 25-A, §1º, inciso II, do Livro I, da Parte Geral do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "28/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Antecipação - Entradas interestaduais (Fronteira)",
+    "descricao": "Recolhimento do ICMS antecipado, referente à entrada de mercadoria procedente de outra Unidade da Federação, adquirida por contribuinte credenciado pela Secretaria da Fazenda, que não esteja localizado nos Municípios pertencentes à Microrregião de Petrolina (Mesorregião), que terão um prazo específico, até o dia 28 do mês subsequente.",
+    "fundamentacao": "Artigo 351, inciso II, do RICMS/PE c/c Anexo 24 do RICMS/PE.",
+    "nota": "Conforme disposto no artigo 351, § 3°, do RICMS/PE, para o recolhimento do imposto antecipado relativo à aquisição em outra Unidade Federada, não se aplica a regra de postergação do prazo de recolhimento do imposto, quando o mencionado termo final recair em dia não útil, em dia que não haja expediente bancário ou em dia decretado como ponto facultativo para o funcionalismo público estadual, devendo o imposto ser antecipado para o dia útil imediatamente anterior ao vencimento."
+  },
+  {
+    "uf": "PE",
+    "data": "28/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Antecipação - Entradas interestaduais (Fronteiras) - Mesorregião",
+    "descricao": "Recolhimento do ICMS antecipado, relativo à entrada de mercadoria procedente de outra Unidade da Federação, adquirida por contribuinte credenciado pela Secretaria da Fazenda e localizado nos Municípios de Afrânio, Cabrobó, Dormentes, Lagoa Grande, Orocó, Petrolina, Santa Maria da Boa Vista e Terra Nova, que compõem a Microrregião de Petrolina, integrante da Mesorregião do São Francisco Pernambucano, até o dia 28 do segundo mês subsequente.",
+    "fundamentacao": "artigo 351, inciso II, do RICMS/PE c/c Anexo 24 do RICMS/PE.",
+    "nota": "Conforme disposto no artigo 351, § 3°, do RICMS/PE, para o recolhimento do imposto antecipado relativo à aquisição em outra Unidade Federada, não se aplica a regra de postergação do prazo de recolhimento do imposto, quando o mencionado termo final recair em dia não útil, em dia que não haja expediente bancário ou em dia decretado como ponto facultativo para o funcionalismo público estadual, devendo o imposto ser antecipado para o dia útil imediatamente anterior ao vencimento."
+  },
+  {
+    "uf": "PE",
+    "data": "28/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação (DeSTDA)",
+    "descricao": "Envio da Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação (DeSTDA), pelos contribuintes optantes pelo Simples Nacional, até o dia 28 do mês subsequente ao encerramento do período de apuração, ou quando for o caso, até o primeiro dia útil imediatamente seguinte.",
+    "fundamentacao": "Cláusula décima primeira do Ajuste SINIEF 12/2015 c/c artigo 365, do Livro I, da Parte Específica do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "28/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Substituto Tributário por Regime Especial",
+    "descricao": "Recolhimento do imposto devido por substituição tributária, relativamente às retenções ocorridas entre os dias 1° e 25 de cada período fiscal, promovidas por detentor do regime especial de tributação, de que trata o artigo 5° do Anexo 37 do RICMS/PE, até o dia 27 do correspondente período fiscal.",
+    "fundamentacao": "Artigo 12, inciso I, alínea \"b\", do Anexo 37 do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "30/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Importações",
+    "descricao": "Recolhimento do imposto não retido ou retido a menor pelo contribuinte-substituto, nas operações com gipsita, gesso e produtos derivados do gesso, quando a mercadoria proceder de outra Unidade da Federação, observadas as disposições, condições e requisitos estabelecidos nos artigos 351 a 353 do Decreto n° 44.650/2017. Sendo o contribuinte credenciado pela Sefaz, até o último dia do segundo mês subsequente, quando o adquirente estiver localizado nos Municípios de Afrânio, Cabrobó, Dormentes, Lagoa Grande, Orocó, Petrolina, Santa Maria da Boa Vista e Terra Nova, que compõem a Microrregião de Petrolina, integrante da Mesorregião do São Francisco Pernambucano.",
+    "fundamentacao": "Artigos 289-F, inciso III do RICMS/PE; Artigo 5º-F, inciso II, alínea \"b\", ítem 1 do Decreto n° 19.528/96; Artigo 351, inciso II, alínea \"b\" do RICMS/PE.",
+    "nota": ""
+  },
+  {
+    "uf": "PE",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Nota Fiscal de: Energia Elétrica, Serviço de Comunicação e Serviço de Telecomunicação",
+    "descricao": "Entrega dos arquivos eletrônicos relativos à emissão em via única de documento fiscal, por estabelecimento fornecedor de energia elétrica e prestadores de serviços de comunicação e telecomunicação, nos termos do Convênio 115/2003.",
+    "fundamentacao": "Cláusula sexta, inciso I, do Convênio ICMS 115/2003 e artigo 266, inciso I, alínea \"b\" e parágrafo único do artigo 267, ambos do Livro II, da Parte Geral do RICMS/PE c/c a Portaria SF nº 30/2020.",
+    "nota": ""
+  }
+]

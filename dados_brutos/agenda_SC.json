@@ -1,0 +1,434 @@
+[
+  {
+    "uf": "SC",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Transportador Revendedor Retalhista (TRR)",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo Transportador Revendedor Retalhista (TRR), das informações relativas às operações interestaduais que promover com combustíveis derivados de petróleo em que o imposto tenha sido retido anteriormente ou com álcool etílico anidro combustível, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso I, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível Exclusivamente do Sujeito Passivo por Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido combustível exclusivamente do sujeito passivo por tributação monofásica, das informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido pelo regime monofásico, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso III, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "05/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Nota Fiscal de: Energia Elétrica, Serviço de Comunicação e Serviço de Telecomunicação",
+    "descricao": "Entrega dos arquivos eletrônicos relativos à emissão em via única de documento fiscal, por estabelecimento fornecedor de energia elétrica e prestadores de serviços de comunicação e telecomunicação, nos termos do Convênio 115/2003.",
+    "fundamentacao": "Cláusula sexta, inciso I, do Convênio ICMS 115/2003 e artigo 22-B do Anexo 7 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "07/09/2026",
+    "categoria": "FERIADO",
+    "titulo": "Independência do Brasil",
+    "descricao": "",
+    "fundamentacao": "",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "- ICMS ST - Complementação da Substituição Tributária - Operações Internas",
+    "descricao": "O ICMS devido decorrente da apuração mensal, da complementação do imposto retido correspondente à diferença, quando o valor efetivo da saída destinada a consumidor final se realizar por valor superior ao da respectiva base de cálculo presumida que serviu para retenção do imposto devido por substituição tributária, nas hipóteses dos §§ 3° ou 4° do artigo 25-C do Anexo 3 do RICMS/SC, será recolhido até o 10° dia do segundo mês subsequente. Código DARE: 1473 Classe de vencimento: 10502",
+    "fundamentacao": "Artigo 26-B do Anexo 3 do RICMS/SC",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração de Informações do ICMS e Movimento Econômico (DIME)",
+    "descricao": "Entrega da Declaração de Informações do ICMS e Movimento Econômico (DIME), com as informações dos lançamentos constantes no livro Registro de Apuração do ICMS, dos demais lançamentos fiscais relativos ao balanço econômico e dos créditos acumulados, referentes às operações e prestações realizadas em cada mês, até o 10º dia seguinte ao do encerramento do período de apuração do imposto",
+    "fundamentacao": "Artigo 168, § 1º, do Anexo 5 do RICMS/SC.",
+    "nota": "Em relação à entrega da DIME, o fisco se manifestou favorável quanto à aplicação do artigo 227 do Regulamento de Normas Gerais de Direito Tributário do Estado de Santa Catarina (Decreto n° 22.586/84), mesmo que esta entrega não esteja vinculada ao expediente na respectiva repartição. Vide pergunta 289 disponível no Portal da Central de Atendimento Fazendário (CAF)."
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "GIA-ST",
+    "descricao": "Entrega da Guia Nacional de Informação e Apuração do ICMS Substituição Tributária (GIA-ST), pelos contribuintes localizados em outra unidade da Federação sujeitos à retenção do imposto em favor do Estado de Santa Catarina, que possuam inscrição como substitutos tributários neste Estado, referente ao mês anterior, até o dia 10 do mês subsequente. Caso não tenham sido realizadas operações sujeitas à substituição tributária no período, deverá ser entregue a GIA-ST sem movimento.",
+    "fundamentacao": "Artigo 34, inciso I, do Anexo 3 do RICMS/SC e Cláusula décima, § 4°, do Ajuste SINIEF 04/93.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Agroindustriais e Cooperativas de Produtores",
+    "descricao": "Recolhimento do ICMS devido pelos estabelecimentos agroindustriais, que mediante regime especial, assumam a responsabilidade pela apuração e recolhimento do imposto devido por seus integrados ou cooperados, na remessa de produtos agropecuários para estabelecimentos de sua propriedade, localizados em outros Estados. Recolhimento até o 10° dia do mês subsequente àquele em que ocorrerem as operações e prestações. Código DARE: 1449 Classe de vencimento: 10022",
+    "fundamentacao": "Artigo 61, inciso II, alínea 'b\", do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Concessionárias Públicas de Transporte Aéreo",
+    "descricao": "Recolhimento do ICMS devido pelas empresas, nacionais e regionais, concessionárias de serviço público de transporte aéreo regular de passageiros e de cargas, que tenham optado pela escrituração centralizada do ICMS, nos termos dos artigos 103 e seguintes do Anexo 6 do RICMS/SC, até o 10º dia após o encerramento do período de apuração.",
+    "fundamentacao": "Artigo 113 do Anexo 6, e artigo 60, ambos do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Cooperativas de Produtores",
+    "descricao": "Recolhimento do ICMS devido pelos estabelecimentos de cooperativas de produtores, que, mediante regime especial, assumam a responsabilidade pela apuração e recolhimento do imposto devido por seus integrados ou cooperados, na remessa de produtos agropecuários para estabelecimentos de sua propriedade, localizados em outros Estados. Recolhimento até o 10° dia do mês subsequente àquele em que ocorrerem as operações e prestações. Código DARE: 1449 Classe de vencimento: 10022",
+    "fundamentacao": "Artigo 61, inciso II, alínea 'b\", do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas",
+    "descricao": "Recolhimento do ICMS relativo ao diferencial de alíquotas de mercadorias não sujeitas ao regime de substituição tributária, pelos contribuintes em geral, até o 10° dia após o encerramento do período de apuração. Código DARE: 1449 Classe de vencimento: 10014",
+    "fundamentacao": "Artigo 53, § 6°, inciso I, do RICMS/SC e artigo 60 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de alíquotas - Simples Nacional",
+    "descricao": "Recolhimento do ICMS relativo ao diferencial de alíquotas de mercadorias não sujeitas ao regime de substituição tributária, pelos contribuintes do Simples Nacional, até o 10° dia do segundo mês após o encerramento do período de apuração. Código DARE: 2569 Classe de vencimento: 10464",
+    "fundamentacao": "Artigo 60, § 31, do RICMS/SC.",
+    "nota": "Conforme a Pergunta nº 1092 do Estado de Santa Catarina, a classe de vencimento para esta obrigação é a 10464, sendo inexistente a classe de vencimento 19992 para este código de receita."
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Geral",
+    "descricao": "Recolhimento do ICMS devido pelos contribuintes em geral, com atividade comercial, até o 10º dia após o encerramento do período de apuração. Código DARE: 1449 Classe de vencimento: 10014",
+    "fundamentacao": "Artigo 60 do RICMS/SC.",
+    "nota": "Nos termos do artigo 60, § 4°, do RICMS/SC, o imposto devido por contribuinte que mantenha regularidade no pagamento do imposto, poderá ser pago até o: a) 16° dia após o encerramento do período de apuração, se tiver mantido a regularidade no pagamento do imposto nos últimos 12 meses; b) 20° dia após o encerramento do período de apuração, a partir do segundo período consecutivo de regularidade no pagamento do imposto."
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Regime Especial - Animais vivos",
+    "descricao": "Recolhimento do ICMS devido pelo contribuinte que tenha sido autorizado, mediante regime especial, nas saídas interestaduais, de animais vivos (ressalvado o disposto no Anexo 6, Título II, Capítulo XXII, do RICMS/SC), deverá ser efetuado até o dia 10 do mês subsequente ao de realização das operações. Código DARE: 1767 Classe de vencimento: 10022",
+    "fundamentacao": "Artigo 61, inciso I, alínea 'b\", do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Regime Especial - Arroz em casca ou beneficiado",
+    "descricao": "Recolhimento do ICMS devido pelo contribuinte que tenha sido autorizado, mediante regime especial, nas saídas internas e interestaduais, de arroz em casca ou beneficiado, deverá ser efetuado até o dia 10 do mês subsequente ao de realização das operações. Código DARE: 1767 Classe de vencimento: 10022",
+    "fundamentacao": "Artigo 61, Inciso I, alínea 'b\", do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Regime Especial - Madeira em toras",
+    "descricao": "Recolhimento do ICMS devido pelo contribuinte que tenha sido autorizado, mediante regime especial, nas saídas interestaduais, de madeira em toras, deverá ser efetuado até o dia 10 do mês subsequente ao de realização das operações. Código DARE: 1767 Classe de vencimento: 10022",
+    "fundamentacao": "Artigo 61, inciso I, alínea 'b” do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Regime Especial - Peixe e camarão em estado natural ou resfriado",
+    "descricao": "Recolhimento do ICMS devido pelo contribuinte que tenha sido autorizado, mediante regime especial, nas saídas interestaduais, de peixe e camarão em estado natural ou resfriado, deverá ser efetuado até o dia 10 do mês subsequente ao de realização das operações. Código DARE: 1767 Classe de vencimento: 10022",
+    "fundamentacao": "Artigo 61, inciso I, alínea 'b”, do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Regime Especial- Atacadista ou beneficiador de alho",
+    "descricao": "Recolhimento do ICMS devido pelo contribuinte que tenha sido autorizado, mediante regime especial, nas saídas internas, promovidas por atacadista ou beneficiador de alho e nas saídas interestaduais de alho, deverá ser efetuado até o dia 10 do mês subsequente ao de realização das operações. Código DARE: 1767 Classe de vencimento: 10022",
+    "fundamentacao": "Artigo 61, Inciso I, alínea 'b\", do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Serviços de Telecomunicação não Medidos",
+    "descricao": "Recolhimento do ICMS devido pelos prestadores de serviços de telecomunicação não medidos, envolvendo localidades situadas em diferentes Unidades da Federação e cujo preço seja cobrado por períodos definidos, até o dia 10 dia do mês subsequente ao da prestação.",
+    "fundamentacao": "Artigo 83 do Anexo 6 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Substituição Tributária - Responsabilidade solidária - Entradas de outros Estados",
+    "descricao": "Recolhimento do ICMS devido pelo contribuinte autorizado, mediante regime especial concedido pelo Diretor de Administração Tributária, em relação a mercadorias sujeitas ao regime de substituição tributária, oriundas de unidade da Federação não signatária de Convênio ou Protocolo ou que os tenha denunciado, até o 10º dia do mês subsequente àquele em ocorreu a entrada da mercadoria.",
+    "fundamentacao": "Artigo 22, § 2, inciso IV do Anexo 3 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Substituição Tributária - Responsabilidade solidária - Entradas de outros Estados",
+    "descricao": "Recolhimento do ICMS substituição tributária, devido nas etapas subsequentes, pelo estabelecimento industrial, inscrito no Regime Normal de Apuração, que receba mercadorias oriundas de unidade da Federação não signatária de Convênio ou Protocolo, ou que os tenha denunciado, até o 10º dia subsequente ao da emissão do documento fiscal. DARE: 1473 Classe de vencimento: 10049",
+    "fundamentacao": "Artigo 22, § 1, inciso I do Anexo 3 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Substituição Tributária - Simples Nacional",
+    "descricao": "Recolhimento ICMS relativo ao regime de substituição tributária, tributação concentrada em uma única etapa (monofásica) e por antecipação tributária, devido por contribuinte inscrito no CCICMS deste Estado e enquadrado no Simples Nacional, até o 10º dia do segundo mês após o encerramento do período de apuração. Código DARE: 2569 Classe de vencimento: 10464",
+    "fundamentacao": "Artigo 60, § 29 do RICMS/SC e artigo 21, inciso III do Anexo 3 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Saídas",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, relativamente às saídas ocorridas no mês anterior, até o 10º dia do período seguinte ao da apuração. Código DARE: 1473 Classe de vencimento: 10049",
+    "fundamentacao": "Artigo 21, inciso I do Anexo 3 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "13/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "14/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo magnético - Sintegra - Combustíveis",
+    "descricao": "Entrega, pelos contribuintes do ICMS usuários de sistema eletrônico de processamento de dados com atividade de comércio varejista de combustíveis, de arquivo magnético com registro fiscal dos documentos emitidos por qualquer meio, referente à totalidade das operações de entradas e de saídas e das aquisições e prestações realizadas, até o dia 14 do mês subsequente.",
+    "fundamentacao": "Artigo 7°, inciso I, alínea \"a\", do Anexo 7 do RICMS/SC.",
+    "nota": "O estabelecimento fica dispensado, observada a obrigatoriedade da EFD ICMS/IPI, conforme Artigo 33-D, Anexo 11 do RICMS/SC."
+  },
+  {
+    "uf": "SC",
+    "data": "14/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração do Valor de Aquisição da Energia Elétrica em Ambiente de Contratação Livre (DEVEC)",
+    "descricao": "A pessoa jurídica na condição de destinatária da energia elétrica adquirida em ambiente de contratação livre, deverá prestar mensalmente à SEFAZ a Declaração do Valor de Aquisição da Energia Elétrica em Ambiente de Contratação Livre (DEVEC) para o conjunto de todos os seus estabelecimentos ou domicílios situados na área de abrangência do submercado Sul, conforme definido na Resolução n° 402/2001, da Agência Nacional de Energia Elétrica (ANEEL) até o dia 14 do mês subsequente àquele em que houver ocorrido o consumo da energia elétrica.",
+    "fundamentacao": "Artigo 3° da Resolução SEF n° 342/2012.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "14/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD) - Combustíveis",
+    "descricao": "Entrega do arquivo digital correspondente à Escrituração Fiscal Digital - EFD (SPED Fiscal), contendo a totalidade das informações necessárias à apuração do ICMS e do IPI, bem como de outras informações de interesse do Fisco, para os estabelecimentos varejistas de combustível, referente ao mês anterior, até o 14º dia do mês subsequente ao da apuração.",
+    "fundamentacao": "Artigo 33, § 2º do Anexo 11 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Eletrônico - Administradoras de Cartões",
+    "descricao": "Entrega de arquivo eletrônico, pelas administradoras de cartões de crédito, débito e similares, contendo as informações de todas as operações e prestações cujo pagamento seja feito por meio de seus sistemas de crédito, débito e similares, no mês anterior, por estabelecimentos de contribuintes do imposto, até o 15º dia de cada mês.",
+    "fundamentacao": "Artigo 179-A do Anexo 5 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo magnético - Sintegra - Contribuintes de Outra UF",
+    "descricao": "Entrega, pelos contribuintes do ICMS estabelecidos em outra UF, de arquivo magnético com registro fiscal das operações e prestações originadas neste Estado ou destinadas a este Estado, efetuadas no mês anterior, até o dia 15 do mês subsequente.",
+    "fundamentacao": "Artigo 7º, inciso II, do Anexo 7 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas - Operações Interestaduais Destinadas a Não Contribuintes - EC 87/2015",
+    "descricao": "Recolhimento do ICMS correspondente ao diferencial de alíquotas devido pelo estabelecimento localizado em outra Unidade Federada, inscrito no Cadastro de Contribuintes do ICMS do Estado de Santa Catarina, que realizar operações ou prestações destinadas a não contribuinte do imposto localizado no Estado de Santa Catarina, até o dia 15 após o encerramento do período de apuração. Código DARE: 2550 Classe de vencimento: sem classe de vencimento.",
+    "fundamentacao": "artigo 60, § 28, do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "16/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Contribuinte Regular",
+    "descricao": "Recolhimento do ICMS declarado na DIME, devido pelo contribuinte que tenha mantido a regularidade no pagamento do imposto nos últimos 12 meses, observados os requisitos legais constantes do artigo 60, §§ 4°-A a 6°, do RICMS/SC, até o 16º dia após o encerramento do período de apuração. Código DARE: 1449 Classe de vencimento: 10103",
+    "fundamentacao": "Artigo 60, § 4º, inciso I, do RICMS/SC.",
+    "nota": "Esta classe de vencimento teve sua vigência encerrada em 31.08.2025, nos termos da Portaria SEF n° 290/2025, que alterou o Anexo Único da Portaria SEF n° 269/2018. Diante da inexistência de código específico para a classe de recolhimento correspondente, recomenda-se a utilização do código 10014, bem como a formalização de consulta ao fisco para a validação do entendimento adotado."
+  },
+  {
+    "uf": "SC",
+    "data": "16/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Energia Elétrica",
+    "descricao": "Recolhimento do ICMS devido pelas distribuidoras de energia elétrica, em duas parcelas, sendo a primeira correspondente a 50% do montante total do imposto devido, com vencimento no dia 16 do mês subsequente ao mês de encerramento do período de apuração, e a segunda parcela correspondente ao saldo remanescente, com vencimento no dia 20 do mês subsequente ao mês de encerramento do período de apuração. Este prazo se aplica, inclusive, para pagamento do imposto devido pelas distribuidoras de energia elétrica na condição de responsável tributário, nos termos do artigo 245, inciso I, do Anexo 3 do RICMS/SC. DARE 1449 Classe de vencimento: 10510 (1ª parcela)",
+    "fundamentacao": "Artigo 60, § 1º, inciso XIII, alínea \"a\", e § 35, do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "20/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo magnético - Veículos",
+    "descricao": "Entrega, pela montadora ou a importadora que se encontre na condição de contribuinte substituto, estabelecida em outra unidade da Federação, do arquivo com a listagem dos dados relativos às operações de faturamento direto ao consumidor, observadas as demais condições previstas em legislação, até o 20º dia do mês subsequente.",
+    "fundamentacao": "Artigo 34, § 3º, do Anexo 3 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "20/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD)",
+    "descricao": "Entrega do arquivo digital correspondente à Escrituração Fiscal Digital - EFD (SPED Fiscal), contendo a totalidade das informações necessárias à apuração do ICMS e do IPI, bem como de outras informações de interesse do Fisco, referente ao mês anterior, até o 20º dia do mês subsequente ao da apuração.",
+    "fundamentacao": "Artigo 33 do Anexo 11 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Empresas de Courier",
+    "descricao": "O imposto das importações processadas por intermédio do “SISCOMEX REMESSA”, devido pela empresa de courier para a unidade federada do destinatário da remessa, será recolhido até o 21° dia subsequente ao da data de liberação da remessa.",
+    "fundamentacao": "Artigo 149, § 2°, inciso II, do Anexo 6 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - CONAB",
+    "descricao": "Recolhimento do ICMS devido pela Companhia Nacional de Abastecimento (CONAB), assim entendidos seus núcleos, superintendências regionais e agentes financeiros que realizem operações vinculadas à Política de Garantia de Preços Mínimos (PGPM), até o 20º dia do mês subsequente ao da ocorrência do fato gerador, bem como até o 20º dia do mês subsequente, relativamente ao estoque de mercadorias recebidas com diferimento do imposto, existente no último dia do mês. Código DARE: 1449",
+    "fundamentacao": "Artigo 180 e parágrafo único, do Anexo 6 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Contribuinte Regular",
+    "descricao": "Recolhimento do ICMS declarado na DIME, devido pelo contribuinte que tenha mantido a regularidade no pagamento do imposto nos últimos 24 meses, observados os requisitos legais constantes do artigo 60, §§ 4º-A a 6º, do RICMS/SC, até o 20º dia após o encerramento do período de apuração. Código DARE: 1449 Classe de vencimento: 10421",
+    "fundamentacao": "Artigo 60, § 4º, inciso II, do RICMS/SC.",
+    "nota": "Esta classe de vencimento teve sua vigência encerrada em 31.08.2025, nos termos da Portaria SEF n° 290/2025, que alterou o Anexo Único da Portaria SEF n° 269/2018. Diante da inexistência de código específico para a classe de recolhimento correspondente, recomenda-se a utilização do código 10014, bem como a formalização de consulta ao fisco para a validação do entendimento adotado."
+  },
+  {
+    "uf": "SC",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Energia Elétrica",
+    "descricao": "Recolhimento do ICMS devido pelas distribuidoras de energia elétrica, em duas parcelas, sendo a primeira correspondente a 50% do montante total do imposto devido, com vencimento no dia 16 do mês subsequente ao mês de encerramento do período de apuração, e a segunda parcela correspondente ao saldo remanescente, com vencimento no dia 20 do mês subsequente ao mês de encerramento do período de apuração. Este prazo se aplica, inclusive, para pagamento do imposto devido pelas distribuidoras de energia elétrica na condição de responsável tributário, nos termos do artigo 245, inciso I, do Anexo 3 do RICMS/SC. DARE 1449 Classe de vencimento 10529 (2ª parcela)",
+    "fundamentacao": "Artigo 60, § 1º, inciso XIII, alínea \"b\", e § 35, do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Produtor Rural",
+    "descricao": "Recolhimento do ICMS devido nas operações acobertadas por Nota Fiscal de Produtor, modelo 4, nas operações internas, até o 20° dia do mês seguinte ao da ocorrência do fato gerador da obrigação tributária. Código DARE: 1554",
+    "fundamentacao": "Artigo 27, inciso II, do Anexo 6 do RICMS/SC.",
+    "nota": "O prazo para recolhimento, nas operações internas, será considerado vencido no momento do fornecimento de novo talonário ao produtor, se isto ocorrer antes do prazo citado acima, de acordo com o artigo 27, parágrafo Único, do Anexo 6 do RICMS/SC."
+  },
+  {
+    "uf": "SC",
+    "data": "23/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "25/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo magnético - Sintegra - Contribuintes em geral",
+    "descricao": "Entrega, pelos contribuintes do ICMS usuários de sistema eletrônico de processamento de dados (exceto aqueles com atividade de comércio varejista de combustíveis), de arquivo magnético com registro fiscal dos documentos emitidos por qualquer meio, referente à totalidade das operações de entradas e de saídas e das aquisições e prestações realizadas, até o dia 25 do mês subsequente.",
+    "fundamentacao": "Artigo 7°, inciso I, alínea \"b\", do Anexo 7 do RICMS/SC.",
+    "nota": ""
+  },
+  {
+    "uf": "SC",
+    "data": "28/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação (DeSTDA)",
+    "descricao": "Entrega da Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação, pelos contribuintes optantes pelo Simples Nacional, destinada a informar o montante para recolhimento mensal relativo ao ICMS devido por substituição tributária, diferencial de alíquotas e recolhimento antecipado, até o dia 28 do mês subsequente ao encerramento do período de apuração, prorrogado para o primeiro dia útil imediatamente seguinte, quando cair em dia não útil.",
+    "fundamentacao": "Artigo 22, § 8º, inciso II do Anexo 4 do RICMS/SC.",
+    "nota": ""
+  }
+]

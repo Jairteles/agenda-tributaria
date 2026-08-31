@@ -1,0 +1,416 @@
+[
+  {
+    "uf": "RJ",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Transportador Revendedor Retalhista (TRR)",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo Transportador Revendedor Retalhista (TRR), das informações relativas às operações interestaduais que promover com combustíveis derivados de petróleo em que o imposto tenha sido retido anteriormente ou com álcool etílico anidro combustível, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso I, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "01/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "FECP Importação",
+    "descricao": "O FECP devido na importação de mercadoria ou bem, promovida por pessoa física ou jurídica, de direito público ou privado, mesmo sem habitualidade e ainda que se trate de bem destinado a consumo ou a ativo fixo do estabelecimento deverá ser recolhido no primeiro dia útil subsequente ao ato do desembaraço aduaneiro.",
+    "fundamentacao": "Artigo 1° do Livro XI do RICMS/RJ.",
+    "nota": "Frisa-se que o FECP importação deverá ser recolhido antecipadamente, no caso da entrega da mercadoria ou bem ocorrer antes do despacho aduaneiro."
+  },
+  {
+    "uf": "RJ",
+    "data": "01/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Importação",
+    "descricao": "O imposto devido na importação de mercadoria ou bem, promovida por pessoa física ou jurídica, de direito público ou privado, mesmo sem habitualidade e ainda que se trate de bem destinado a consumo ou a ativo fixo do estabelecimento deverá ser recolhido no primeiro dia útil subsequente ao ato do desembaraço aduaneiro.",
+    "fundamentacao": "Artigo 1° do Livro XI do RICMS/RJ.",
+    "nota": "Frisa-se que o FECP importação deverá ser recolhido antecipadamente, no caso da entrega da mercadoria ou bem ocorrer antes do despacho aduaneiro."
+  },
+  {
+    "uf": "RJ",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "02/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Simples Nacional",
+    "descricao": "Recolhimento da Substituição Tributária devida pelo contribuinte optante pelo Simples Nacional, até o dia 02 do segundo mês subsequente ao da saída da mercadoria.",
+    "fundamentacao": "artigo 14, § 3º do Livro II do RICMS/RJ e artigos 3º e 6º, inciso I do Decreto 45.612/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível Exclusivamente do Sujeito Passivo por Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido combustível exclusivamente do sujeito passivo por tributação monofásica, das informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido pelo regime monofásico, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso III, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "07/09/2026",
+    "categoria": "FERIADO",
+    "titulo": "Independência do Brasil",
+    "descricao": "",
+    "fundamentacao": "",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Contribuintes de Grande Porte",
+    "descricao": "Recolhimento do imposto devido pelos contribuintes de grande porte relacionados em ato específico do Secretário de Estado de Fazenda, relativamente ao mês anterior (exceto o imposto devido em decorrência de substituição tributária e diferencial de alíquota), até o dia 05 do mês subsequente ao do período de apuração. Na impossibilidade de apuração do valor do ICMS devido neste prazo, deve ser recolhida parcela correspondente a, no mínimo, 95% do Saldo Devedor do livro RAICMS do período imediatamente anterior.",
+    "fundamentacao": "artigo 1º do Decreto nº 31.235/2002.",
+    "nota": "A lista de contribuintes sujeitos ao tratamento tributário previsto no Decreto nº 31.235/2002 encontra-se no Anexo Único da Resolução SEFAZ 393/2011."
+  },
+  {
+    "uf": "RJ",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Telecomunicações",
+    "descricao": "Recolhimento do ICMS devido pelas empresas prestadoras de serviço de comunicação elencadas na Resolução n° 958/2016, referente a apuração do 3º decêndio de cada mês no dia 05 do mês subsequente.",
+    "fundamentacao": "artigo 2º, inciso III, do Decreto 45.520/2015.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Substituição Tributária - Substitutos Tributários Situados em Outras UF",
+    "descricao": "Recolhimento do ICMS retido pelo contribuinte substituto tributário localizado em outra UF, referente às operações com substituição tributária, relativamente a fatos geradores ocorridos no mês anterior, até o dia 09 do mês subsequente.",
+    "fundamentacao": "artigo 6°, inciso I da Resolução 537/2012.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Pontos de Venda",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, relativamente às mercadorias enviadas para ponto de venda fixo ou permanente, situado em via ou logradouro público ou particular, ou em área de circulação de shopping center ou assemelhado, dispensado de inscrição, até o dia 09 do mês subsequente ao da saída.",
+    "fundamentacao": "artigo 34, § 4º do Livro II do RICMS/RJ.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Produtos Diversos",
+    "descricao": "Recolhimento do ICMS retido pelo contribuinte substituto tributário localizado no Estado do Rio de Janeiro, referente às operações com as mercadorias relacionadas no Anexo I do Livro II do RICMS/RJ (exceto cimento), relativamente a fatos geradores ocorridos no mês anterior, até o dia 09 do mês subsequente.",
+    "fundamentacao": "artigo 14 do Livro II do RICMS/RJ.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST – Transporte",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, relativamente à prestação de serviço de transporte, quando prestada por empresa de transporte sediada fora do Estado e não inscrita no CADERJ, ou por profissional autônomo, até o dia 09 do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "artigo 82-B, inciso I, do Livro IX do RICMS/RJ.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Indústria Naval",
+    "descricao": "Entrega da relação de mercadorias adquiridas no mês anterior pelos estabelecimentos da indústria naval, pelo contratante que realizar a importação de insumos e equipamentos amparados pelo diferimento do ICMS. Entrega da relação de insumos, materiais ou equipamentos fornecidos para a indústria naval no mês anterior, amparadas com diferimento, pelos fornecedores, à repartição fiscal de suas circunscrições. Envio dos arquivos magnéticos até o dia 10 do mês subsequente ao o das operações.",
+    "fundamentacao": "artigo 5º da Resolução SEF nº 6.307/2001.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "GIA-ST",
+    "descricao": "Entrega da Guia Nacional de Informação e Apuração do ICMS Substituição Tributária (GIA-ST), pelo contribuinte substituto ou seu representante legal, localizado em outra unidade da Federação, que possuam inscrição como substituto tributário no Estado do Rio de Janeiro, ainda que no período não tenham ocorrido operações sujeitas à substituição tributária, até o dia 10 do mês subsequente.",
+    "fundamentacao": "artigo 9º do Anexo IX da Parte 2 da Resolução SEFAZ 720/2014.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Apuração Normal",
+    "descricao": "Recolhimento do ICMS devido por estabelecimentos comerciais, industriais e prestadores de serviços de transporte, relativo a fatos geradores ocorridos no mês anterior (exceto o ICMS substituição tributária), até o dia 10 do mês subsequente.",
+    "fundamentacao": "artigo 9º, inciso III, da Resolução SEF nº 2.715/96.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas",
+    "descricao": "Recolhimento do ICMS devido a título de diferencial de alíquotas, quando da entrada no estabelecimento do contribuinte de mercadoria proveniente de outra unidade da Federação destinada a ativo permanente, até o dia 10 do mês subsequente, salvo legislação em contrário. Este prazo se aplica, também, para o contribuinte optante pelo Simples Nacional, nos termos do artigo 10, § 1º, da Parte III da Resolução SEFAZ nº 720/2014.",
+    "fundamentacao": "Artigo 39, § 4°, da Lei n° 2.657/96, artigo 9° da Resolução SEF n° 2.715/96 e artigo 2°, § 1°, Resolução n° 2.921/98.",
+    "nota": "De acordo com o artigo 1°, § 1°, da Resolução SEFAZ n° 253/2021, o pagamento do FECP, se devido, deve ser efetuado no mesmo prazo para pagamento do diferencial de alíquotas."
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Parcelamento",
+    "descricao": "Recolhimento dos tributos estaduais objeto de parcelamento, que tenha sido parcelado depois da inscrição em dívida ativa, até o dia 10 dos meses subsequentes ao pagamento da primeira parcela. Caso o dia 10 de cada mês não seja dia útil, o vencimento ocorrerá no dia útil antecedente.",
+    "fundamentacao": "artigo 5º do Decreto 42.049/2009 e artigo 17 da Resolução PGE n° 2.705/2009.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - TV Por Assinatura",
+    "descricao": "Recolhimento do ICMS devido pelas empresas prestadoras de serviço de televisão por assinatura, até o dia 10 do mês subsequente aquele a que se referir a cobrança. Na hipótese de o valor cobrado se referir a mais de um mês de assinatura, o imposto será recolhido até o dia 10 subsequente ao primeiro mês que estiver sendo cobrado.",
+    "fundamentacao": "artigo 4º do Livro X do RICMS/RJ.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Água Natural Canalizada",
+    "descricao": "Recolhimento do ICMS devido nas operações internas com água natural canalizada, relativo ao faturamento do mês, até o dia 10 do mês subsequente à competência do faturamento",
+    "fundamentacao": "artigo 9º, inciso III, da Resolução SEF nº 2.715/96.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Estimativa - Transporte Aquaviário",
+    "descricao": "Recolhimento do ICMS apurado por estimativa, pela empresa prestadora de serviço de transporte aquaviário de passageiro, carga ou veículo, prestado exclusivamente no Estado do Rio de Janeiro, até o dia 10 do mês seguinte ao da prestação.",
+    "fundamentacao": "artigo 32 do Livro V do RICMS/RJ.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS Estimativa - Transporte de Passageiros",
+    "descricao": "Recolhimento do ICMS devido por empresa prestadora de serviço de transporte rodoviário intermunicipal de passageiros, executado mediante concessão, permissão ou autorização por parte do Estado do Rio de Janeiro, e prestado exclusivamente em seu território, apurado por meio de estimativa, até o dia 10 do mês seguinte ao da prestação.",
+    "fundamentacao": "artigo 28 do Livro V do RICMS/RJ.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Cimento",
+    "descricao": "Recolhimento do ICMS retido pelo contribuinte substituto tributário localizado no Estado do Rio de Janeiro, referente às operações com cimento, relativamente a fatos geradores ocorridos no mês anterior, até o dia 10 do mês subsequente.",
+    "fundamentacao": "artigo 7º da Resolução nº 537/2012.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Combustíveis e Lubrificantes",
+    "descricao": "Recolhimento do ICMS retido pelos contribuintes relativamente ás operações com combustíveis e lubrificantes (exceto na operações de importação de combustíveis derivados de petróleo, cujo imposto devido por substituição tributária será exigido do terminal aquaviário, por ocasião do desembaraço aduaneiro), referente aos fatos geradores ocorridos no mês anterior, até o 10º dia subsequente ao término do período de apuração.",
+    "fundamentacao": "artigos 3 e 14 do Livro IV do RICMS/RJ.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Parcelamento",
+    "descricao": "Recolhimento dos tributos estaduais objeto de parcelamento, que tenha sido parcelado antes da inscrição em dívida ativa, até o dia 10 dos meses subsequentes ao pagamento da primeira parcela.",
+    "fundamentacao": "artigo 35 da Resolução SEFAZ 680/2013.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Reparcelamento",
+    "descricao": "Recolhimento dos tributos estaduais objeto de reparcelamento, que tenha sido reparcelado antes da inscrição em dívida ativa, até o dia 10 dos meses subsequentes ao pagamento da primeira parcela.",
+    "fundamentacao": "artigo 35 da Resolução SEFAZ 680/2013.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "13/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "14/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração do Valor de Aquisição da Energia Elétrica em Ambiente de Contratação Livre (DEVEC)",
+    "descricao": "A pessoa jurídica na condição de destinatária da energia elétrica adquirida em ambiente de contratação livre, deverá prestar mensalmente à SEFAZ a Declaração do Valor de Aquisição da Energia Elétrica em Ambiente de Contratação Livre (DEVEC) para o conjunto de todos os seus estabelecimentos ou domicílios situados na área de abrangência do submercado Sudeste/Centro-Oeste, conforme definido na Resolução n.° 402/2001, da Agência Nacional de Energia Elétrica (ANEEL) até o dia 14 do mês subsequente àquele em que houver ocorrido o consumo da energia elétrica.",
+    "fundamentacao": "artigos 15 e 16 do Anexo XV da Parte 2 da Resolução SEFAZ nº 720/2014.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS-ST - Energia Elétrica",
+    "descricao": "Recolhimento da Substituição Tributária de energia elétrica destinada ao Estado do Rio de Janeiro, desde a importação ou produção até a última operação da qual decorra a saída com destino a estabelecimento ou domicílio onde deva ser consumida por destinatário que a tenha adquirido mediante contrato de compra e venda firmado em ambiente de contratação livre, até o dia 15 do segundo mês subsequente ao da emissão da nota fiscal pelo contribuinte substituto.",
+    "fundamentacao": "artigo 14, § 4º, do Livro II do RICMS/RJ.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Contribuintes de Grande Porte",
+    "descricao": "Recolhimento do imposto devido pelos contribuintes de grande porte relacionados em ato específico do Secretário de Estado de Fazenda, relativamente ao mês anterior (exceto o imposto devido em decorrência de substituição tributária e diferencial de alíquota). Recolhimento, até o dia 15, do complemento do imposto recolhido até o dia 05.",
+    "fundamentacao": "artigo 1º, § 2º, do Decreto nº 31.235/2002.",
+    "nota": "A lista de contribuintes sujeitos ao tratamento tributário previsto no Decreto nº 31.235/2002 encontra-se no Anexo Único da Resolução SEFAZ 393/2011."
+  },
+  {
+    "uf": "RJ",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas - Operações Interestaduais Destinadas a Não Contribuintes - EC 87/2015",
+    "descricao": "Recolhimento do diferencial de alíquotas para as operações que tenham como destino o não contribuinte do ICMS localizado no território fluminense, na hipótese de o contribuinte de outra unidade da Federação estar inscrito no Cadastro de Contribuintes do ICMS do Estado do Rio de Janeiro, até o décimo quinto dia do mês subsequente à saída do bem ou ao início da prestação de serviço.",
+    "fundamentacao": "Cláusula sexta, § 2° do Convênio ICMS n° 236/2021.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Telecomunicações",
+    "descricao": "Recolhimento do ICMS devido pelas empresas prestadoras de serviço de comunicação elencadas na Resolução n° 958/2016, referente a apuração 1º decêndio de cada mês no dia 15 do mesmo mês.",
+    "fundamentacao": "artigo 2º, inciso I, do Decreto nº 45.520/2015 e Resolução nº 958/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "20/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD)",
+    "descricao": "Entrega do arquivo digital relativo à Escrituração Fiscal Digital (EFD - SPED Fiscal), contendo a totalidade das informações necessárias à apuração do ICMS e do IPI, bem como de outras informações de interesse do Fisco, referente ao mês anterior, até o 20º dia do mês subsequente ao da apuração.",
+    "fundamentacao": "artigo 2º do Anexo VII da Parte 2 da Resolução SEFAZ 720/2014.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Fundo Orçamentário Temporário (FOT)",
+    "descricao": "Recolhimento do depósito destinado ao Fundo Orçamentário Temporário (FOT) pelo contribuinte pelo contribuinte do ICMS, que realize operação contemplada com benefício fiscal cuja fruição esteja condicionada à contribuição ao FOT. Recolhimento até dia 20 do mês subsequente.",
+    "fundamentacao": "Lei nº 8.645/2019 c/c artigo 4º do Decreto nº 47.057/2020",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "23/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "25/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Telecomunicações",
+    "descricao": "Recolhimento do ICMS devido pelas empresas prestadoras de serviço de comunicação elencadas na Resolução n° 958/2016, referente a apuração do 2° decêndio de cada mês no dia 25 do mesmo mês.",
+    "fundamentacao": "artigo 2º, inciso II do Decreto nº 45.520/2015 e Resolução nº 958/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "28/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação (DeSTDA)",
+    "descricao": "Entrega da Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação, pelos contribuintes optantes pelo Simples Nacional, exceto os Microempreendedores Individuais (MEI) e os estabelecimentos impedidos de recolher o ICMS pelo Simples Nacional em virtude de a empresa ter ultrapassado o sublimite estadual, destinada a informar o montante para recolhimento mensal relativo ao ICMS devido por substituição tributaria, diferencial de alíquotas e recolhimento antecipado",
+    "fundamentacao": "artigo 8º do Anexo IX-A da Parte II da Resolução SEFAZ nº 720/2014.",
+    "nota": "A obrigação poderá ser entregue até o primeiro dia útil seguinte, quando o término do prazo se der em dia não útil, conforme Ajuste SINIEF nº 15/2016."
+  },
+  {
+    "uf": "RJ",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Nota Fiscal de Serviço de Telecomunicação",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte que realizar prestação de serviço de telecomunicação de arquivo contendo informações constantes nos documentos fiscais emitidos em uma única via por sistema eletrônico de processamento de dados, até o último dia do mês subsequente ao do período de apuração.",
+    "fundamentacao": "Cláusula sexta, inciso I, do Convênio ICMS 115/2003.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Comunicação",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte que realizar prestação de serviço de comunicação de arquivo contendo informações constantes nos documentos fiscais emitidos em uma única via por sistema eletrônico de processamento de dados, até o último dia do mês subsequente ao do período de apuração.",
+    "fundamentacao": "Cláusula sexta, inciso I, do Convênio ICMS 115/2003.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Energia Elétrica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, exclusivamente, por meio de programa específico disponibilizado na página da SEFAZ, pelo contribuinte que realizar fornecimento de energia elétrica, de arquivo contendo informações constantes nos documentos fiscais emitidos em uma única via por sistema eletrônico de processamento de dados, até o último dia do mês subsequente ao do período de apuração.",
+    "fundamentacao": "Cláusula sexta, inciso I, do Convênio ICMS 115/2003.",
+    "nota": ""
+  },
+  {
+    "uf": "RJ",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração de Informações de Meios de Pagamento (DIMP)",
+    "descricao": "Entrega de arquivo eletrônico, pelas empresas administradoras de cartões de crédito e débito ou similar, relativas a todas as operações e prestações cujo pagamento seja por meio de seus sistemas de crédito, débito e similares, realizadas pelos estabelecimentos de contribuintes do ICMS localizados no Estado do Rio de Janeiro, até o final do mês seguinte ao da ocorrência.",
+    "fundamentacao": "Artigo 138 do Anexo XIII da Parte II da Resolução SEFAZ nº 720/2014 e Convênio ICMS 134/2016.",
+    "nota": ""
+  }
+]

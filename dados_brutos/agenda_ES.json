@@ -1,0 +1,443 @@
+[
+  {
+    "uf": "ES",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "01/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Transportador Revendedor Retalhista (TRR)",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo Transportador Revendedor Retalhista (TRR), das informações relativas às operações interestaduais que promover com combustíveis derivados de petróleo em que o imposto tenha sido retido anteriormente ou com álcool etílico anidro combustível, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso I, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso I, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "02/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível de Outro Estabelecimento Subsequente à Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido o combustível de outro estabelecimento subsequente à tributação monofásica, das informações relativas às operações interestaduais que promover com combustíveis, nos prazos estabelecidos em Ato COTEPE/ICMS, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso II, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso II, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "03/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Estabelecimento que Tiver Recebido o Combustível Exclusivamente do Sujeito Passivo por Tributação Monofásica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo estabelecimento que tiver recebido combustível exclusivamente do sujeito passivo por tributação monofásica, das informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido pelo regime monofásico, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso III, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso III, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "04/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Importador",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte importador de combustíveis, de informações relativas às operações interestaduais com combustíveis em que o imposto tenha sido recolhido por tributação monofásica, nos prazos estabelecidos em Ato COTEPE/ICMS.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso IV, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso IV, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "07/09/2026",
+    "categoria": "FERIADO",
+    "titulo": "Independência do Brasil",
+    "descricao": "",
+    "fundamentacao": "",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Café Cru em Bolsa de Mercadorias ou de Cereais",
+    "descricao": "Recolhimento de ICMS devido pela venda de café cru em grão, efetuada em Bolsa de Mercadorias ou de Cereais pelo Ministério da Agricultura e do Abastecimento, com intermediação do Banco do Brasil S. A., referente às Notas Fiscais emitidas durante o período compreendido entre os dias 21 e o último dia do mês, até o dia 5 do mês subsequente.",
+    "fundamentacao": "artigo 317, inciso III, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Comunicação",
+    "descricao": "Recolhimento do ICMS devido nas prestações promovidas por estabelecimentos prestadores de serviços de comunicação, até o 8º dia do mês subsequente ao do respectivo período de apuração. Recolhimento também do diferencial de alíquotas na entrada, no estabelecimento de contribuinte, de mercadoria oriunda de outra unidade da Federação, destinada a consumo próprio ou a ativo fixo, ou na contratação de serviços de transporte interestadual.",
+    "fundamentacao": "artigo 168, inciso XVII, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "08/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Energia Elétrica",
+    "descricao": "Recolhimento do ICMS devido em relação aos documentos fiscais emitidos no mês anterior, nas operações com energia elétrica, até o 8º dia do mês subsequente. Recolhimento também do diferencial de alíquotas na entrada, no estabelecimento de contribuinte, de mercadoria oriunda de outra unidade da Federação, destinada a consumo próprio ou a ativo fixo, ou na contratação de serviços de transporte interestadual.",
+    "fundamentacao": "artigo 168, inciso VI, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Diferença de ICMS - Transportador autônomo",
+    "descricao": "Recolhimento do ICMS devido nas prestações de serviço de transporte relativamente a diferença entre o imposto devido e o imposto efetivamente pago, até o 9º dia do mês subsequente ao da prestação do serviço de transporte.",
+    "fundamentacao": "artigo 220, § 3º, inciso II, do RICMS/ES",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Diferença de ICMS - Transportador de outra Unidade da Federação",
+    "descricao": "Recolhimento do ICMS devido nas prestações de serviço de transporte relativamente a diferença entre o imposto devido e o imposto efetivamente pago, até o 9º dia do mês subsequente ao da prestação do serviço de transporte.",
+    "fundamentacao": "artigo 220, § 3º, inciso II, do RICMS/ES",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Energia Elétrica não destinada à comercialização ou à industrialização",
+    "descricao": "Recolhimento do ICMS devido em relação a entrada neste Estado de energia elétrica, não destinada à comercialização ou à industrialização, até o 9º dia do mês subsequente, conforme disposto no artigo 268-D do RICMS/ES.",
+    "fundamentacao": "artigo 168, inciso XXIII, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "09/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Produtos Diversos",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, relativamente às operações com os seguintes produtos: derivados do fumo; cerveja, chope, refrigerante, água mineral; açúcar; produtos farmacêuticos; sorvetes; pneumáticos; tintas, vernizes; veículos novos; aparelhos e lâminas de barbear; lâmpadas elétricas, diodos e aparelhos de iluminação; materiais de construção; rações \"pet\" para animais domésticos; telefones celulares e chips; autopeças; bebidas quentes; materiais de limpeza; carnes; farinha de trigo, misturas e preparações para bolos e pães. Recolhimento até o 9º dia do mês subsequente ao do respectivo período de apuração.",
+    "fundamentacao": "Anexo Único da Portaria nº 16-R/2019.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Comércio atacadista",
+    "descricao": "Recolhimento do ICMS devido pelo comércio atacadista, ressalvadas as hipóteses previstas no artigo 298 do RICMS/ES, em relação às operações com café cru, em coco ou em grão, até o 10º dia do mês subsequente, utilizando o código de receita 141-4.",
+    "fundamentacao": "artigo 168, inciso XXV, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Gás Natural",
+    "descricao": "Recolhimento do ICMS apurado, relativo aos documentos fiscais emitidos no mês anterior, nas operações com gás natural canalizado, realizadas por distribuidora sediada no Estado do Espírito Santo, destinadas a residência ou estabelecimento comercial ou industrial, na condição de consumidor final, até o 10º dia de cada mês.",
+    "fundamentacao": "artigo 168, inciso XVIII, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "10/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Mistura de Óleo Diesel com Biodiesel",
+    "descricao": "Recolhimento do ICMS pela refinaria de petróleo ou suas bases, nas operações interestaduais com o produto resultante da mistura de óleo diesel com biodiesel, devendo ser efetuado o repasse do valor do imposto devido ao Estado do Espírito Santo, limitado ao valor do imposto efetivamente retido e do relativo à operação própria, até o 10º dia do mês subsequente àquele em que tenham ocorrido as operações interestaduais.",
+    "fundamentacao": "artigo 254, § 3º, inciso I, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "13/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Documento de Informações Econômico-Fiscais (DIEF)",
+    "descricao": "Entrega do Documento de Informações Econômico-Fiscais (DIEF) pelos contribuintes inscritos no cadastro de contribuintes do imposto, inclusive os produtores rurais, em relação às operações e prestações realizadas pelo estabelecimento, referentes ao mês imediatamente anterior, até o dia 15 de cada mês.",
+    "fundamentacao": "artigo 769-B, § 2º, do RICMS/ES.",
+    "nota": "O Decreto nº 4.359-R/2019 (Doe 14.01.2019) acrescentou o § 10 no artigo 769-B do RICMS/ES, dispensando os estabelecimentos inscritos no cadastro de contribuintes do ICMS a entregar o DIEF em relação às operações e prestações realizadas pelo estabelecimento a partir do período de referência de janeiro de 2019."
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Café Cru em Grão",
+    "descricao": "Recolhimento de ICMS devido pela venda de café cru em grão, efetuada em Bolsa de Mercadorias ou de Cereais pelo Ministério da Agricultura e do Abastecimento, com intermediação do Banco do Brasil S. A., referente às Notas Fiscais emitidas durante o período compreendido entre os dias 1 e 10, até o dia 15 do mês corrente.",
+    "fundamentacao": "artigo 317, inciso I, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Diferencial de Alíquotas - Operações Interestaduais Destinadas a Não Contribuintes - EC 87/2015",
+    "descricao": "Recolhimento do ICMS correspondente ao diferencial de alíquotas devido pelo estabelecimento localizado em outra Unidade Federada, com inscrição no cadastro de contribuintes do Estado do Espírito Santo, que realizar operações ou prestações destinadas a não contribuinte do imposto localizado neste Estado. Recolhimento do imposto, até o dia 15 do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "artigo 534-Z-Z-Z-G, § 2º, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Fundo de Combate à Pobreza - EC 87/2015",
+    "descricao": "Recolhimento do ICMS devido a título de Fundo de Combate à Pobreza para contribuintes de outras Unidades da Federação que possuam inscrição auxiliar no Estado do Espírito Santo, recolhimento até o dia 15 do mês subsequente ao da ocorrência do fato gerador.",
+    "fundamentacao": "artigo 534-Z-Z-Z-G, § 2º, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Parcelamento",
+    "descricao": "Recolhimento do débito fiscal vencido, decorrente de operações ou de prestações relativas ao imposto, que tenha sido objeto de parcelamento junto ao Estado, sendo que as parcelas vencerão no dia 15 de cada mês.",
+    "fundamentacao": "artigo 888, inciso II, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Café",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, relativamente às operações com café torrado ou moído, até o 15º dia do mês subsequente ao do respectivo período de apuração.",
+    "fundamentacao": "inciso V, do Anexo Único da Portaria nº 016-R/2019.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Derivados de Farinha de Trigo",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, relativamente às operações com biscoito, pães industrializados e massas de qualquer espécie (derivados de farinha de trigo), até o 15º dia do mês subsequente ao do respectivo período de apuração.",
+    "fundamentacao": "inciso VI, do Anexo Único da Portaria nº 016-R/2019.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Operações Porta-a-Porta",
+    "descricao": "Recolhimento do ICMS devido nas operações sujeitas ao regime da substituição tributária, relativamente às operações relativas à venda por sistema de marketing porta-a-porta a consumidor final, até o 15º dia do mês subsequente ao do respectivo período de apuração.",
+    "fundamentacao": "inciso IX, do Anexo Único da Portaria nº 016-R/2019.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Óleos",
+    "descricao": "Recolhimento do ICMS devido por substituição tributária, relativamente às operações com óleos comestíveis, inclusive azeite, até o 15º dia do mês subsequente ao do respectivo período de apuração.",
+    "fundamentacao": "inciso VII, do Anexo Único da Portaria nº 016-R/2019.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Mapa de Produção - Cooperativas e Laticínios",
+    "descricao": "Emissão, pelas cooperativas e empresas de laticínios, em substituição à nota fiscal de produtor, do Mapa de Produção, conforme modelo constante do Anexo XX do RICMS/ES, que englobe as entradas, no estabelecimento, de leite e de creme de leite. O Mapa de Produção deverá ser elaborado até o dia 15 do mês subsequente ao das respectivas entradas, e permanecerá em poder do contribuinte para apresentação ao Fisco, quando solicitado.",
+    "fundamentacao": "artigo 530-Z-S, parágrafo único, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "15/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Produtor Rural - Crédito de Insumos",
+    "descricao": "Entrega, pelo produtor rural, à Agência da Receita Estadual de sua circunscrição, das primeiras vias das notas fiscais que ensejaram o aproveitamento do crédito nas aquisições dos insumos utilizados na produção de mercadorias. Entrega até o décimo dia útil do mês subsequente ao do aproveitamento.",
+    "fundamentacao": "artigo 91 do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Estabelecimentos Comerciais",
+    "descricao": "Recolhimento do ICMS devido nas operações promovidas por estabelecimentos comerciais, até o 18º dia do mês subsequente ao do respectivo período de apuração. Recolhimento também do diferencial de alíquotas na entrada, no estabelecimento de contribuinte, de mercadoria oriunda de outra unidade da Federação, destinada a consumo próprio ou a ativo fixo, ou na contratação de serviços de transporte interestadual.",
+    "fundamentacao": "artigo 168, incisos IX, alínea \"b\", e XV, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Serviços Postais e Telegráficos",
+    "descricao": "Recolhimento do ICMS devido nas prestações promovidas por estabelecimentos prestadores de serviços postais e telegráficos, até o 18º dia do mês subsequente ao do respectivo período de apuração. Recolhimento também do diferencial de alíquotas na entrada, no estabelecimento de contribuinte, de mercadoria oriunda de outra unidade da Federação, destinada a consumo próprio ou a ativo fixo, ou na contratação de serviços de transporte interestadual.",
+    "fundamentacao": "artigo 168, incisos IX, alínea \"a\", e XV do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "18/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Transporte",
+    "descricao": "Recolhimento do ICMS devido nas prestações promovidas por estabelecimentos prestadores de serviços de transporte, até o 18º dia do mês subsequente ao do respectivo período de apuração. Recolhimento também do diferencial de alíquotas na entrada, no estabelecimento de contribuinte, de mercadoria oriunda de outra unidade da Federação, destinada a consumo próprio ou a ativo fixo, ou na contratação de serviços de transporte interestadual.",
+    "fundamentacao": "artigo 168, incisos IX, alínea \"a\", e XV, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "19/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Faturamento Direto a Consumidor de Veículos Novos",
+    "descricao": "Entrega, pelas montadoras e importadoras, de arquivo magnético contendo as operações interestaduais realizadas em que ocorra faturamento direto a consumidor, nos casos em que a entrega do veículo ao consumidor seja feita pela concessionária envolvida na operação e esta operação esteja sujeita ao regime de substituição tributária, até dez dias após o recolhimento do imposto retido por substituição, incluindo as vendas diretas a consumidor.",
+    "fundamentacao": "artigo 231, § 1º, inciso III, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "20/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Escrituração Fiscal Digital (EFD)",
+    "descricao": "Entrega do arquivo digital relativo à EFD - Escrituração Fiscal Digital (SPED Fiscal), contendo a totalidade das informações necessárias à apuração do ICMS e do IPI, bem como de outras informações de interesse do Fisco, referente ao mês anterior, até o dia 20 do mês subsequente ao da apuração.",
+    "fundamentacao": "artigo 758-J do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "Fundo Estadual de Equilíbrio Fiscal (FEEF)",
+    "descricao": "Recolhimento do Fundo Estadual de Equilíbrio Fiscal (FEEF) referente a fruição de incentivos e benefícios fiscais concedidos.",
+    "fundamentacao": "artigo 4º da Lei nº 10.630/2017 c/c artigo 1.212, §1º, inciso II do RICMS/ES.",
+    "nota": "A Lei n° 11.148/2020, alterou o artigo 4° da Lei n° 10.630/2017 prorrogando por prazo indeterminado o prazo de vigência do FEEF."
+  },
+  {
+    "uf": "ES",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Construção Civil",
+    "descricao": "Recolhimento do ICMS devido nas operações promovidas por estabelecimentos inscrito no cadastro de contribuintes do imposto, cuja principal atividade econômica seja construção civil, até o 19º dia do mês subsequente ao do respectivo período de apuração.",
+    "fundamentacao": "artigo 168, inciso XIV, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Estabelecimentos Industriais",
+    "descricao": "Recolhimento do ICMS devido nas operações promovidas por estabelecimentos industriais, até o 19º dia do mês subsequente ao do respectivo período de apuração. Recolhimento também do diferencial de alíquotas na entrada, no estabelecimento de contribuinte, de mercadoria oriunda de outra unidade da Federação, destinada a consumo próprio ou a ativo fixo, ou na contratação de serviços de transporte interestadual.",
+    "fundamentacao": "artigo 168, incisos VIII, e XV do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Serviço de Transporte Ferroviário",
+    "descricao": "Recolhimento do ICMS devido pelas ferrovias que adotem regime especial de apuração e escrituração do imposto em relação a prestação de serviços de transporte ferroviário, relativamente aos serviços de transporte prestados no mês anterior, até o dia 20 do mês subsequente.",
+    "fundamentacao": "artigo 434, inciso X, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "21/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS ST - Simples Nacional - Cimento de qualquer tipo, exceto branco",
+    "descricao": "Recolhimento do ICMS devido nas operações com cimento de qualquer tipo, exceto branco, quando o adquirente optante do Simples Nacional for considerado substituto tributário, até o dia 20 do mês subsequente ao da aquisição da mercadoria. O recolhimento será realizado por meio de DUA eletrônico em separado, com o código de receita 138-4.",
+    "fundamentacao": "artigo 1.154, § 3º, inciso II, do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "23/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético (SCANC) - Refinaria de Petróleo ou Suas Bases, CPQ, UPGN e Formulador de Combustíveis",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pela refinaria de petróleo ou suas bases, a Central de Matéria-Prima Petroquímica (CPQ), a Unidade de Processamento de Gás Natural (UPGN) ou estabelecimento produtor e industrial a ele equiparado, ou o Formulador de Combustíveis, das informações relativas às operações com combustíveis em que o ICMS tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade a um dos sujeitos mencionados, e do repasse do valor do imposto devido às unidades federadas de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente retido, referente ao mês anterior.",
+    "fundamentacao": "Cláusula vigésima sexta, § 1°, inciso V, do Convênio ICMS 110/2007. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 199/2022. Cláusula vigésima segunda, § 1°, inciso V, do Convênio ICMS n° 15/2023 e Ato COTEPE/ICMS 152/2025.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "25/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "FUNDAP",
+    "descricao": "Recolhimento do ICMS relativo ao FUNDAP, até o 26º dia do mês subsequente àquele em que ocorrerem as operações realizadas ao abrigo da Lei nº 2.508/1970.",
+    "fundamentacao": "artigo 168, inciso XVI, do RICMS/ES.",
+    "nota": "Nos meses em que o 26º dia não for considerado dia útil bancário, o recolhimento deverá ser efetuado no último dia útil bancário imediatamente anterior. Excepcionalmente, no mês de fevereiro o recolhimento deverá ser efetuado até o antepenúltimo dia útil bancário do mês e no mês de dezembro o recolhimento deverá ser até o dia 19 ou no último dia útil anterior à referida data."
+  },
+  {
+    "uf": "ES",
+    "data": "25/09/2026",
+    "categoria": "PRINCIPAL",
+    "titulo": "ICMS - Café Cru em Grão",
+    "descricao": "Recolhimento de ICMS devido pela venda de café cru em grão, efetuada em Bolsa de Mercadorias ou de Cereais pelo Ministério da Agricultura e do Abastecimento, com intermediação do Banco do Brasil S. A., referente às Notas Fiscais emitidas durante o período compreendido entre os dias 11 e 20, até o dia 25 do mês corrente.",
+    "fundamentacao": "artigo 317, inciso II do RICMS/ES.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Nota Fiscal de Serviço de Telecomunicação",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte que realizar prestação de serviço de telecomunicação de arquivo contendo informações constantes nos documentos fiscais emitidos em uma única via por sistema eletrônico de processamento de dados, até o último dia do mês subsequente ao do período de apuração.",
+    "fundamentacao": "Artigo 713-E, inciso II, do RICMS/ES e Convênio ICMS 115/2003.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Comunicação",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte que realizar prestação de serviço de comunicação de arquivo contendo informações constantes nos documentos fiscais emitidos em uma única via por sistema eletrônico de processamento de dados, até o último dia do mês subsequente ao do período de apuração.",
+    "fundamentacao": "artigo 713-E, inciso II, do RICMS/ES e Convênio ICMS 115/2003.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Arquivo Magnético - Energia Elétrica",
+    "descricao": "Entrega, por transmissão eletrônica de dados, pelo contribuinte que realizar fornecimento de energia elétrica, de arquivo contendo informações constantes nos documentos fiscais emitidos em uma única via por sistema eletrônico de processamento de dados, até o último dia do mês subsequente ao do período de apuração.",
+    "fundamentacao": "artigo 713-E, inciso II, do RICMS/ES e Convênio ICMS 115/2003.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Declaração de Informações de Meios de Pagamento (DIMP)",
+    "descricao": "Entrega de arquivo eletrônico, pelas administradoras ou operadoras de cartão de crédito ou de débito, contendo as informações relativas a todas as operações de crédito ou débito, com ou sem transferência eletrônica de fundos, realizadas no mês anterior, até o último dia do mês subsequente ao da ocorrência.",
+    "fundamentacao": "Cláusula 3ª do Convênio ICMS 134/2016.",
+    "nota": ""
+  },
+  {
+    "uf": "ES",
+    "data": "30/09/2026",
+    "categoria": "ACESSORIA",
+    "titulo": "Emissor de Cupom Fiscal - Arquivo Eletrônico",
+    "descricao": "Entrega de arquivo eletrônico pelo contribuinte usuário de Emissor de Cupom Fiscal (ECF), referente à totalidade dos dias de funcionamento do estabelecimento, contendo o Movimento por ECF, até o último dia do mês subsequente ao das operações.",
+    "fundamentacao": "artigo 699-Z-I, § 3º do RICMS/ES.",
+    "nota": "Apesar da referida obrigação constar na legislação estadual, de acordo com o artigo 2° da Portaria n° 08-R/2017, desde 01.01.2018 todos os contribuintes estão obrigados a emissão da NFC-e em substituição ao ECF."
+  }
+]
