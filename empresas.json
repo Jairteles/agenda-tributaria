@@ -1,0 +1,992 @@
+[
+  {
+    "codigo": 1,
+    "cnpj": "03.052.564/0001-66",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "407578172117",
+    "cidade": "JUNDIAI",
+    "uf": "SP",
+    "filtro": "1 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 2,
+    "cnpj": "03.052.564/0003-28",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "293841756",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "2 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 3,
+    "cnpj": "03.052.564/0004-09",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "033335079",
+    "cidade": "CABO DE SANTO AGOSTINHO",
+    "uf": "PE",
+    "filtro": "3 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 5,
+    "cnpj": "03.052.564/0007-51",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "182189594117",
+    "cidade": "ARARAS",
+    "uf": "SP",
+    "filtro": "5 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 6,
+    "cnpj": "03.052.564/0005-90",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "74990924",
+    "cidade": "FEIRA DE SANTANA",
+    "uf": "BA",
+    "filtro": "6 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 7,
+    "cnpj": "03.052.564/0008-32",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "152685480",
+    "cidade": "MARITUBA",
+    "uf": "PA",
+    "filtro": "7 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 8,
+    "cnpj": "03.052.564/0012-19",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "123803306",
+    "cidade": "SAO LUIS",
+    "uf": "MA",
+    "filtro": "8 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 9,
+    "cnpj": "03.052.564/0013-08",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "66144507",
+    "cidade": "MARACANAU",
+    "uf": "CE",
+    "filtro": "9 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 10,
+    "cnpj": "03.052.564/0018-04",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "195745124",
+    "cidade": "TERESINA",
+    "uf": "PI",
+    "filtro": "10 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 11,
+    "cnpj": "03.052.564/0015-61",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "106189271",
+    "cidade": "APARECIDA DE GOIANIA",
+    "uf": "GO",
+    "filtro": "11 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 12,
+    "cnpj": "03.052.564/0014-80",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "257527397",
+    "cidade": "CONCORDIA",
+    "uf": "SC",
+    "filtro": "12 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 13,
+    "cnpj": "03.052.564/0017-23",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "2720009886",
+    "cidade": "ESTACAO",
+    "uf": "RS",
+    "filtro": "13 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 14,
+    "cnpj": "03.052.564/0016-42",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "0024821900041",
+    "cidade": "ITUIUTABA",
+    "uf": "MG",
+    "filtro": "14 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 15,
+    "cnpj": "03.052.564/0019-95",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "083532951",
+    "cidade": "VILA VELHA",
+    "uf": "ES",
+    "filtro": "15 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 16,
+    "cnpj": "03.052.564/0020-29",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "163322414",
+    "cidade": "CONDE",
+    "uf": "PB",
+    "filtro": "16 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 17,
+    "cnpj": "03.052.564/0021-00",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "107521229",
+    "cidade": "APARECIDA DE GOIANIA",
+    "uf": "GO",
+    "filtro": "17 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 18,
+    "cnpj": "03.052.564/0022-90",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "11622720",
+    "cidade": "NOVA IGUACU",
+    "uf": "RJ",
+    "filtro": "18 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 19,
+    "cnpj": "03.052.564/0024-52",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "138020442",
+    "cidade": "PRIMAVERA DO LESTE",
+    "uf": "MT",
+    "filtro": "19 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 20,
+    "cnpj": "03.052.564/0023-71",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "126348723",
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "filtro": "20 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 21,
+    "cnpj": "03.052.564/0025-33",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "05788056",
+    "cidade": "ARIQUEMES",
+    "uf": "RO",
+    "filtro": "21 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 22,
+    "cnpj": "03.052.564/0026-14",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "9087253527",
+    "cidade": "CAMBE",
+    "uf": "PR",
+    "filtro": "22 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 23,
+    "cnpj": "03.052.564/0028-86",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "138549974",
+    "cidade": "LUCAS DO RIO VERDE",
+    "uf": "MT",
+    "filtro": "23 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 26,
+    "cnpj": "03.052.564/0030-09",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "206363095",
+    "cidade": "NATAL",
+    "uf": "RN",
+    "filtro": "26 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 27,
+    "cnpj": "03.052.564/0031-81",
+    "nome": "TRANS KOTHE TRANSPORTES RODOVIARIOS SA",
+    "ie": "271942460",
+    "cidade": "NOSSA SENHORA DO SOCORRO",
+    "uf": "SE",
+    "filtro": "27 - TRANS KOTHE TRANSPORTES RODOVIARIOS SA"
+  },
+  {
+    "codigo": 201,
+    "cnpj": "52.527.945/0001-60",
+    "nome": "AGRO LOG LTDA",
+    "ie": "125919063113",
+    "cidade": "JUNDIAI",
+    "uf": "SP",
+    "filtro": "201 - AGRO LOG LTDA"
+  },
+  {
+    "codigo": 203,
+    "cnpj": "52.527.945/0003-21",
+    "nome": "AGRO LOG LTDA",
+    "ie": "140460691",
+    "cidade": "LUCAS DO RIO VERDE",
+    "uf": "MT",
+    "filtro": "203 - AGRO LOG LTDA"
+  },
+  {
+    "codigo": 205,
+    "cnpj": "52.527.945/0005-93",
+    "nome": "AGRO LOG LTDA",
+    "ie": "750000465",
+    "cidade": "MARABA",
+    "uf": "PA",
+    "filtro": "205 - AGRO LOG LTDA"
+  },
+  {
+    "codigo": 206,
+    "cnpj": "52.527.945/0007-55",
+    "nome": "AGRO LOG LTDA",
+    "ie": "750304600",
+    "cidade": "BARCARENA",
+    "uf": "PA",
+    "filtro": "206 - AGRO LOG LTDA"
+  },
+  {
+    "codigo": 207,
+    "cnpj": "52.527.945/0006-74",
+    "nome": "AGRO LOG LTDA",
+    "ie": "141264632",
+    "cidade": "DIAMANTINO",
+    "uf": "MT",
+    "filtro": "207 - AGRO LOG LTDA"
+  },
+  {
+    "codigo": 251,
+    "cnpj": "53.056.499/0001-15",
+    "nome": "HOLDING LAMK PARTICIPACOES LTDA",
+    "ie": "ISENTO",
+    "cidade": "JUNDIAI",
+    "uf": "SP",
+    "filtro": "251 - HOLDING LAMK PARTICIPACOES LTDA"
+  },
+  {
+    "codigo": 261,
+    "cnpj": "53.060.858/0001-08",
+    "nome": "HOLDING VK3 PARTICIPACOES LTDA",
+    "ie": "ISENTO",
+    "cidade": "JUNDIAI",
+    "uf": "SP",
+    "filtro": "261 - HOLDING VK3 PARTICIPACOES LTDA"
+  },
+  {
+    "codigo": 271,
+    "cnpj": "53.075.755/0001-11",
+    "nome": "HOLDING GIG PARTICIPACOES LTDA",
+    "ie": "ISENTO",
+    "cidade": "ARARAS",
+    "uf": "SP",
+    "filtro": "271 - HOLDING GIG PARTICIPACOES LTDA"
+  },
+  {
+    "codigo": 281,
+    "cnpj": "53.144.701/0001-60",
+    "nome": "HOLDING BPK PARTICIPACOES LTDA",
+    "ie": "ISENTO",
+    "cidade": "CAMPINAS",
+    "uf": "SP",
+    "filtro": "281 - HOLDING BPK PARTICIPACOES LTDA"
+  },
+  {
+    "codigo": 291,
+    "cnpj": "53.139.873/0001-46",
+    "nome": "HOLDING UNION PARTICIPACOES LTDA",
+    "ie": "ISENTO",
+    "cidade": "JUNDIAI",
+    "uf": "SP",
+    "filtro": "291 - HOLDING UNION PARTICIPACOES LTDA"
+  },
+  {
+    "codigo": 301,
+    "cnpj": "04.972.349/0001-46",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": 257191437,
+    "cidade": "JUNDIAI",
+    "uf": "SP",
+    "filtro": "301 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 302,
+    "cnpj": "04.972.349/0007-31",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "164534235",
+    "cidade": "FEIRA DE SANTANA",
+    "uf": "BA",
+    "filtro": "302 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 303,
+    "cnpj": "04.972.349/0008-12",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "071439790",
+    "cidade": "MARACANAU",
+    "uf": "CE",
+    "filtro": "303 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 304,
+    "cnpj": "04.972.349/0006-50",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "137994524",
+    "cidade": "PRIMAVERA DO LESTE",
+    "uf": "MT",
+    "filtro": "304 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 305,
+    "cnpj": "04.972.349/0010-37",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "156764334",
+    "cidade": "XINGUARA",
+    "uf": "PA",
+    "filtro": "305 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 306,
+    "cnpj": "04.972.349/0011-18",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "126316635",
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "filtro": "306 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 307,
+    "cnpj": "04.972.349/0009-01",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "086926454",
+    "cidade": "CABO DE SANTO AGOSTINHO",
+    "uf": "PE",
+    "filtro": "307 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 308,
+    "cnpj": "04.972.349/0012-07",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "ISENTO",
+    "cidade": "ARARAS",
+    "uf": "SP",
+    "filtro": "308 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 309,
+    "cnpj": "04.972.349/0013-80",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "107891883",
+    "cidade": "APARECIDA DE GOIANIA",
+    "uf": "GO",
+    "filtro": "309 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 311,
+    "cnpj": "04.972.349/0016-22",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "083649417",
+    "cidade": "VILA VELHA",
+    "uf": "ES",
+    "filtro": "311 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 312,
+    "cnpj": "04.972.349/0017-03",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "126409498",
+    "cidade": "SAO LUIS",
+    "uf": "MA",
+    "filtro": "312 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 313,
+    "cnpj": "04.972.349/0018-94",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "00000005646553",
+    "cidade": "ARIQUEMES",
+    "uf": "RO",
+    "filtro": "313 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 314,
+    "cnpj": "04.972.349/0014-60",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "407792323111",
+    "cidade": "JUNDIAI",
+    "uf": "SP",
+    "filtro": "314 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 315,
+    "cnpj": "04.972.349/0019-75",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "295040602",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "315 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 316,
+    "cnpj": "04.972.349/0020-09",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "138411891",
+    "cidade": "LUCAS DO RIO VERDE",
+    "uf": "MT",
+    "filtro": "316 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 318,
+    "cnpj": "04.972.349/0023-51",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "138850836",
+    "cidade": "PRIMAVERA DO LESTE",
+    "uf": "MT",
+    "filtro": "318 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 320,
+    "cnpj": "04.972.349/0025-13",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "139285857",
+    "cidade": "DIAMANTINO",
+    "uf": "MT",
+    "filtro": "320 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 326,
+    "cnpj": "04.972.349/0026-02",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "6427693",
+    "cidade": "ARIQUEMES",
+    "uf": "RO",
+    "filtro": "326 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 327,
+    "cnpj": "04.972.349/0027-85",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "00000006753426",
+    "cidade": "ARIQUEMES",
+    "uf": "RO",
+    "filtro": "327 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 328,
+    "cnpj": "04.972.349/0028-66",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "159115760",
+    "cidade": "MARITUBA",
+    "uf": "PA",
+    "filtro": "328 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 329,
+    "cnpj": "04.972.349/0029-47",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "14768998",
+    "cidade": "NOVA IGUACU",
+    "uf": "RJ",
+    "filtro": "329 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 330,
+    "cnpj": "04.972.349/0030-80",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "388154679118",
+    "cidade": "ITUPEVA",
+    "uf": "SP",
+    "filtro": "330 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 331,
+    "cnpj": "04.972.349/0031-61",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "49397740024",
+    "cidade": "UBERLANDIA",
+    "uf": "MG",
+    "filtro": "331 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 332,
+    "cnpj": "04.972.349/0032-42",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "129230065",
+    "cidade": "SAO LUIS",
+    "uf": "MA",
+    "filtro": "332 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 333,
+    "cnpj": "04.972.349/0033-23",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "073042234",
+    "cidade": "MARACANAU",
+    "uf": "CE",
+    "filtro": "333 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 334,
+    "cnpj": "04.972.349/0034-04",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "75.071.910-9",
+    "cidade": "MARABA",
+    "uf": "PA",
+    "filtro": "334 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 335,
+    "cnpj": "04.972.349/0035-95",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "264016807",
+    "cidade": "PINHALZINHO",
+    "uf": "SC",
+    "filtro": "335 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 336,
+    "cnpj": "04.972.349/0036-76",
+    "nome": "KOTHE LOGISTICA LTDA",
+    "ie": "198116225",
+    "cidade": "BOM JESUS",
+    "uf": "PI",
+    "filtro": "336 - KOTHE LOGISTICA LTDA"
+  },
+  {
+    "codigo": 351,
+    "cnpj": "10.387.941/0001-83",
+    "nome": "PRIME LOCACOES E EMPREENDIMENTOS LTDA",
+    "ie": "ISENTO",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "351 - PRIME LOCACOES E EMPREENDIMENTOS LTDA"
+  },
+  {
+    "codigo": 352,
+    "cnpj": "10.387.941/0002-64",
+    "nome": "PRIME LOCACOES E EMPREENDIMENTOS LTDA",
+    "ie": "ISENTO",
+    "cidade": "LUCAS DO RIO VERDE",
+    "uf": "MT",
+    "filtro": "352 - PRIME LOCACOES E EMPREENDIMENTOS LTDA"
+  },
+  {
+    "codigo": 353,
+    "cnpj": "10.387.941/0003-45",
+    "nome": "PRIME LOCACOES E EMPREENDIMENTOS LTDA",
+    "ie": "ISENTO",
+    "cidade": "CABO DE SANTO AGOSTINHO",
+    "uf": "PE",
+    "filtro": "353 - PRIME LOCACOES E EMPREENDIMENTOS LTDA"
+  },
+  {
+    "codigo": 354,
+    "cnpj": "10.387.941/0004-26",
+    "nome": "PRIME LOCACOES E EMPREENDIMENTOS LTDA",
+    "ie": "ISENTO",
+    "cidade": "ARARAS",
+    "uf": "SP",
+    "filtro": "354 - PRIME LOCACOES E EMPREENDIMENTOS LTDA"
+  },
+  {
+    "codigo": 355,
+    "cnpj": "10.387.941/0005-07",
+    "nome": "PRIME LOCACOES E EMPREENDIMENTOS LTDA",
+    "ie": "ISENTO",
+    "cidade": "OSASCO",
+    "uf": "SP",
+    "filtro": "355 - PRIME LOCACOES E EMPREENDIMENTOS LTDA"
+  },
+  {
+    "codigo": 356,
+    "cnpj": "10.387.941/0006-98",
+    "nome": "PRIME LOCACOES E EMPREENDIMENTOS LTDA",
+    "ie": "ISENTO",
+    "cidade": "TERESINA",
+    "uf": "PI",
+    "filtro": "356 - PRIME LOCACOES E EMPREENDIMENTOS LTDA"
+  },
+  {
+    "codigo": 371,
+    "cnpj": "53.703.663/0001-39",
+    "nome": "KOTHE AGRICOLA LTDA",
+    "ie": "295387220",
+    "cidade": "PAU D`ARCO",
+    "uf": "TO",
+    "filtro": "371 - KOTHE AGRICOLA LTDA"
+  },
+  {
+    "codigo": 372,
+    "cnpj": "53.703.663/0002-10",
+    "nome": "KOTHE AGRICOLA LTDA",
+    "ie": "295541571",
+    "cidade": "WANDERLANDIA",
+    "uf": "TO",
+    "filtro": "372 - KOTHE AGRICOLA LTDA"
+  },
+  {
+    "codigo": 381,
+    "cnpj": "53.523.974/0001-16",
+    "nome": "ARAGUAIA AGENCIAMENTO LTDA",
+    "ie": 295384972,
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "381 - ARAGUAIA AGENCIAMENTO LTDA"
+  },
+  {
+    "codigo": 401,
+    "cnpj": "05.493.203/0001-80",
+    "nome": "POSTO DE COMBUSTIVEIS CONCORDIA LTDA",
+    "ie": "293445680",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "401 - POSTO DE COMBUSTIVEIS CONCORDIA LTDA"
+  },
+  {
+    "codigo": 410,
+    "cnpj": "62.511.425/0001-12",
+    "nome": "KOTRANS TRANSPORTES RODOVIARIOS LTDA",
+    "ie": "203137523",
+    "cidade": "APARECIDA DE GOIANIA",
+    "uf": "GO",
+    "filtro": "410 - KOTRANS TRANSPORTES RODOVIARIOS LTDA"
+  },
+  {
+    "codigo": 411,
+    "cnpj": "62.511.425/0002-01",
+    "nome": "KOTRANS TRANSPORTES RODOVIARIOS LTDA",
+    "ie": "295722240",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "411 - KOTRANS TRANSPORTES RODOVIARIOS LTDA"
+  },
+  {
+    "codigo": 412,
+    "cnpj": "62.511.425/0003-84",
+    "nome": "KOTRANS TRANSPORTES RODOVIARIOS LTDA",
+    "ie": "129233200",
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "filtro": "412 - KOTRANS TRANSPORTES RODOVIARIOS LTDA"
+  },
+  {
+    "codigo": 413,
+    "cnpj": "62.511.425/0004-65",
+    "nome": "KOTRANS TRANSPORTES RODOVIARIOS LTDA",
+    "ie": "197987664",
+    "cidade": "TERESINA",
+    "uf": "PI",
+    "filtro": "413 - KOTRANS TRANSPORTES RODOVIARIOS LTDA"
+  },
+  {
+    "codigo": 414,
+    "cnpj": "62.511.425/0005-46",
+    "nome": "KOTRANS TRANSPORTES RODOVIARIOS LTDA",
+    "ie": "750519320",
+    "cidade": "MARABA",
+    "uf": "PA",
+    "filtro": "414 - KOTRANS TRANSPORTES RODOVIARIOS LTDA"
+  },
+  {
+    "codigo": 415,
+    "cnpj": "62.511.425/0006-27",
+    "nome": "KOTRANS TRANSPORTES RODOVIARIOS LTDA",
+    "ie": "141465085",
+    "cidade": "PRIMAVERA DO LESTE",
+    "uf": "MT",
+    "filtro": "415 - KOTRANS TRANSPORTES RODOVIARIOS LTDA"
+  },
+  {
+    "codigo": 416,
+    "cnpj": "62.511.425/0007-08",
+    "nome": "KOTRANS TRANSPORTES RODOVIARIOS LTDA",
+    "ie": "12.944.649-1",
+    "cidade": "SAO LUIS",
+    "uf": "MA",
+    "filtro": "416 - KOTRANS TRANSPORTES RODOVIARIOS LTDA"
+  },
+  {
+    "codigo": 417,
+    "cnpj": "62.511.425/0008-99",
+    "nome": "KOTRANS TRANSPORTES RODOVIARIOS LTDA",
+    "ie": "500094195",
+    "cidade": "DOURADOS",
+    "uf": "MS",
+    "filtro": "417 - KOTRANS TRANSPORTES RODOVIARIOS LTDA"
+  },
+  {
+    "codigo": 418,
+    "cnpj": "62.511.425/0009-70",
+    "nome": "KOTRANS TRANSPORTES RODOVIARIOS LTDA",
+    "ie": 245411373,
+    "cidade": "FEIRA DE SANTANA",
+    "uf": "BA",
+    "filtro": "418 - KOTRANS TRANSPORTES RODOVIARIOS LTDA"
+  },
+  {
+    "codigo": 451,
+    "cnpj": "22.209.310/0001-53",
+    "nome": "4K COMERCIO E LOCACOES DE VEICULOS LTDA",
+    "ie": "261712942",
+    "cidade": "ITAJAI",
+    "uf": "SC",
+    "filtro": "451 - 4K COMERCIO E LOCACOES DE VEICULOS LTDA"
+  },
+  {
+    "codigo": 452,
+    "cnpj": "22.209.310/0002-34",
+    "nome": "4K COMERCIO E LOCACOES DE VEICULOS LTDA",
+    "ie": "182209920112",
+    "cidade": "ARARAS",
+    "uf": "SP",
+    "filtro": "452 - 4K COMERCIO E LOCACOES DE VEICULOS LTDA"
+  },
+  {
+    "codigo": 453,
+    "cnpj": "22.209.310/0003-15",
+    "nome": "4K COMERCIO E LOCACOES DE VEICULOS LTDA",
+    "ie": "0036310110012",
+    "cidade": "POUSO ALEGRE",
+    "uf": "MG",
+    "filtro": "453 - 4K COMERCIO E LOCACOES DE VEICULOS LTDA"
+  },
+  {
+    "codigo": 454,
+    "cnpj": "22.209.310/0004-04",
+    "nome": "4K COMERCIO E LOCACOES DE VEICULOS LTDA",
+    "ie": "295219440",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "454 - 4K COMERCIO E LOCACOES DE VEICULOS LTDA"
+  },
+  {
+    "codigo": 455,
+    "cnpj": "22.209.310/0005-87",
+    "nome": "4K COMERCIO E LOCACOES DE VEICULOS LTDA",
+    "ie": "261758039",
+    "cidade": "CHAPECO",
+    "uf": "SC",
+    "filtro": "455 - 4K COMERCIO E LOCACOES DE VEICULOS LTDA"
+  },
+  {
+    "codigo": 501,
+    "cnpj": "22.360.573/0001-69",
+    "nome": "BRII HOTEL LTDA",
+    "ie": "294909524",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "501 - BRII HOTEL LTDA"
+  },
+  {
+    "codigo": 521,
+    "cnpj": "44.014.133/0001-92",
+    "nome": "BRII RESTAURANTE LTDA (INATIVO / BAIXADO",
+    "ie": "295181419",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "521 - BRII RESTAURANTE LTDA (INATIVO / BAIXADO"
+  },
+  {
+    "codigo": 541,
+    "cnpj": "49.174.027/0001-90",
+    "nome": "BRII RESTAURANTE LTDA",
+    "ie": "ISENTO",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "541 - BRII RESTAURANTE LTDA"
+  },
+  {
+    "codigo": 551,
+    "cnpj": "18.998.326/0001-15",
+    "nome": "UNION PARTICIPACOES LTDA",
+    "ie": "0",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "551 - UNION PARTICIPACOES LTDA"
+  },
+  {
+    "codigo": 601,
+    "cnpj": "08.387.915/0001-03",
+    "nome": "NORTH SERVICE - MONITORAMENTO DE VEICULO",
+    "ie": "293967067",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "601 - NORTH SERVICE - MONITORAMENTO DE VEICULO"
+  },
+  {
+    "codigo": 602,
+    "cnpj": "08.387.915/0002-94",
+    "nome": "NORTH SERVICE - MONITORAMENTO DE VEICULO",
+    "ie": "11527884",
+    "cidade": "NOVA IGUACU",
+    "uf": "RJ",
+    "filtro": "602 - NORTH SERVICE - MONITORAMENTO DE VEICULO"
+  },
+  {
+    "codigo": 651,
+    "cnpj": "76.354.356/0001-95",
+    "nome": "NORTE SUL LOG LTDA",
+    "ie": "295111798",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "651 - NORTE SUL LOG LTDA"
+  },
+  {
+    "codigo": 652,
+    "cnpj": "76.354.356/0002-76",
+    "nome": "NORTE SUL LOG LTDA",
+    "ie": "108540120",
+    "cidade": "APARECIDA DE GOIANIA",
+    "uf": "GO",
+    "filtro": "652 - NORTE SUL LOG LTDA"
+  },
+  {
+    "codigo": 653,
+    "cnpj": "76.354.356/0003-57",
+    "nome": "NORTE SUL LOG LTDA",
+    "ie": "139972714",
+    "cidade": "PRIMAVERA DO LESTE",
+    "uf": "MT",
+    "filtro": "653 - NORTE SUL LOG LTDA"
+  },
+  {
+    "codigo": 654,
+    "cnpj": "76.354.356/0004-38",
+    "nome": "NORTE SUL LOG LTDA",
+    "ie": "139972722",
+    "cidade": "LUCAS DO RIO VERDE",
+    "uf": "MT",
+    "filtro": "654 - NORTE SUL LOG LTDA"
+  },
+  {
+    "codigo": 655,
+    "cnpj": "76.354.356/0005-19",
+    "nome": "NORTE SUL LOG LTDA",
+    "ie": "128040335",
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "filtro": "655 - NORTE SUL LOG LTDA"
+  },
+  {
+    "codigo": 656,
+    "cnpj": "76.354.356/0006-08",
+    "nome": "NORTE SUL LOG LTDA",
+    "ie": "200523945",
+    "cidade": "SANTA HELENA DE GOIAS",
+    "uf": "GO",
+    "filtro": "656 - NORTE SUL LOG LTDA"
+  },
+  {
+    "codigo": 657,
+    "cnpj": "76.354.356/0007-80",
+    "nome": "NORTE SUL LOG LTDA",
+    "ie": "262475537",
+    "cidade": "PINHALZINHO",
+    "uf": "SC",
+    "filtro": "657 - NORTE SUL LOG LTDA"
+  },
+  {
+    "codigo": 661,
+    "cnpj": "48.460.431/0001-67",
+    "nome": "KASTELO EMPREEND. IMOBILIARIOS LTDA",
+    "ie": "ISENTO",
+    "cidade": "ITAJAI",
+    "uf": "SC",
+    "filtro": "661 - KASTELO EMPREEND. IMOBILIARIOS LTDA"
+  },
+  {
+    "codigo": 701,
+    "cnpj": "16.940.642/0001-00",
+    "nome": "IGG EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "ie": "ISENTO",
+    "cidade": "ANANAS",
+    "uf": "TO",
+    "filtro": "701 - IGG EMPREENDIMENTOS IMOBILIARIOS LTDA"
+  },
+  {
+    "codigo": 720,
+    "cnpj": "62.630.258/0001-29",
+    "nome": "KOTHE SEMENTES LTDA",
+    "ie": "14.156.937-9",
+    "cidade": "DIAMANTINO",
+    "uf": "MT",
+    "filtro": "720 - KOTHE SEMENTES LTDA"
+  },
+  {
+    "codigo": 801,
+    "cnpj": "04.676.693/0001-98",
+    "nome": "CALIFORNIA LTDA",
+    "ie": "29.069.429-9",
+    "cidade": "ANANAS",
+    "uf": "TO",
+    "filtro": "801 - CALIFORNIA LTDA"
+  },
+  {
+    "codigo": 851,
+    "cnpj": "19.892.146/0001-17",
+    "nome": "ARH AGENCIAMENTO E SERVICOS DE CARGAS LT",
+    "ie": "ISENTO",
+    "cidade": "JUNDIAI",
+    "uf": "SP",
+    "filtro": "851 - ARH AGENCIAMENTO E SERVICOS DE CARGAS LT"
+  },
+  {
+    "codigo": 901,
+    "cnpj": "26.333.693/0001-28",
+    "nome": "REDE K COMBUSTIVEIS LTDA",
+    "ie": "294765000",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "901 - REDE K COMBUSTIVEIS LTDA"
+  },
+  {
+    "codigo": 911,
+    "cnpj": "29.690.016/0001-55",
+    "nome": "K EXPRESS CONVENIENCIA LTDA",
+    "ie": "294852492",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "911 - K EXPRESS CONVENIENCIA LTDA"
+  },
+  {
+    "codigo": 931,
+    "cnpj": "58.318.407/0001-41",
+    "nome": "K LOG LTDA",
+    "ie": "263298671",
+    "cidade": "CHAPECO",
+    "uf": "SC",
+    "filtro": "931 - K LOG LTDA"
+  },
+  {
+    "codigo": 932,
+    "cnpj": "58.318.407/0002-22",
+    "nome": "K LOG LTDA",
+    "ie": "671689257117",
+    "cidade": "SUMARE",
+    "uf": "SP",
+    "filtro": "932 - K LOG LTDA"
+  },
+  {
+    "codigo": 968,
+    "cnpj": "34.098.546/0001-49",
+    "nome": "KASA TRANSPORTES E EMPREEND IMOB LTDA",
+    "ie": "295267925",
+    "cidade": "ARAGUAINA",
+    "uf": "TO",
+    "filtro": "968 - KASA TRANSPORTES E EMPREEND IMOB LTDA"
+  },
+  {
+    "codigo": 978,
+    "cnpj": "17.615.780/0001-87",
+    "nome": "NORTE SUL TRANSPORTES LTDA",
+    "ie": "256959528",
+    "cidade": "CONCORDIA",
+    "uf": "SC",
+    "filtro": "978 - NORTE SUL TRANSPORTES LTDA"
+  }
+]

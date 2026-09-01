@@ -16,6 +16,7 @@ import streamlit as st
 
 BASE_DIR = Path(__file__).parent
 DATA_PATH = BASE_DIR / "agenda_data.json"
+EMPRESAS_PATH = BASE_DIR / "empresas.json"
 FAVORITOS_PATH = BASE_DIR / "favoritos.json"
 
 UF_NOMES = {
@@ -25,8 +26,10 @@ UF_NOMES = {
     "MT": "Mato Grosso", "PA": "Pará", "PB": "Paraíba", "PE": "Pernambuco",
     "PI": "Piauí", "PR": "Paraná", "RJ": "Rio de Janeiro", "RN": "Rio Grande do Norte",
     "RO": "Rondônia", "RS": "Rio Grande do Sul", "SC": "Santa Catarina", "SE": "Sergipe",
+    "SP": "São Paulo", "TO": "Tocantins",
 }
 ESTADOS_ORDENADOS = sorted(c for c in UF_NOMES if c != "FEDERAL")
+PLACEHOLDER_EMPRESA = "— selecionar —"
 
 MESES_PT = [
     "janeiro", "fevereiro", "março", "abril", "maio", "junho",
@@ -70,6 +73,13 @@ class Item:
 def carregar_dados() -> list[Item]:
     bruto = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     return [Item(**registro) for registro in bruto]
+
+
+@st.cache_data
+def carregar_empresas() -> list[dict]:
+    if not EMPRESAS_PATH.exists():
+        return []
+    return json.loads(EMPRESAS_PATH.read_text(encoding="utf-8"))
 
 
 def carregar_favoritos() -> set[str]:
@@ -162,13 +172,41 @@ def main() -> None:
     st.set_page_config(page_title="Agenda Tributária", page_icon="🧾", layout="wide")
 
     itens = carregar_dados()
+    empresas = carregar_empresas()
     favoritos = carregar_favoritos()
     opcoes_mes = meses_disponiveis(itens)
+    ufs_com_agenda = {item.uf for item in itens}
+
+    st.session_state.setdefault("uf_select", "FEDERAL")
+
+    def ao_selecionar_empresa() -> None:
+        escolha = st.session_state["empresa_select"]
+        if escolha == PLACEHOLDER_EMPRESA:
+            return
+        empresa = empresa_por_filtro[escolha]
+        st.session_state["uf_select"] = empresa["uf"]
 
     st.title("🧾 Agenda Tributária")
 
     with st.sidebar:
         st.header("Filtros")
+
+        if empresas:
+            empresa_por_filtro = {e["filtro"]: e for e in empresas}
+            st.selectbox(
+                "Empresa / estabelecimento",
+                options=[PLACEHOLDER_EMPRESA] + [e["filtro"] for e in empresas],
+                key="empresa_select",
+                on_change=ao_selecionar_empresa,
+                help="Selecionar uma empresa preenche automaticamente o estado abaixo, conforme a UF do estabelecimento (Filtro.xlsx).",
+            )
+            escolha_empresa = st.session_state.get("empresa_select", PLACEHOLDER_EMPRESA)
+            if escolha_empresa != PLACEHOLDER_EMPRESA:
+                empresa_sel = empresa_por_filtro[escolha_empresa]
+                st.caption(
+                    f"📍 {empresa_sel['cidade']} — {empresa_sel['uf']} · "
+                    f"CNPJ {empresa_sel['cnpj']} · IE {empresa_sel['ie']}"
+                )
 
         chave_mes = st.selectbox(
             "Mês",
@@ -182,9 +220,12 @@ def main() -> None:
             "Estado",
             options=opcoes_uf,
             format_func=lambda c: "Todos os estados" if c == "TODOS" else f"{c} — {UF_NOMES[c]}",
-            index=0,
+            key="uf_select",
         )
         st.session_state["mostrar_uf_no_titulo"] = uf_selecionado == "TODOS"
+
+        if uf_selecionado not in ("FEDERAL", "TODOS") and uf_selecionado not in ufs_com_agenda:
+            st.warning(f"Ainda não carregamos a agenda de {UF_NOMES[uf_selecionado]} ({uf_selecionado}).")
 
         categoria = st.radio("Categoria", ["Todas", "Principal", "Acessória"], horizontal=True)
         so_icms = st.checkbox("Só ICMS")
